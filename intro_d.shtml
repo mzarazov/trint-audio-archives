@@ -1,0 +1,574 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Intro D: Mini-FAQ on Grammar, Usage &amp; Punctuation</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>Intro D: Mini-FAQ on Grammar, Usage &amp; Punctuation</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Intro D -->
+       <!-- indexer: Sections -->
+       <!-- indexer: StartSkip -->
+<!--
+WARNING! YOU PROBABLY DON'T WANT TO EDIT THIS FILE.
+       IT WAS CREATED BY THE SCRIPT "convert_intro.pl".
+       EDIT THE SCRIPT OR ITS TEMPLATES INSTEAD.
+  
+-->					
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><font color="#FF0000">D</font></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#bottom">Bottom</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <pre>
+Subject: Intro D: Mini-FAQ on Grammar, Usage and Punctuation
+
+                                Last Revised 2007-11-27 (27 Nov 2007)
+
+                                * = recently revised
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Intro D: Mini-FAQ on Grammar, Usage and Punctuation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Questions on these topics of grammar, usage, and punctuation are asked
+extremely frequently in alt.usage.english. There are longer answers,
+with more examples, for most of these items in the full AUE FAQ (see end
+of article). Many of these topics cause much argument, and we earnestly
+request that you do some research before deciding to post on these.
+
+
+     CONTENTS OF THIS MINI FAQ:
+
+   - <a href="#Aoran">"A" or "an"</a>
+   - <a href="#Acronymsandotherabbreviationsusinginitialletters">Acronyms and other abbreviations using initial letters</a>
+   - <a href="#Genderneutralpronounsheshevthey">Gender-neutral pronouns: "he/she" -v- "they"</a>
+   - <a href="#Gotten">"Gotten"</a>
+   - <a href="#Groupnounssingularorpluralcompanyisvcompanyare">Group nouns: singular or plural? "company is" -v- "company are"</a>
+   - <a href="#IfIwasvIfIwere">"If I was" -v- "If I were"</a>
+   - <a href="#ItsmevItisI">"It's me" -v- "It is I"</a>
+*  - <a href="#Namesforand">Names for &amp;, @, and #</a>
+   - <a href="#Quotationmarks">Quotation marks</a>
+   - <a href="#Wheretoputapostrophesinpossessiveforms">Where to put apostrophes in possessive forms</a>
+   - <a href="#Whydowesay30yearsoldbuta30yearoldman">Why do we say "30 years old" but "a 30-year-old man"?</a>
+   - <a href="#WheretofindthebigAUEFAQ">Where to find the big AUE FAQ</a>
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------------------------------------------------------<a name=Aoran></a><a name=Aoranx0000></a>
+"A" or "an"
+------------------------------------------------------
+
+"A" is used before words beginning with consonants; "an", before
+words beginning with vowels.  This is determined by sound, not
+spelling ("a history", "an hour", "a unit", "a European", "a one").
+Formerly, "an" was usual before unaccented syllables beginning with
+"h" ("an historian", "an hotel"); these are "now obsolescent" in
+British English (Collins English Dictionary), although "an
+historian" is retained in more dialects than "an hotel".
+
+Before abbreviations, the choice of "a"/"an" depends on how the
+abbreviation is pronounced:
+  "a NATO spokesman" (because "NATO" is pronounced /'neItoU/ or
+"nay-toh")
+  "an NBC spokesman" (because "NBC" is pronounced /Enbi:'si:/ or
+"en-bee-see")
+  "a NY spokesman" (because "NY" is read as "New York").
+
+Is it a FAQ or an FAQ? If you say "fack," use "a". If you say
+"eff-ay-cue," use "an". Such recent terms do not have a single, standard
+pronunciation. For a report on how people say FAQ, URL, and so on, see
+
+   <a href="http://www.onelook.com/survey_results.shtml">http://www.onelook.com/survey_results.shtml</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>----------------------------------------------------------------------<a name=Acronymsandotherabbreviationsusinginitialletters></a><a name=Acrony0001></a>
+Acronyms and other abbreviations using initial letters
+----------------------------------------------------------------------
+
+"NATO", "PTA", "BBC" and "radar" are all abbreviations of phrases, made
+up of the opening letters of their component words:
+
+"NATO"    North Atlantic Treaty Organisation
+"PTA"     Parent-Teacher Association
+"BBC"     British Broadcasting Corporation
+"radar"   RAdio Detection And Ranging
+
+Of these, "NATO" and "radar" are also acronyms, because they can be
+pronounced as single words. Abbreviations like "PTA" are not strictly
+acronyms, but have been variously designated "alphabetisms" and
+"initialisms", although some people do call them acronyms.
+
+See also the previous section, "'A' or 'an'".
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>--------------------------------------------------------------<a name=Genderneutralpronounsheshevthey></a><a name=Gender0002></a>
+Gender-neutral pronouns: "he/she" -v- "they"
+--------------------------------------------------------------
+
+Often it is necessary to use a third person singular pronoun when the
+sex of the person referred to is unknown. This can be done in one of
+several ways, each of which has its critics.
+
+"Each manager must brief his or her staff."
+  (Correct but cumbersome if it occurs frequently.)
+
+"Each manager must brief his/her staff."
+  (Shorter but less elegant.)
+
+"Each manager must brief his staff."
+  (Many people do not accept that masculine includes feminine.)
+
+"Each manager must brief their staff."
+  (This jars with many people.)
+
+"Singular they" is the name generally given to the use of "they",
+"them", "their", or "theirs" with a singular antecedent, as in the
+sentence above. Any verb agreeing with a singular "they" is plural:
+
+"Someone killed him, and they are going to pay for it."
+
+Singular "they" has been used in English since the time of Chaucer, but
+it still has not been established as the standard. For evidence of its
+use in English literature by famous writers, see Henry Churchyard's
+site:
+  <a href="http://www.crossmyt.com/hc/linghebr/austheir.html#X1a">http://www.crossmyt.com/hc/linghebr/austheir.html#X1a</a>
+
+Sometimes, people recommend inventing a totally new word to serve as a
+gender-neutral pronoun. These are discussed in our full FAQ:
+  <a href="excerpts/fxgender.html">http://alt-usage-english.org/excerpts/fxgender.html</a>
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-------------<a name=Gotten></a><a name=Gotten0003></a>
+  "Gotten"
+-------------
+
+Some people ask whether "gotten" is really a word. Yes, in US English,
+"gotten" is the past participle of "to get," just as "forgotten" is the
+past participle of "to forget." It is absolutely standard in the US,
+used in all walks of life; it is not any sort of substandard use
+(foreign learners of English are sometimes puzzled by this). It is an
+old word that can be found in the King James Version of the Bible
+(1611).
+
+In most of England,  "gotten" survives only in the phrase "ill-gotten
+gains, and old citations in the OED suggests that it was more used in
+southern England as an adjective ("gotten goods") than as a verb.
+However, "gotten" as a verb showed up in dialects in the North of
+England into the early 20th century, and in Scottish English to the
+present day. These groups, both represented among early American
+immigrants, might be the source of the US use.
+
+Americans use both "got" and "gotten" depending on
+circumstances; there is more about these words at
+   <a href="http://www-personal.umich.edu/~jlawler/aue/gotten.html">http://www-personal.umich.edu/~jlawler/aue/gotten.html</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------------------------------------------------------------------------<a name=Groupnounssingularorpluralcompanyisvcompanyare></a><a name=Groupn0004></a>
+Group nouns: singular or plural? "company is" -v- "company are"
+------------------------------------------------------------------------
+
+Use of a plural verb after a singular noun denoting a group of persons
+(known as a noun of multitude) is commoner in the U.K. than in the U.S.
+
+American usage is normally to treat such nouns as singular, unless there
+are other influences involved:
+
+"The team plays well."
+"The Giants play well."
+
+In the U.K. the context often indicates whether the group or the
+individuals within it are being referred to:
+
+"My family is on holiday."
+"My family are arguing."
+
+The U.K. assumption is that the group went away on vacation, but that
+the individuals are having a heated debate. Where there is no obvious
+clue from the context, U.K. English speakers may use either singular or
+plural constructions. You may find this discussed in style guides under
+"notional agreement."
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>----------------------------------<a name=IfIwasvIfIwere></a><a name=IfIwas0005></a>
+"If I was" -v- "If I were"
+----------------------------------
+
+The following pair of sentences shows the traditional and useful
+distinction:
+
+"If I was a bully, I apologize."
+"If I were a bully, I would never apologize."
+
+The difference lies in whether or not the speaker believes that the "if"
+clause is true.
+
+"If I was a bully, I apologize."
+
+"I think I did something I should not have. I apologize"
+
+but
+
+"If I were a bully, I would never apologize."
+
+"I don't think I am a bully. A bully would never apologize"
+
+The use of "were", rather than "was", is an example of the use of the
+subjunctive.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-----------------------<a name=ItsmevItisI></a><a name=Itsmev0006></a>
+"It's me" -v- "It is I"
+-----------------------
+
+In colloquial speech, either of these is acceptable, and most people
+would prefer "It's me".  In writing (other than quoted speech) and in
+extremely formal spoken English "It is I" is technically correct
+according to traditional grammar.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-------------------------------<a name=Namesforand></a><a name=Namesf0007></a>
+Names for &amp;, @, and #
+-------------------------------
+
+The discussion here is deliberately kept brief. For a longer discussion
+of formal and informal names, see recommended articles and the "ASCII"
+entry in the Jargon File:
+   <a href="http://www.catb.org/~esr/jargon/html/A/ASCII.html">http://www.catb.org/~esr/jargon/html/A/ASCII.html</a>
+
+&amp; is called "ampersand."
+
+@ is called "commercial at sign," "at sign," or "commercial at." Yes,
+we know it has charming names in other languages. For more on its
+history:
+    <a href="http://www.quinion.com/words/articles/whereat.htm">http://www.quinion.com/words/articles/whereat.htm</a>
+
+# is called "number sign" or "pound sign" in the US. "Pound" refers here
+to weight; "5# bag" means "5-pound bag." This term causes confusion with
+the British "pound sign," the crossed-L for UK currency. In the UK, # is
+often called "hash" (related to hatch marks and cross-hatch). The name
+"octothorpe" was coined in the 1960s by Bell Labs when that key was
+included with touch tone phones.
+
+The musical sharp sign differs slightly in shape. Usually:
+
+ Sharp sign -- vertical uprights: || and slanted cross lines: //
+ Hash/pound sign -- slanted uprights: // and horizontal cross lines: ==.
+ (Depends somewhat on font)
+
+Some British participants report that they occasionally hear "square" for the # symbol on phone keypads. The origin for this term is probably that on some phones in the UK and Europe, the lines of the symbol are at right angles and the corner ends are tiny. A picture is at
+   <a href="keypad.jpg" class="sml %f">http://alt-usage-english.org/keypad.jpg</a>
+
+
+An article about names for the # symbol is found at:
+  <a href="http://en.wikipedia.org/wiki/Number_sign">http://en.wikipedia.org/wiki/Number_sign</a>
+
+Accents and other diacritical marks are discussed on Larry Trask's page:
+    <a href="http://www.cogs.susx.ac.uk/local/doc/punctuation/node43.html">http://www.cogs.susx.ac.uk/local/doc/punctuation/node43.html</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-----------------------<a name=Quotationmarks></a>
+quotation marks
+-----------------------
+
+We frequently receive questions about quotation marks, such as:
+
+-- Do commas and periods (full stops) go inside or outside
+of quotation marks?
+-- What about other ending punctuation, like semicolons and
+question marks?
+-- When do I use single quotation marks and when double?
+-- What is meant by the "logical" sytem and is it better?
+
+There are major differences in US and UK practice on these matters. If
+you want to know what the usual rules are, please consult style guides,
+such as these:
+
+US
+Style guide -- see "5.1.1 Punctuation with Quotation Marks"
+   <a href="http://tinyurl.com/2nnwvlGuide">http://tinyurl.com/2nnwvl
+Guide</a> to Grammar and Writing, by Dr. Charles Darling
+   <a href="http://grammar.ccc.commnet.edu/grammar/marks/quotation.htm">http://grammar.ccc.commnet.edu/grammar/marks/quotation.htm</a>
+
+UK
+The Guardian Unlimited Style Guide
+    <a href="http://www.guardian.co.uk/styleguide/page/0,5817,184823,00.html">http://www.guardian.co.uk/styleguide/page/0,5817,184823,00.html</a>
+
+There are more discussions in other style guides listed in Intro B,
+under "Writing and Grammar Guides On Line," located at:
+    <a href="intro_b.shtml">http://www.alt-usage-english.org/intro_b.shtml</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>--------------------------------------------------------------------<a name=Wheretoputapostrophesinpossessiveforms></a><a name=Wheret0008></a>
+Where to put apostrophes in possessive forms
+--------------------------------------------------------------------
+
+    PRONOUNS
+
+The ONLY personal possessive pronoun with an apostrophe is "one's".
+"Its" means "of it", whereas "it's" is short for "it is".
+
+    NOUNS
+
+1. The standard rule:  Use 's for the singular possessive, and a bare
+apostrophe after the plural suffix -s or -es for the plural possessive:
+
+                      Singular      Plural
+      Nominative      dog           dogs
+      Possessive      dog's         dogs'
+
+2. Nouns ending with the sound [s] or [z]:  The plural suffix is -es
+rather than -s (unless there's already an "e" at the end, as in the
+"-ce" words), but otherwise the rule is the same as above:
+
+                     Singular      Plural
+      Nominative     class         classes
+      Possessive     class's       classes'
+
+3. Plurals not ending in s:  Use 's for the possessive plural (men's,
+people's, sheep's).
+
+4. Some classical names ending in s, such as Jesus and Moses, take a
+bare apostrophe.
+
+Using an apostrophe in a plural which is not a possessive form is almost
+never recommended except where visual confusion would otherwise result,
+as for example in the sentence "Mind your p's and q's".  In forms like
+"the 1980s" or "two CPUs", apostrophes are not recommended today, though
+they were a few decades ago.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------------------------------------------------------------------------<a name=Whydowesay30yearsoldbuta30yearoldman></a><a name=Whydow0009></a>
+Why do we say "30 years old" but "a 30-year-old man"?
+-----------------------------------------------------------------------
+
+This pattern goes all the way back to Old English (alias Anglo-Saxon).
+It's the same reason many of us say that someone is "5 foot 2" rather
+than "5 feet 2".
+
+The source of the idiom is the old genitive plural, which did not end in
+-s, and did not contain a high front vowel to trigger umlaut ("foot" -v-
+"feet").  When the ending was lost because of regular phonetic
+developments, the pattern remained the same, and it now seemed that the
+singular rather than the plural was in use.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>---------------------------------------------<a name=WheretofindthebigAUEFAQ></a><a name=Wheret0010></a>
+Where to find the big AUE FAQ
+---------------------------------------------
+Our FAQ is available at
+
+  <a href="index.shtml">http://www.alt-usage-english.org/</a>
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+This series of seven "Intro Documents" is intended to aid newcomers to
+the newsgroup. The articles are posted frequently in the newsgroup
+and are installed at this Web site for your convenience, along with
+a <a href="/introdocs.shtml">menu of links to the seven Intro documents</a>.
+
+Much of this document is taken from the <a href="/fast_faq.shtml">AUE FAQ</a> (edited by Mark Israel)
+and the rest was written by Albert Marshall and others. Suggestions for
+improvements in clarity, fairness, accuracy, and brevity should be
+emailed to me. -- <a href="/cgi-bin/email.cgi?n=Donna_Richoux&amp;d2=nl&amp;d1=euronet&amp;l=trio">Donna Richoux</a>
+</pre>
+       <!-- indexer: StartSkip -->
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF0000">D</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#top">Top</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

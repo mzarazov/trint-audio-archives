@@ -1,0 +1,320 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Intro G: Where is the FAQ?</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>Intro G: Where is the FAQ?</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Intro G -->
+       <!-- indexer: Sections -->
+       <!-- indexer: StartSkip -->
+<!--
+WARNING! YOU PROBABLY DON'T WANT TO EDIT THIS FILE.
+       IT WAS CREATED BY THE SCRIPT "convert_intro.pl".
+       EDIT THE SCRIPT OR ITS TEMPLATES INSTEAD.
+  
+-->					
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><font color="#FF0000">G</font></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#bottom">Bottom</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <pre>
+Subject: Intro G: Where is the FAQ?
+
+                                   Last Revised 2010-05-30 (30 May 2010)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contents of Intro G: Where is the FAQ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  I. Recommended Resources for Newcomers
+
+    1. Where is the AUE Website?
+
+    2. What will you find at the AUE Website?
+
+  II. Other versions of Mark Israel's FAQ
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I. Recommended Resources for Newcomers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Newcomers to alt.usage.english are strongly advised to make use of
+the AUE Website documents. Links to the lengthy FAQ and all our
+documents can be found on the Home page:
+
+   <a href="index.shtml">http://www.alt-usage-english.org/</a>
+
+
+2. What will you find at the AUE Website? Among other resources:
+
+-- Introduction to alt.usage.english
+A series of seven documents that are posted regularly in the newsgroup
+alt.usage.english, approximately one every two days. The current titles
+in the series are:
+
+    - Intro A: Welcome to AUE and Guidelines for Posting
+    - Intro B: Useful Web Sites for AUE Participants
+    - Intro C: Mini-FAQ on Words and Phrases
+    - Intro D: Mini-FAQ on Grammar, Usage and Punctuation
+    - Intro E: Mini-FAQ on Spelling
+    - Intro F: AUE FAQ Contents
+    - Intro G: Where is the FAQ?
+
+  -- Mark Israel's AUE FAQ
+The AUE FAQ is a large document with hundreds of entries about the
+English language. It was compiled and edited by Mark Israel
+in 1997, and converted to "Fast-Access" form by Bob Cunningham. This
+link:
+
+     <a href="fast_faq.shtml">http://www.alt-usage-english.org/fast_faq.shtml</a>
+
+brings you to the Table of Contents; click on desired heading, and see
+that section only.
+
+-- AUE FAQ Supplement
+Numerous additional topics not covered in Mark Israel's FAQ.
+Please submit entries to <a href="/cgi-bin/email.cgi">the webmaster</a>.
+
+-- a link to www.yaelf.com, an "alternative FAQ" that specializes in
+news stories on language, and recent research.
+
+-- "Search This Site"
+This link offers a Google-based search of entire website PLUS
+a number of other sites on words and language, such as Evan Morris' "Word Detective" and Michael
+Quinion's "World Wide Words."
+    Or use the Quick Search box for the same service.
+
+-- The Audio Archives (primarily to study regional pronunciations)
+
+-- The guide to learning ASCII IPA notation
+
+-- Links to other useful resources
+
+-- What's New
+Has anything changed since you last visited the site? Look here.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+II. Other versions of Mark Israel's FAQ
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Other editions of Mark Israel's FAQ are available. The a.u.e webmaster keeps this list of special editions of the FAQ:
+
+-- "Places to find FAQ documents"
+   <a href="wheres_the_faq.html">http://www.alt-usage-english.org/wheres_the_faq.html</a>
+
+--
+
+Comments and corrections to these "Intro Documents" should be emailed
+to: <a href="/cgi-bin/email.cgi?n=Donna_Richoux&amp;d2=nl&amp;d1=euronet&amp;l=trio">Donna Richoux</a>
+</pre>
+       <!-- indexer: StartSkip -->
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><font color="#FF0000">G</font></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#top">Top</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: The FAQ Supplement</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>The FAQ Supplement</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Supp -->
+       <p>This  is a collection of FAQ-type material that is not contained in <a href="fast_faq.shtml"> 
+ Mark Israel's FAQ</a> or the <a href="introdocs.shtml">AUE Intro documents</a>.</p>
+       <p>The FAQ is not cast in stone. If you'd like to contribute a revision or an additional page, you're very welcome
+         to do so. Usually it's best to post your text to the newsgroup in the first instance, so that others can offer comments
+         and suggestions for improvement. Then please <a href="feedback.html">send your contribution to the webmaster</a>.</p>
+       <h4>books</h4>
+       <ul><li><a href="bcgrammars.html" class="sml">Grammar</a></li>
+        <li>For reviews of  English usage books, see also Michael Quinion's <a href="http://worldwidewords.org/reviews/index.htm">World
+              Wide Words</a> site</li>
+       </ul>
+       <h4>pronunciation</h4>
+       <ul>
+        <li><a href="speechexamples.html" class="sml">Speech examples</a></li>
+        <li><a href="formant_analysis.shtml" class="sml">Formant analysis</a>
+        <li><a href="long_and_short_vowels.html" class="sml">Long and short vowels</a>
+        <li><a href="symbol_table.html" class="sml">Alternative pronunciation symbols</a>         
+       </ul>
+       <h4>disputed usages</h4>
+       <ul>
+        <li><a href="anymore.html" class="sml">&quot;any more&quot; and &quot;anymore&quot;</a></li>
+        <li><A href="groupnames.html" class="sml">&quot;company is&quot; and &quot;company are&quot;</A> </LI>
+        <li><a href="peopleperson.html" class="sml">Is 'people' the plural of 'person'?</a>
+        <li><a href="missnothaving.html" class="sml">&quot;miss not having&quot;</a></li>
+        <li><a href="prescriptivism.html" class="sml">What is prescriptivism?</a></li>
+       </ul>
+       <h4>grammar</h4>
+       <ul>
+        <li><a href="subjunctive_supplement.html" class="sml">Does English have a subjunctive mood?</a></li>
+        <li><a href="genitive_and_possessive.html" class="sml">Genitive is not always possessive</a></li>
+        <li><a href="plural_formation.html" class="sml">Plural formation</a></li>
+        <li><a href="pronoun_paradigms.html" class="sml">Thou, thee & archaic grammar</a></li>
+       </ul>
+       <h4>punctuation</h4>
+       <ul>
+        <li><a href="quotes_for_emphasis.html" class="sml">Quotes for emphasis</a></li>
+       </ul>
+       <h4>word origins</h4>
+       <ul>
+        <li><a href="sos.html" class="sml">&quot;SOS&quot;</a></li>
+       </ul>
+       <h4>spelling</h4>
+       <ul>
+        <li><a href="Reformed_spelling_comments.shtml" class="sml">Comments on a proposal for reformed English spelling</a>
+        <li><a href="I_before_E.html" class="sml">Exceptions to the 'i before e' rule</a></li>
+        <li><a href="e-mail-vs-email.html" class="sml">Preferences, &quot;e-mail&quot; vs &quot;email&quot;</a></li>
+        <li><a href="illitterate.html" class="sml">Embarrassing error: &quot;illitterate&quot;</a> </li>
+       </ul>
+       <h4>miscellany</h4>
+       <ul>
+        <li><a href="english_british_uk_et_al.shtml" class="sml">Britain/Great Britain/United Kingdom &amp;c: Some common confusions</a></li>
+        <li><a href="ireland.html" class="sml">The Correct Name For Ireland</a></li>
+        <li><a href="whatistheuk.html" class="sml">What is the UK? Is it the same as Britain, Great Britain or England?</a></li>
+        <li><a href="Distribution_English_speakers.shtml" class="sml">World-wide distribution of English-speakers</a></li>
+        <li><a href="humorousrules.html" class="sml">Humorous Rules for Writing (&quot;Fumblerules,&quot; &quot;Perverse Rules,&quot; etc.)</a></li>
+        <li><a href="newsreaders_2006.html" class="sml">Newsreaders used by alt.usage.english posters, 1996-2006 </a></li>
+        <li><a href="homo-defs.html" class="sml">Comparison of definitions of "homograph&quot;, &quot;homonym&quot;, and &quot;homophone"</a></li>
+        </ul>
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

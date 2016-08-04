@@ -1,0 +1,628 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Links to Language Sites (Mostly)</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>Links to Language Sites (Mostly)</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Links -->
+							<!-- indexer: sections -->
+       <a name="categories"></a>
+       <table align=center cellpadding="3" bgcolor="#FFFFCC">
+        <tr valign="top">
+         <td colspan="3">
+          
+           On this page:</td>
+         <td>&nbsp;</td>
+        </tr>
+        <tr valign="top">
+         <td>
+          <ul>
+           <li><a href="#almanacs">Almanacs</a></li>
+           <li><a href="#archives">Archives</a></li>
+           <li><a href="#audiorefs">Audio&nbsp;references</a></li>
+           <li><a href="#collections">Collections&nbsp;of&nbsp;Web&nbsp;links</a></li>
+           <li><a href="#webcolors">Color&nbsp;charts</a></li>
+           <li><a href="#dictslexis">Dictionaries</a></li>
+           <li><a href="#discussion">Discussion&nbsp;groups</a></li>
+           <li><a href="#encyclopedias">Encyclopedias</a></li>
+           <li><a href="#funwithwords">Fun&nbsp;with&nbsp;words</a></li>
+           <li><a href="#usageand">Guides:&nbsp;Usage,&nbsp;Grammar,&nbsp;and&nbsp;Style</a></li>
+          </ul>         </td>
+         <td>
+          <ul>
+           <li><a href="#funnystuff">Humor</a>										</li>
+           <li><a href="#learning">Learning&nbsp;English</a></li>
+           <li><a href="#lexicons">Lexicons</a></li>
+           <li><a href="#measurement">Measurement&nbsp;conversion</a></li>
+           <li><a href="#unassigned">Misc.&nbsp;language&nbsp;related</a></li>
+           <li><a href="#nothingtodo">Misc.&nbsp;not&nbsp;language&nbsp;related</a></li>
+           <li><a href="#news">News</a></li>
+           <li><a href="#reference">Online&nbsp;reference&nbsp;books</a></li>
+           <li><a href="#services">Online&nbsp;services</a></li>
+           <li><a href="#phonetic">Phonetic&nbsp;alphabets</a></li>
+          </ul>         </td>
+         <td>
+          <ul>
+           <li><a href="#rhetoric">Rhetoric&nbsp;vocabulary</a></li>
+           <li><a href="#spelling">Spelling</a></li>
+           <li><a href="#thesauri">Thesauruses</a></li>
+           <li><a href="#folklore">Urban&nbsp;legends</a></li>
+           <li><a href="#webdesign">Web-design&nbsp;utilities</a></li>
+           <li><a href="#websearch">Web&nbsp;search&nbsp;engines</a></li>
+           <li><a href="#wordlists">Word&nbsp;lists</a></li>
+           <li><a href="#wordsabout">Words&nbsp;about&nbsp;words</a></li>
+          </ul>         </td>
+         <td>&nbsp;</td>
+        </tr>
+        <tr valign="bottom">
+         <td colspan=4>
+          
+           
+            
+          <center>
+           <font face="Arial, Helvetica, sans-serif" size="-1"><i><a href="#notes">Notes about this page</a></i></font>
+          </center>         </td>
+        </tr>
+       </table>
+       <h2><a name="almanacs"></a>Almanacs <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.infoplease.com/almanacs.html">Information Please</a></li>
+       </ul>
+       <h2><a name="archives"></a>Archives <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.bartleby.com/">Project Bartleby</a></li>
+        <li><a href="http://www.bibliomania.com/">Bibliomania</a></li>
+        <li><a href="http://classics.mit.edu/">The Internet Classics Archive</a></li>
+        <li><a href="http://promo.net/pg/">Project Gutenberg</a></li>
+       </ul>
+       <h2><a name="audiorefs"></a>Audio references <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://faculty.washington.edu/dillon/PhonResources/newstart.html">American English vowel sounds</a></li>
+        <li><a href="http://www.bl.uk/collection-guides/english-accents-and-dialects">British Library Collection</a> of 20th century (British) English accents and dialects, with sound files and notes on vocabulary, pronunciation, and grammar.</li>
+        <li><a href="http://www.yorku.ca/twainweb/troberts/raising.html">Canadian Speech</a> The raising of certain vowel sounds in Canadian English is illustrated with sound files.
+        <li><a href="http://dare.wisc.edu/?q=node/44">DARE</a> Arthur the Rat. Speakers from various parts of the United States recite "Arthur the Rat" in tandem.
+        <li>An  <a href="http://www.scottish-places.info/councils/soundsc13.html">Edinburgh accent</a>  from the <i>Gazetteer for Scotland</i>.
+Recorded as a WAV file.        
+                <li><a href="http://www.dialectsarchive.com/">International Dialects 
+                  of English</a> archive. 
+                <li><a href="http://web.uvic.ca/ling/resources/ipa/handbook.htm">IPA Handbook recordings.</a> The recordings (WAV files) contained in this site are the words and text that appear in the illustrations in Part 2 of The Handbook of the International Phonetic Association,  and which demonstrate the application of the International Phonetic Alphabet to a wide variety of sound systems of languages of the world.
+        <li><a href="http://www.phonetics.ucla.edu/course/chapter1/chapter1.html">Peter Ladefoged</a> pronounces the sounds corresponding to IPA symbols. Click on a symbol on the IPA chart and hear the sound.</li>
+        <li> <a href="http://www.friends-partners.org/newfriends/cyrillic/russian.alphabet.html">Russian alphabet</a> sounds.
+        <li><a href="http://www.luminarium.org/medlit/gawainre.htm">Sir Gawain and the Green Knight</a> with sound files.</li>
+        <li><a href="http://names.voa.gov/"><i>Voice of America</i> Pronunciation Guide</a>, with sound files. Mainly names of people in the news.</li>
+       </ul>
+       <h2><a name="collections"></a>Collections of Web links <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+              <ul>
+                <li><a href="http://www.analyticalq.com/colour/default.htm">Analytical 
+                  Q's</a> list of color guides</li>
+                <li>Brian Kelk's <a href="http://www.bckelk.ukfsn.org/menu.html">list 
+                  of word lists</a></li>
+                <li><a href="http://www.dogpile.com/">Dogpile</a>. An impressive 
+                  collection of links. I want to spend more time exploring it 
+                  and learning to understand it.</li>
+                <li><a href="http://www.editors.ca">Editors' Association of Canada</a> 
+                  Among other things, links to grammar and style guides</li>
+                <li><a href="http://eleaston.com/">ENGLISH online</a> E. L. Easton. 
+                  Materials for Teaching & Learning. A wealth of links to resources 
+                  on many aspects of English. 
+                <li><a href="http://garbl.home.comcast.net/writing/">Garbl's Writing 
+                  Resources On Line</a> Dozens of good links here</li>
+                <li><a href="http://home.earthlink.net/~ruthpett/safari/megalist.htm">Megalist</a> 
+                  of Word Links</li>
+                <li>NY Times Editorial Room <a href="http://www.nytimes.com/library/tech/reference/cynavi.html"> 
+                  Search Index</a></li>
+                
+                <li><a href="http://onelook.com/more.shtml">Onelook</a> has a 
+                  list of links to dictionaries and to lists of links to dictionaries.</li>
+                <li><a href="http://owl.english.purdue.edu/">The Online Writing 
+                  Lab</a> at Purdue University. Resources for writers and teachers, 
+                  links to search engines</li>
+                <li><a href="http://www.refdesk.com">refdesk.com</a></li>
+                <li><a href="http://www.yourdictionary.com">A Web of On-line Dictionaries</a> 
+                  Links to dictionaries in many different languages.</li>
+                <li><a href="http://members.aol.com/tsuwm/">Worthless Word for 
+                  Today</a> (Has a list of links.)</li>
+              </ul>
+       <h2><a name="webcolors"></a>Color charts <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.analyticalq.com/colour/default.htm">Analytical Q's</a> list of color guides</li>
+        <li><a href="./color_saturations.html" class="sml">Color saturations</a> Various saturations, with hex codes, of primary and complementary colors.</li>
+        <li><a href="http://www.lynda.com/hex.html">Lynda's browser-safe colors</a> The Browser-Safe Palette only contains 216 colors out of a possible 256.
+								 That is because the remaining 40 colors vary on Macs and PCs. By eliminating the 40 variable colors, this palette is optimized for cross-platform use.</li>
+       </ul>
+       <h2><a name="dictslexis"></a>Dictionaries <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.bartleby.com/61/">American Heritage</a> Dictionary, Fourth Edition, from Bartleby.com.</li>
+        <li><a href="http://www.bg-map.com/us-uk.html">British-American</a> dictionary compiled by Mark Glicksman</li>
+        <li><a href="http://www.peak.org/~jeremy/dictionary/">British-American</a> dictionary</li>
+        <li><a href="http://dictionary.cambridge.org/">Cambridge</a> International Dictionary of English
+								 This may be the only available source for American pronunciations using the International Phonetic Alphabet.
+									It's apparently a relatively elementary student's dictionary; don't look in it for "paronomasia", "syllepsis", "zeugma", or "allophone". 
+        <li><a href="http://www.global-language.com/century/">The Century Dictionary</a>
+         "An encyclopedic dictionary of English considered by many to be the finest ever produced in the US." &#8211; <i>Oxford Companion to the English Language</i></li>
+        <li><a href="http://www.dictionary.com/">dictionary.com</a> This source provides definitions from a number of different dictionaries.
+								 In particular, it apparently accesses the complete contents of <i>The American Heritage Dictionary Third Edition</i>,
+									including the discussions of Indo European roots that may be unique to that dictionary. You can go directly to the dictionary lookup,
+									as illustrated by the following example, which will find definitions for 'enclitic': http://www.dictionary.com/cgi-bin/dict.pl?term=enclitic</li>
+        <li><a href="http://www.explore-biography.com/">Famous People</a>: Biographies for Over 130,000 Famous People</li>
+        <li><a href="http://www.thefreedictionary.com/">TheFreeDictionary.com</a> English, Medical, Legal, and Computer Dictionaries, Thesaurus, Encyclopedia, a Literature Reference Library, and a Search Engine all in one!</li>
+        <li><a href="http://www.hyperdictionary.com">Hyperdictionary</a> One-step lookup for an  English Dictionary, a Computer Dictionary, a Thesaurus, a Dream Dictionary, and a Medical Dictionary</li>
+                <li><a href="http://www.bennetyee.org/http_webster.cgi?">Hypertext Webster 
+                  Gateway</a> Online dictionary</li>
+        <li><a href="http://dictionary.infoplease.com/">Information Please</a> dictionary</li>
+        <li><a href="http://sunsite.ubc.ca/LatinDictionary/HyperText/">Latin dictionary online</a> Copyright (C)1997 The University of British Columbia Mathematics Department
+									Individual pages and projects are Copyright by their respective creators, as noted. Also, <a href="http://sunsite.ubc.ca/LatinDictionary/">Java-based interactive version</a>.</li>
+        <li><a href="http://www.macquariedictionary.com.au/">Macquarie Dictionary</a> on line (by subscription only)</li>
+        <li><a href="http://www.m-w.com/">Merriam-Webster Online</a></li>
+        <li><a href="http://www.onelook.com">Onelook</a> automatically searches many dictionaries for the word you enter.</li>
+        <li><a href="http://onelook.com/more.shtml">Onelook</a> also has a list of links to dictionaries and to lists of links to dictionaries.</li>
+        <li><a href="http://www.sharpened.net/glossary/">The Sharpened Glossary of Computer and Internet Terms</a> A Dictionary of Computer Terms with Easy-To-Understand Definitions.</li>
+        <li><a href="http://www.techterms.org/">The Tech Terms Computer Dictionary</a> where computer and technology terms are defined and explained.</li>
+        <!-- [MRB 24/7/02 Redirected to yourdictionary.com] <li><a href="http://www.facstaff.bucknell.edu/rbeard/diction.html">A Web of On-line Dictionaries</a> Links to dictionaries in many different languages.</li> -->
+        <li><a href="http://1828.mshaffer.com/">Webster's 1828 dictionary</a> Searchable.</li>
+        <li><a href="http://wordnet.princeton.edu/">Wordnet</a> Lexical Database. In addition to definitions, this site offers synonyms, coordinate terms, hypernyms, hyponyms and familiarity.</li>
+        <li><a href="http://www.wordreference.com/">WordReference.com</a> Uses Collins dictionaries to provide English definitions and translations (French, German, Italian, and Spanish).</li>
+        <li><a href="http://www.yourdictionary.com">yourDictionary.com</a></li>
+       </ul>
+       <h2><a name="discussion"></a>Discussion groups<a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul><li><a href="http://www.zompist.com/langfaq.html">The sci.lang FAQ</a> What is sci.lang for?
+								 Discussion of the scientific or historical study of human language(s). Note the "sci." prefix. The main concern here is with facts and theories accounting for them.</li>
+        <li><a href="http://www.wordwizard.com/">The Word Wizard</a>
+								If you're fascinated by anything to do with words, then join our club, use our (FREE) services and have fun with other like-minded people.</li>
+       </ul>
+       <h2><a name="encyclopedias"></a>Encyclopedias <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.britannica.com/">Britannica</a> 1 August 2001: Britannica is no longer free online. The URL that formerly provided the free access now offers a paid subscription.
+         <!-- [MRB 18/02/03 no longer online] <li><a href="http://www.comptons.com/school/">Compton's Encyclopedia</a> online. This site offers a 'Free Trial' of Compton's Encyclopedia.  How long will it last?</li> -->
+        <li><a href="http://www.encyclopedia.com/">Electric Library</a> presents Encyclopedia.com</li>
+        <li><a href="http://www.infoplease.com/encyclopedia/">Information Please</a> encyclopedia</li>
+       </ul>
+       <h2><a name="funwithwords"></a>Fun with words <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.bulwer-lytton.com/">The Bulwer-Lytton Fiction Contest</a>
+								 Since 1982 the English Department at San Jose State University has sponsored the Bulwer-Lytton Fiction Contest, a whimsical
+									literary competition that challenges entrants to compose the opening sentence to the worst of all possible novels.</li>
+        <li><a href="http://utopia.knoware.nl/users/sybev/cliche/">Clich&eacute;s</a> The Book of Clich&eacute;s</li>
+        <li><a href="http://members.aol.com/gulfhigh2/words.html">A Collection of Word Oddities and Trivia</a>, by Jeff Miller</li>
+        <li><a href="http://eggcorns.lascribe.net/">The Eggcorn Database</a> An eggcorn is an  unusual spelling of a particular kind, such as free reign (instead of free rein) or hone in on (instead of home in on).</li>
+        <li><a href="http://rinkworks.com/words/">Fun with Words</a> from RinkWorks.
+        <li>Generate random sentences: The web economy <a href="http://www.dack.com/web/bullshit.html">bullshit</a> generator,
+									the automatic <a href="http://web.informatik.uni-bonn.de/II/ag-klein/people/zach/more/corpspeak/">press release</a> generator, and the
+									<a href="http://www.elsewhere.org/pomo/">Postmodernism</a> generator</li>
+        
+        <li><a href="http://www.phon.ucl.ac.uk/home/johnm/eptotd/tiphome.htm">Pronunciation tips</a> Have fun with quizzes on the use of the SAMPA ASCII IPA alphabet.</li>
+        <li><a href="http://www.intuitive.com/cgi-local/etymologic.cgi">Word-Origin Game</a>
+								  In this game you'll be presented with 10 randomly selected word origin or word definition puzzles to solve; in each case the word
+										or phrase is highlighted in bold, and a number of possible explanations for its origin will be presented.</li>
+       </ul>
+       <h2><a name="usageand"></a>Guides: Usage, Grammar, and Style <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.edufind.com/english/grammar/index.cfm">Anthony Hughes'</a> on line English Grammar</li>
+        <li><a href="http://www.apostrophe.org.uk/">The Apostrophe Protection Society</a> Concise rules for the use of the apostrophe, and pictures showing British examples of misuse.</li>
+        <li><a href="http://www.wsu.edu/%7Ebrians/errors/index.html">Common Errors in English</a></li>
+        <li><a href="http://www.englishgrammar.org/">English Grammar</a> by Jennifer Frost</li>
+        <li><a href="http://andromeda.rutgers.edu/~jlynch/Writing/">Grammar and Style Notes</a> by Jack Lynch</li>
+        <li><a href="http://www.pixunlimited.co.uk/guardian/pdf/Guardianstyle.pdf"><i>The Guardian</i> Style Guide</a></li>
+        <li>The <a href="http://www.ucl.ac.uk/internet-grammar/">Internet Grammar of English</a>: modern grammar (word classes, etc.)</li>
+        <li><a href="http://www.writeit.fi/ruth/writeit-resources-grammar/">Language help</a>Up-to-date and very extensive language help from Ruth Vilmi in Helsinki</li>
+        <li><a href="http://www.sandhills.edu/academic-departments/english/sentencesense.html">Sentence Sense</a>. Evelyn Farbman and Charles Darling, Capital Community College, Hartford, Connecticut</li>
+        <li><a href="http://www.timesonline.co.uk/section/0,,2941,00.html"><i>The Times</i> (London) Style Guide</a></li>
+        <li><a href="http://www.theslot.com/">The Slot</a> a spot for copy editors. Style guide</li>
+        <li><a href="http://www.bartleby.com/141/">Strunk and White</a>, <i>Elements of Style</i>, 1918.</li>
+        <li><a href="http://www.vocabula.com/vocabulareview.asp">Vocabula</a></li>
+       </ul>
+       <h2><a name="funnystuff"></a>Humor <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.slate.com/articles/news_and_politics/bushisms/2000/03/the_complete_bushisms.html">Bushisms</a> a collection of Bush garblings with citations of when and where they occured at</li>
+        </ul>
+       <h2><a name="learning"></a>Learning English <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.eslcafe.com">Dave's ESL Cafe</a> for people learning or teaching English as a second language. Various courses for pay.</li>
+        <li><a href='http://www.eltweb.com/'>ELT Web</a>, English Language Teaching, a variety of resources.</li>
+        <li><a href="http://membres.lycos.fr/stephmrs/">Irregular English Verbs</a>, Lists and tools for learning.</li>
+                <li><a href="http://www.writeit.fi/ruth/writeit-resources-grammar/">Language help</a> 
+                  Up-to-date and very extensive language help from Ruth Vilmi 
+                  in Helsinki</li>
+<li><a href='http://www.teachingfish.com'>Teachingfish.com</a> &quot;A full-service ESL web site which offers
+free teaching resources, an online English grammar, web boards, a job finder service, ESL games and
+activities, teaching tips and articles on ESL teaching.&quot;</li>
+       </ul>
+       <h2><a name="lexicons"></a>Lexicons <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.finance-glossary.com/">Financial Terms</a></li>
+        <li><a href="http://catb.org/jargon/">The Jargon File</a>  A comprehensive compendium of hacker slang illuminating many aspects of hackish tradition, folklore, and humor</li>
+        <li><a href="http://www.netlingo.com/">Net lingo:</a> A "Best of the Web" site. Among other things, a place to look up computer terms and net jargon.</li>
+        <li>Netscape Communicator <a href="http://wp.netscape.com/communicator/glossary.html">Glossary</a></li>
+        <li><a href="#rhetoric">Rhetoric</a> vocabulary</li>
+        <li><a href="http://www.slanguage.com/">Slang terms</a> by city; many cities.</li>
+        <li><a href="http://www.webopedia.com/">Webopedia</a> A Glossary of Computer Oriented Abbreviations and Acronyms</li>
+       </ul>
+       <h2><a name="measurement"></a>Measurement conversion <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul><li><a href="http://www.unc.edu/~rowlett/units/index.html">Measurement units</a> Russ Rowlett's discussions and definitions of measurement units</li>
+        <li><a href="http://ts.nist.gov/ts/htdocs/230/235/appxc/appxc.htm#4a">National Institute of Standards and Technology</a> General Tables of Units of Measurement.
+								 Appendix C of NIST Handbook 44: Specifications, Tolerances, and Other Technical Requirements for Weighing and Measuring Devices.
+       </ul>
+       <h2><a name="unassigned"></a>Miscellaneous, language related <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.guardian.co.uk/Archive/Article/0,4273,3876064,00.html">Accents in the UK</a>
+        <li><a href="http://www.kami.demon.co.uk/gesithas/index.html">Anglo-Saxon language and culture</a>
+         "Welcome to the home of &ETH;a Engliscan Gesi&thorn;as... ...the society for people interested in all aspects of Anglo-Saxon language and culture."</li>
+        <li><a href="http://www.billcasselman.com/">Canadian words</a> (extracts from books by Bill Casselman)</li>
+        <li><a href="http://www.librarius.com/cantales.htm">The Canterbury Tales</a> with hypertext glossary</li>
+        <li><a href="http://w.webring.com/hub?sid=&amp;ring=dictionary&amp;id=&amp;list">The Dictionary and Glossary Webring</a> Nothing to do with dictionaries and glossaries. Some pages unreachable.</li>
+        <li><a href="http://www.freetranslation.com">Language translation</a> Translations to and from any of several languages.</li>
+        <li><a href="http://www.guardian.co.uk/Archive/Article/0,4273,4066645,00.html">Liverpool accents</a>, comments about Scouse from <i>The Guardian</i>.
+        <li><a href="http://www.zompist.com/">The Metaverse, by Mark Rosenfelder</a></li>
+        <li><a href="http://www.oed.com/">Oxford English Dictionary</a> Home Page</li>
+        <li><a href="http://www.ling.upenn.edu/phono_atlas/">Phonological Atlas of North America</a>
+								 The Phonological Atlas of North America is created by the Telsur Project at the Linguistics Laboratory at the University of
+									Pennsylvania. Telsur is a telephone survey of the major urbanized areas of the U.S. and Canada, supported by the National Science
+									Foundation and the National Endowment for the Humanities.</li>
+        <li><a href="http://www.plainenglish.co.uk">The Plain English Campaign</a>
+								 Plain English Campaign is an independent UK-based organisation which fights to promote the use of plain English and to stamp out
+									all forms of gobbledygook &#8211; legalese, small print and bureaucratic language. The Campaign is funded by its professional services.
+									These include editing, writing, design and training in plain English for many of the UK's largest companies, as well as
+									government departments and local authorities.</li>
+        <li><a href="http://www.refdesk.com">refdesk.com</a></li>
+                <li><a href="http://www.scots-online.org/">The Scots Language</a> This site is essentially an introduction to written non-regional Traditional Scots.</li>
+        <li><a href="http://www.guardian.co.uk/Archive/Article/0,4273,4066645,00.html">Scouse</a>, comments from the Guardian about Liverpool accents.
+        <li><a href="http://www.yaelf.com">Yet another English Language FAQ</a>.</li>
+       </ul>
+       <h2><a name="nothingtodo"></a>Miscellaneous, not language related <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.anywho.com/">AnyWho</a> Phone numbers and addresses for millions of people.</li>
+        <li><a href="http://www.atomtime.com/">AtomTime98</a> Set your system time to agree with the atomic clock in Boulder, Colorado.</li>
+        <li><a href="https://www.cia.gov/library/publications/the-world-factbook/">CIA</a> World Factbook</li>
+        <li><a href="http://www.nsrc.org/codes/country-codes.html">Country codes</a> with links to flags, based on International Standard ISO 3166 Codes.
+								 Hosted by 'Network Startup Resource Center at the University of Oregon'</li>
+        
+        <li><a href="http://rogerebert.suntimes.com/">Ebert Movie Files</a> The Ebert Archives contain Roger Ebert's movie reviews since 1985.</li>
+        <li><a href="http://mathworld.wolfram.com/">Eric's Treasure Trove</a> quick answers to math questions, especially ones of definition and history.
+								 I found here detailed step-by-step instructions for solving a polynomial equation using Horner's Method. Now (010703)
+									all I find is a notice to the effect that the site has been discontinued because of a copyright lawsuit.</li>
+        <li><a href="http://us.imdb.com/">The Internet Movie Database</a> An Amazon.com company</li>
+        <li><a href="http://www.faqs.org/">Internet FAQ Consortium</a>
+								 Select 'FAQ Authors' in the left-hand frame for help on writing a FAQ and getting it installed at news.answers. Select 'Search
+									FAQs' in the left-hand frame to search the contents of thousands of FAQs for any string.</li>
+        <li><a href="http://www.liszt.com">Liszt</a> the mailing list directory</li>
+        <li><a href="http://catalog.lapl.org/">Los Angeles Public Library Catalog</a></li>
+        <li><a href="http://www.mapquest.com/">Mapquest</a> Maps and much more.</li>
+        <li><a href="http://www.newsoftheweird.com/">News of the Weird</a></li>
+        <li><a href="http://www.searchenginewatch.com">Search Engine Watch</a></li>
+        <li><a href="http://www.upu.int/">Universal Postal Union</a></li>
+        <li><a href="http://symantec.com/avcenter/vinfodb.html">Virus catalog</a> by Symantec.</li>
+        <li><a href="http://symantec.com/avcenter/hoax.html">Virus hoaxes</a> listed by Symantec.</li>
+        <li><a href="http://www.kfki.hu/~arthp/">Web Gallery of Art</a>
+								 The Web Gallery of Art is a virtual museum and searchable database of European painting and sculpture of the Gothic,
+									Renaissance and Baroque periods (1150-1750), currently con over 6,000 reproductions.</li>
+        <li><a href="http://www.whitehouse.gov">White House</a> web site &#8211; Full texts of speeches and radio addresses.</li>
+        <li><a href="http://www.timeanddate.com/worldclock/">The World Clock</a> Current local times around the world (Standard version)</li>
+       </ul>
+       <h2><a name="news"></a>News <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.csmonitor.com/">Christian Science Monitor</a></li>
+        <li><a href="http://www.latimes.com/">Los Angeles Times</a></li>
+        <li><a href="http://www.nytimes.com">New York Times</a></li>
+        <li><a href="http://www.ocregister.com/">Orange County Register</a></li>
+        <li><a href="http://www.oregonian.com/">Oregonian</a></li>
+        <li><a href="http://www.sltrib.com/">Salt Lake Tribune</a></li>
+        <li><a href="http://interactive.wsj.com/home.html">Wall Street Journal</a></li>
+        <li><a href="http://washingtonpost.com/">Washington Post</a></li>
+        <li><a href="http://customwire.ap.org/">The Wire</a>, News from the Associated Press</li>
+       </ul>
+       <h2><a name="reference"></a>Online reference books <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.bibliomania.com/Reference/PhraseAndFable/">Brewer's Dictionary of Phrase and Fable</a>, 1894 ed</li>
+        <li><a href="http://www.bartleby.com/141/index.html"><i>Elements of Style</i> by William Strunk</a></li>
+        <li><a href="http://www.bartleby.com/99/index.html">Familiar quotations</a> from Project Bartleby</li>
+        <li><a href="http://ota.ahds.ac.uk/">The Oxford Text Archive</a> Online books</li>
+        <li><a href="http://www.xrefer.com/search.jsp">xrefer</a>, "the web's reference engine".
+         July 2003: xrefer is no longer free. The URL now offers a paid subscription.</li>
+       </ul>
+       <h2><a name="services"></a>Online services <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.genius2000.com/anagram.html">Anagram Genius</a> Give it a string and your e-mail address; it e-mails an anagram of the string to you.</li>
+        <li><a href="http://linguistlist.org/ask-ling/">Ask a Linguist</a>
+								 Ask-A-Linguist is a service provided by The LINGUIST List, an Internet network for professional linguists. Although the list
+									itself is restricted to messages relating to linguistic research, many LINGUIST List members are interested in language-related
+									questions of all kinds; and a number of these have volunteered to staff this page. Ask-A-Linguist is designed to be a place where
+									anyone interested in language or linguistics can ask a question and get the response of a panel of professional linguists.</li>
+        <li><a href="http://grammar.lydbury.co.uk/">Lydbury English Centre</a> &#8211; On Line Grammar Home Page</li>
+        <li><a href="http://www.wordsmith.org/">Wordsmith.Org</a> Various word-related services by e-mail</li>
+       </ul>
+       <h2><a name="phonetic"></a>Phonetic alphabets <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+                <li><a href="http://www.blahedo.org/ascii-ipa.html">Another ASCII IPA 
+                  reference</a>, with comparisons to other systems. Includes a 
+                  side-by-side tabulation of IPA and the notation used in five 
+                  ASCII IPA systems, including Kirshenbaum and SAMPA.</li>
+        <li>HTML version of <a href="http://www.kirshenbaum.net/IPA/index.html">Evan Kirshenbaum's IPA FAQ</a></li>
+        <li>PDF version of <a href="http://www.kirshenbaum.net/IPA/ascii-ipa.pdf">Evan Kirshenbaum's IPA FAQ</a></li>
+        <li><a href="https://www.internationalphoneticassociation.org/">International Phonetic Association</a></li>
+        <li><a href="http://www.phon.ucl.ac.uk/home/johnm/eptotd/tiphome.htm">Pronunciation tips</a> Practice using the SAMPA ASCII IPA alphabet.</li>
+        <li><a href="http://www.phon.ucl.ac.uk/home/sampa/home.htm">SAMPA</a> (Speech Assessment Methods Phonetic Alphabet) computer readable phonetic alphabet.
+									'It was originally developed under the ESPRIT project 1541, SAM (Speech Assessment Methods) in 1987-89 by an international group of phoneticians, [...]'</li>
+        <li><a href="http://www.phon.ucl.ac.uk/home/sampa/american.htm">SAMPA for American English</a> by J. C. Wells</li>
+        <li><a href="http://www.sil.org/computing/fonts/encore-ipa.html">SIL IPA Fonts</a> are scalable outline fonts for both Macintosh and Windows systems.</li>
+       </ul>
+       <h2><a name="rhetoric"></a>Rhetoric vocabulary <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+              <ul>
+                <li><a href="http://www.biblicalresearchjournal.org/brj-pages_pdf/001ewb_figures_of_speech.pdf">Figures 
+                  of Speech Used in the Bible</a>, E.W. Bullinger, London, 1898</li>
+                <li>For a really long list of terms, with definitions, see <a href="http://humanities.byu.edu/rhetoric/silva.htm">Silva 
+                  Rhetoricae</a>.</li>
+                <li><a href="http://www.virtualsalt.com/litterms.htm">A Glossary 
+                  of Literary Terms</a> and <a href="http://www.virtualsalt.com/rhetoric.htm">A 
+                  Handbook of Rhetorical Devices</a> by Robert Harris.</li>
+                <li><a href="http://www.arsrhetorica.net/gaines/style.html">An Introduction 
+                  to Rhetorical Style</a> Robert N. Gaines (C) 1998. All rights 
+                  reserved.</li>
+                <li><a href="http://www.site.uottawa.ca/~szpak/ling-devices.html">Linguistic 
+                  Phenomena/Devices</a></li>
+                <li><a href="excerpts/fxwhatis.html">Mark Israel's list of language 
+                  terms</a>. 
+                <li><i>Rhetorical Toolbox</i>: Terms of Style and Descriptive 
+                  Language. This site is no longer available. However, you may 
+                  <a href="/cgi-bin/email.cgi?n=Ida_Rodgers&amp;d2=edu&amp;d1=ttu&amp;l=Ida.Rodgers" class="sml">email 
+                  the author</a>, who is willing to send you the files.</li>
+                <li><a href="http://www.uky.edu/ArtsSciences/Classics/rhetoric.html">Glossary 
+                  of Rhetorical Terms with Examples</a>, a site created by Ross 
+                  Scaife</li>
+                <li><a href="http://stommel.tamu.edu/~baum/skb_dict.html">skb 
+                  list o' nifty words</a>, with definitions, from S. Baum Dept. 
+                  of Oceanography TAMU.</li>
+              </ul>
+       <h2><a name="spelling"></a>Spelling <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul><li><a href="http://jbr.me.uk/ortho.html">Spelling Reform And The Real Reason It's Impossible</a> by Justin Rye. &quot;Clearing away 13 bad arguments against reform.&quot;
+       </ul>
+       <h2><a name="thesauri"></a>Thesauruses <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://wordnet.princeton.edu/">WordNet</a> - a Lexical Database for English.
+								 The word "thesaurus" only begins to connote the sort of work that WordNet is. To fully appreciate it, you need to spend some time with it.</li>
+       </ul>
+       <h2><a name="folklore"></a>Urban legends <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.snopes.com/">The San Fernando Valley Folklore Society</a>'s Urban Legends Reference Pages</li>
+       </ul>
+       <h2><a name="webdesign"></a>Web-design utilities <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.make-a-web-site.com//">Make A Website</a> by clicking a mouse and typing a few sentences</li>
+        <li><a href="http://websitesetup.org/html5-beginners-guide">HTML5</a> Beginner's Guide, by Robert Mening</li>
+        <li><a href="http://www.chami.com/html-kit/">HTML-Kit</a> is a free and easy to use Windows program designed to help HTML authors to edit, format, lookup help, validate, preview and publish web pages.</li>
+        <li>HTML advice from <a href="http://www.lynda.com/">Lynda</a></li>
+                <li><a href="http://validator.w3.org/">W3C HTML Validation Service</a> It checks HTML documents for conformance to W3C HTML and XHTML Recommendations and other HTML standards.</li>
+        <li><a href="http://www.w3.org/">World Wide Web Consortium</a>, all about it.</li>
+       </ul>
+       <h2><a name="websearch"></a>Web search engines <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <table border="0" cellspacing="0" cellpadding="5">
+        <tr valign="top">
+         <td>
+           
+          <ul>
+            
+           <li><a href="http://www.about.com">About</a></li>
+           <li><a href="http://www.altavista.com">AltaVista</a></li>
+           <li><a href="http://www.askjeeves.com">Ask Jeeves</a></li>
+           <li><a href="http://www.exit109.com/~jeremy/news/deja.html">Deja alternative</a></li>
+           
+           <li><a href="http://www.excite.com/">Excite</a></li>
+           <li><a href="http://www.alltheweb.com">Fast Search</a></li>
+           <li><a href="http://www.go.com">Go Network</a></li>
+           <li><a href="http://www.google.com">Google</a></li>
+           <li><a href="http://www.goto.com">Go To</a></li>
+          </ul>         </td>
+         <td>
+           
+          <ul><li><a href="http://www.hotbot.com">HotBot</a></li>
+           <li><a href="http://www.go.com">Infoseek</a></li>
+           <li><a href="http://www.looksmart.com">Looksmart</a></li>
+           <li><a href="http://www.lycos.com/">Lycos</a></li>
+           <li><a href="http://www.metacrawler.com">Metacrawler</a></li>
+           <li><a href="http://www.northernlight.com">Northern Light</a></li>
+           <li><a href="http://www.snap.com">Snap</a></li>
+           <li><a href="http://www.thunderstone.com">Thunderstone</a></li>
+           <li><a href="http://www.webcrawler.com">WebCrawler</a></li>
+           <li><a href="http://www.yahoo.com">Yahoo!</a></li>
+          </ul>         </td>
+        </tr>
+       </table>
+       <h2><a name="wordlists"></a>Word lists <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://info.ox.ac.uk/bnc/">British National Corpus</a></li>
+        <li><a href="http://www.bckelk.ukfsn.org/menu.html">Word lists and phonetic alphabets</a></li>
+       </ul>
+       <h2><a name="wordsabout"></a>Words about words <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <ul>
+        <li><a href="http://www.julianburnside.com">A bit about words by Julian Burnside</a> (Click on "Language".)</li>
+        <li><a href="http://phrontistery.info/">Forthright's Phrontistery</a>
+								 Welcome to the Phrontistery! I'm Forthright, your host as you search this site, which is academic in appearance and focus but
+									which, I think, has lots of stuff for anyone generally interested in historical and linguistic topics, English language words and
+									word-lists, etymology, prehistory, or social issues in general.</li>
+        <li><a href="http://www-personal.umich.edu/~jlawler/aue.html">John Lawler's</a> discussions of frequently asked AUE questions</li>
+        <li><a href="http://www.m-w.com/cgi-bin/mwwod.pl">Merriam-Webster's</a> Word of the Day</li>
+        <li><a href="http://www.vocabula.com/vocabulareview.asp">Vocabula</a></li>
+        <li><a href="http://www.wordorigins.org/">Wilton's Etymology Page</a>
+        <li><a href="http://www.wordsmith.org/awad/index.html">A Word a Day</a> Anu Garg's 'A.Word.A.Day'</li>
+        <li><a href="http://www.word-detective.com/">Word Detective</a> by Evan Morris</li>
+        <li><a href="http://www.wordspy.com/">Word Spy</a></li>
+        <li><a href="http://www.worldwidewords.org/">World Wide Words</a> by Michael B. Quinion</li>
+        <li><a href="http://home.comcast.net/~wwftd/">Worthless Word for Today</a> (Has a list of links.)</li>
+        <li><a href="http://www.yaelf.com">Yet Another English Language FAQ</a>
+       </ul>
+       <hr>
+       <h2><a name="notes"></a>Notes <a href="#categories"><img border="0" src="up_arrow.gif" alt="Top of this page"></a></h2>
+       <p>This page was adapted by Bob Cunningham from the <i>Language Resources</i> list in Markus Laker's <i>AUE Resources</i> package. Bob  writes:</p>
+       <p class="bq">&quot;I've partitioned the list into categories. Within each category all links have been alphabetized, with leading 'a's and
+								'the's being ignored.  Some language-related links have been left <a href="#unassigned">uncategorized</a>, either because they
+								seemed too difficult to categorize or because I haven't yet made a determined effort to categorize them.  Some links that Markus
+								described as having '<a href="#nothingtodo">nothing to do</a> with language' have been left as a group.&quot;</p>
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

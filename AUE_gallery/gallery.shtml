@@ -1,0 +1,521 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: The Photo Gallery</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>The AUE Photo Gallery</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <center>
+        <p>These are just thumbnails. To see the big picture, click on the thumbnail or the name.<br>
+  If the name is <b>bold</b>, the link leads to more than just an expansion of the thumbnail (for example, one or more different photos, contact information, or a link to the <a href="/audio_gallery/index.html">pronunciation page</a>).</p>
+        
+<table border=0>
+         
+<tr valign="top">
+                    
+<td align=center width="70"><a href="reinhold_aman.html" class="sml"><img border=2 src="tn_reinhold_aman.jpg" width="55" height="75" alt="Photo of Reinhold (Rey) Aman"><br>
+    <b>Reinhold<br>
+    (Rey)<br>
+    Aman</b></a><br>
+    &nbsp;</td>
+<td align=center width="70"><a href="adrian_bailey.html" class="sml"><img border=2 src="tn_adrian_bailey.jpg" alt="Photo of Adrian Bailey" width="50" height="62"><br>
+    Adrian<br>
+    Bailey</a><br>
+    &nbsp;</td>
+<td align=center width="70"><a href="robert_bannister.html" class="sml"><img border=2 src="tn_robert_bannister.jpg" width="50" height="56" alt="Photo of Robert Bannister"><br>
+    <b>Robert<br>
+    Bannister</b></a><br>
+    &nbsp;</td>
+<td align=center width="70"><a href="mike_barnes.html" class="sml"><img border=2 src="tn_mike_barnes.jpg" width="48" height="64" alt="Photo of Mike Barnes"><br>
+    <b>Mike<br>
+    Barnes</b></a><br>
+    &nbsp;</td>
+<td align=center width="70"><a href="mark_barratt.html" class="sml"><img border=2 src="tn_barratt.jpg" width="51" height="62" alt="Photo of Mark Barratt"><br>
+    Mark<br>
+    Barratt</a><br>
+    &nbsp;</td>
+<td align=center width="70"><a href="guy_barry.html" class="sml"><img border=2 src="tn_guy_barry.jpg" alt="Photo of Guy Barry"><br>
+    <b>Guy<br>
+    Barry</b></a><br>
+    &nbsp;</td>
+<td align=center width="70"><a href="kitsz.html" class="sml"><img border=2 src="tn_kitsz.jpg" width="52" height="52" alt="Photo of Dennis B&aacute;thory-Kitsz"><br>
+    Dennis<br>
+               B&aacute;thory-Kitsz</a><br>
+															&nbsp;</td>
+<td align=center width="70"><a href="orne.html" class="sml"><img border=2 src="tn_orne.jpg" width="50" height="52" alt="Photo of Orne Batmagoo"><br>
+    Orne<br>
+               Batmagoo</a><br>
+															&nbsp;</td>
+</tr>
+         
+<tr valign="top">
+          
+<td align=center width="70"><a href="robin_bignall.html" class="sml"><img border=2 src="tn_robin_bignall.jpg" width="50" height="61" alt="Photo of Dr Robin Bignall"><br>
+    <b>Dr Robin<br>
+               Bignall</b></a><b><br>
+           </b>
+															&nbsp;</td>
+<td align=center width="70"><a href="richard_bollard.html" class="sml"><img border=2 src="tn_richard_bollard.jpg" width="50" height="69" alt="Photo of Richard Bollard"><br>
+    <b>Richard<br>
+    Bollard</b></a><br>
+    &nbsp;</td>
+<td width="70" align=center><a href="nate_branscom.html" class="sml"><img border=2 src="tn_nate_branscom.jpg" width="55" height="77" alt="Photo of Nate Branscom"><br>
+      Nate<br>
+        Branscom</a><br>
+  &nbsp;</td>
+<td align=center><a href="padraig.html" class="sml"><img border=2 src="tn_padraig.jpg" width="50" height="73" alt="Photo of Padraig Breathnach"><br>
+      <b>Padraig<br>
+        Breathnach</b></a><br>
+  &nbsp;</td>
+<td align=center><a href="peter_buchwald.html" class="sml"><img border=2 src="tn_peter_buchwald.jpg" width="52" height="65" alt="Photo of Peter Buchwald"><br>
+  Peter<br>
+  Buchwald</a><br>
+  &nbsp;</td>
+<td align=center><a href="geoff_butler.html" class="sml"><img border=2 src="tn_geoff_butler.jpg" width="40" height="56" alt="Photo of Geoff Butler"><br>
+      <b>Geoff<br>
+        Butler</b></a><br>
+  &nbsp;</td>
+<td align=center><a href="maria_conlon.html" class="sml"><img border=2 src="tn_maria_conlon.jpg" width="55" height="63" alt="Photo of Maria Conlon"><br>
+      <b>Maria<br>
+        Conlon</b></a><br>
+  &nbsp;</td>
+<td align=center><a href="tony_cooper.html" class="sml"><img border=2 src="tn_tony_cooper.jpg" width="50" height="58" alt="Photo of Tony Cooper"><br>
+      <b>Tony<br>
+        Cooper</b></a><br>
+  &nbsp;</td>
+</tr>
+
+<tr valign="top">
+<td align=center><a href="Jitze_twice.html" class="sml"><img border=2 src="tn_jitze.jpg" width="48" height="56" alt="Photo of Jitze Couperus"><br>
+      <b>Jitze<br>
+        Couperus</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="john_davies.html" class="sml"><img border=2 src="tn_john_davies.jpg" width="40" height="59" alt="Photo of John Davies"><br>
+    John<br>
+    Davies</a><br>
+  &nbsp;</td>
+  <td align=center><a href="dinkin.html" class="sml"><img border=2 src="tn_Dinkin.jpg" width="44" height="62" alt="Photo of Aaron Dinkin"><br>
+        <b>Aaron<br>
+          Dinkin</b></a><b><br>
+</b> &nbsp;</td>
+  <td align=center><a href="r_h_draney.html" class="sml"><img border=2 src="tn_r_h_draney.jpg" width="50" height="64" alt="Photo of R H Draney"><br>
+    R H<br>
+    Draney</a><br>
+  &nbsp;</td>
+  <td align=center><a href="katy_edgcombe.html" class="sml"><img border=2 src="tn_katy_edgcombe.jpg" width="43" height="58" alt="Photo of Katy Edgcombe"><br>
+    Katy<br>
+    Edgcombe</a><br>
+  &nbsp;</td>
+  <td align=center><a href="elliven.html" class="sml"><img border=2 src="tn_elliven.jpg" width="52" height="67" alt="Photo of Neville X. Elliven"><br>
+    Neville X.<br>
+    Elliven</a><br>
+  &nbsp;</td>
+  <td align=center><a href="lindsay_endell.html" class="sml"><img border=2 src="tn_lindsay_endell.jpg" width="54" height="57" alt="Photo of Linz Endell"><br>
+    Linz<br>
+    Endell</a><br>
+  &nbsp;</td>
+  <td align=center><a href="felix.html" class="sml"><img border=2 src="tn_felix.jpg" width="57" height="68" alt="Photo of Felix"><br>
+    Felix</a><br>
+  &nbsp;</td>
+</tr>
+
+<tr valign="top">
+<td width="70" align=center><a href="joe_fineman.html" class="sml"><img border=2 src="tn_joe_fineman.jpg" width="50" height="68" alt="Photo of Joe Fineman"><br>
+Joe<br>
+Fineman</a><br>
+&nbsp;</td>
+  <td align=center><a href="jerry_friedman.html" class="sml"><img src="tn_jerry_friedman.jpg" alt="Photo of Jerry Friedman" width="55" height="69" border=2><br>
+    Jerry<br>
+    Friedman</a><br>
+  &nbsp;</td>
+  <td align=center><a href="early_Gavin.html" class="sml"><img border=2 src="Gavin_tn_cropped.jpg" width="44" height="53" alt="Photo of Jack Gavin"><br>
+    Jack<br>
+    Gavin</a><br>
+  &nbsp;</td>
+  <td align=center><a href="natti.html" class="sml"><img border=2 src="tn_natti.jpg" width="50" height="66" alt="Photo of  Natti Glouchova"><br>
+    Natti<br>
+    Glouchova</a><br>
+  &nbsp;</td>
+  <td align=center><a href="groleau.html" class="sml"><img border=2 src="tn_Groleau.jpg" width="50" height="62" alt="Photo of W. Wesley Groleau"><br>
+    W. Wesley<br>
+    Groleau</a><br>
+  &nbsp;</td>
+  <td align=center><a href="michael_hardy.html" class="sml"><img border=2 src="tn_michael_hardy.jpg" width="50" height="66" alt="Photo of Michael Hardy"><br>
+    Michael<br>
+    Hardy</a><br>
+  &nbsp;</td>
+  <td align=center><a href="steve_hayes.html" class="sml"><img src="tn_steve_hayes.jpg" alt="Photo of Steve Hayes" width="55" height="74" border=2><br>
+Steve<br>
+Hayes</a><br>
+&nbsp;</td>
+  <td align=center><a href="james_hogg.html" class="sml"><img border=2 src="tn_james_hogg.jpg" width="55" height="74" alt="Photo of James Hogg"><br>
+        <b>James<br>
+          Hogg</b></a><br>
+  &nbsp;</td>
+</tr>
+         
+<tr valign="top">
+  <td align=center><a href="charles_hope.html" class="sml"><img border=2 src="tn_charles_hope.jpg" width="55" alt="Photo of Charles Hope"><br>
+        <b>Charles<br>
+          Hope</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="hughes.html" class="sml"><img border=2 src="tn_Hughes.jpg" width="48" height="64" alt="Photo of Simon Hughes"><br>
+    Simon<br>
+    Hughes</a><br>
+  &nbsp;</td>
+  <td align=center><a href="mark_israel.html" class="sml"><img border=2 src="tn_mark_israel.jpg" width="46" height="58" alt="Photo of Mark Israel"><br>
+      <b>Mark<br>
+Israel</b></a><br>
+&nbsp;</td>
+  <td align=center><a href="jacqui.html" class="sml"><img border=2 src="tn_jacqui.jpg" width="50" height="75" alt="Photo of Jacqui"><br>
+        <b>Jacqui<br>
+      </b></a>&nbsp;</td>
+  <td align=center><a href="katy_jennison.html" class="sml"><img border=2 src="tn_katy_jennison.jpg" alt="Photo of Katy Jennison" width="50" height="65"><br>
+        <b>Katy<br>
+          Jennison<br>
+      </b></a>&nbsp;</td>
+  <td align=center><a href="dena_jo.html" class="sml"><img border=2 src="tn_dena_jo.jpg" width="52" height="75" alt="Photo of Dena Jo"><br>
+        <b>Dena Jo<br>
+      </b></a>&nbsp;</td>
+  <td align=center><a href="ian_johnson.html" class="sml"><img border=2 src="tn_ian_johnson.jpg" width="40" height="58" alt="Photo of Ian Johnson"><br>
+    Ian<br>
+    Johnson</a><br>
+  &nbsp;</td>
+  <td align=center><a href="evan_kirshenbaum.html" class="sml"><img border=2 src="tn_evan_kirshenbaum.jpg" width="50" height="62" alt="Photo of Evan Kirshenbaum"><br>
+        <b>Evan<br>
+          Kirshenbaum</b></a><br>
+  &nbsp;</td>
+</tr>
+         
+<tr valign="top">
+  <td align=center><a href="matti_lamprhey.html" class="sml"><img border=2 src="tn_matti_lamprhey.jpg" width="56" height="66" alt="Photo of Matti Lamprhey"><br>
+    Matti<br>
+    Lamprhey</a><br>
+  &nbsp;</td>
+  <td align=center><a href="larry_phillips.html" class="sml"><img border=2 src="tn_larry_phillips.jpg" width="54" height="65" alt="Photo of Oleg Lego (Larry Phillips)"><br>
+    Oleg Lego<br>
+    (Larry Phillips)</a><br>
+  &nbsp;</td>
+  <td align=center><a href="robert_lieblich.html" class="sml"><img border=2 src="tn_robert_lieblich.jpg" width="39" height="49" alt="Photo of Robert Lieblich"><br>
+Robert<br>
+Lieblich</a><br>
+&nbsp;</td>
+  <td align=center><a href="lorimer.html" class="sml"><img border=2 src="tn_Lorimer.jpg" width="51" height="64" alt="Photo of Sara Lorimer"><br>
+        <b>Sara<br>
+          Lorimer</b></a><b><br>
+</b> &nbsp;</td>
+  <td align=center><a href="bertel_lund_hansen.html" class="sml"><img border=2 src="tn_bertel_lund_hansen.jpg" width="55" height="72" alt="Photo of Bertel Lund Hansen"><br>
+    Bertel<br>
+    Lund Hansen</a><br>
+  &nbsp;</td>
+  <td align=center><a href="joe_manfre.html" class="sml"><img border=2 src="tn_joe_manfre.jpg" width="50" height="59" alt="Photo of Joe Manfre"><br>
+    Joe<br>
+    Manfre</a><br>
+  &nbsp;</td>
+  <td align=center><a href="albert_marshall.html" class="sml"><img border=2 src="tn_albert_marshall.jpg" width="50" height="64" alt="Photo of Albert Marshall"><br>
+    Albert<br>
+    Marshall</a><br>
+  &nbsp;</td>
+  <td align=center><a href="alec_mckenzie.html" class="sml"><img border=2 src="tn_alec_mckenzie.jpg" width="50" height="61" alt="Photo of Alec McKenzie"><br>
+    Alec<br>
+    McKenzie</a><br>
+  &nbsp;</td>
+</tr>
+         
+<tr valign="top">
+  <td align=center><a href="mickwick.html" class="sml"><img border=2 src="tn_mickwick.jpg" width="52" height="56" alt="Photo of Mickwick"><br>
+    Mickwick</a><br>
+  &nbsp;</td>
+  <td align=center><a href="peter_moylan.html" class="sml"><img border=2 src="tn_peter_moylan.jpg" width="48" height="61" alt="Photo of Peter Moylan"><br>
+        <b>Peter<br>
+          Moylan</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="bunmui.html" class="sml"><img border=2 src="tn_bunmui.jpg" width="50" height="59" alt="Photo of Bun Mui?"><br>
+Bun<br>
+Mui?</a><br>
+&nbsp;</td>
+  <td align=center><a href="ian_noble.html" class="sml"><img border=2 src="tn_ian_noble.jpg" width="55" height="72" alt="Photo of Ian Noble"><br>
+        <b>Ian<br>
+          Noble</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="jim_nugent.html" class="sml"><img border=2 src="tn_jim_nugent.jpg" width="36" height="56" alt="Photo of Jim Nugent"><br>
+    Jim<br>
+    Nugent</a><br>
+  &nbsp;</td>
+  <td align=center><a href="mike_oliver.html" class="sml"><img border=2 src="tn_mike_oliver.jpg" width="47" height="60" alt="Photo of Mike Oliver"><br>
+    Mike<br>
+    Oliver</a><br>
+  &nbsp;</td>
+  <td align=center><a href="myles_paulsen.html" class="sml"><img src="tn_myles_paulsen.jpg" alt="Photo of Myles Paulsen" width="50" height="71" border=2><br>
+      <strong>Myles<br>
+Paulsen</strong></a><br>
+&nbsp;</td>
+  <td align=center><a href="albert_peasemarch.html" class="sml"><img border=2 src="tn_albert_peasemarch.jpg" width="52" height="59" alt="Photo of Albert Peasemarch"><br>
+    Albert<br>
+    Peasemarch </a>&nbsp;</td>
+</tr>
+         
+<tr valign="top">
+  <td align=center><a href="perchprism.html" class="sml"><img border=2 src="tn_perchprism.jpg" width="41" height="56" alt="Photo of Perchprism"><br>
+    Perchprism</a><br>
+  &nbsp;</td>
+  <td align=center><a href="redwine.html" class="sml"><img border=2 src="tn_redwine.jpg" width="55" height="78" alt="Photo of Professor Redwine"><br>
+        <b>Professor<br>
+          Redwine</b></a><b><br>
+      </b> &nbsp;</td>
+  <td align=center><a href="charles_riggs.html" class="sml"><img border=2 src="tn_charles_riggs.jpg" alt="Photo of Charles Riggs" width="55" height="67"><br>
+      <b>Charles<br>
+Riggs</b></a><b><br>
+</b> &nbsp;</td>
+  <td align=center><a href="frank_s.html" class="sml"><img border=2 src="tn_frank_s.jpg" alt="Photo of Frank S"><br>
+    Frank S</a><br>
+  &nbsp;</td>
+  <td align=center><a href="satchi.html" class="sml"><img border=2 src="tn_satchi.jpg" width="54" height="65" alt="Photo of Satchi"><br>
+    Satchi</a><br>
+  &nbsp;</td>
+  <td align=center><a href="skitt.html" class="sml"><img border=2 src="tn_skitt.jpg" width="52" height="66" alt="Photo of Skitt"><br>
+        <b>Skitt</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="Laura_Spira.html" class="sml"><img border=2 src="tn_laura.jpg" width="57" height="62" alt="Photo of Laura Spira"><br>
+        <b>Laura<br>
+          Spira</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="trisha_stone.html" class="sml"><img border=2 src="tn_trisha_stone.jpg" width="47" height="61" alt="Photo of Trisha Stone"><br>
+    Trisha<br>
+    Stone</a><br>
+  &nbsp;</td>
+</tr>
+         
+<tr valign="top">
+<td align=center width="70">&nbsp;</td>
+  <td align=center><a href="david_stretch.html" class="sml"><img src="tn_david_stretch.jpg" alt="Photo of David Stretch" width="55" height="73" border=2><br>
+    David<br>
+    Stretch</a><br>
+  &nbsp;</td>
+  <td align=center><a href="taylor.html" class="sml"><img border=2 src="tn_gary_taylor.jpg" width="40" height="56" alt="Photo of Gary G. Taylor"><br>
+    Gary G.<br>
+    Taylor</a><br>
+  &nbsp;</td>
+<td align=center><a href="graeme_thomas.html" class="sml"><img border=2 src="tn_graeme_thomas.jpg" width="48" height="61" alt="Photo of Graeme Thomas"><br>
+    <strong>Graeme<br>
+Thomas</strong></a><br>
+&nbsp;</td>
+<td align=center><a href="ozzie_maland.html" class="sml"><img src="tn_ozzie_maland.jpg" alt="Photo of tinwhistler" width="55" height="79" border=2><br>
+      <strong>tinwhistler</strong></a><br>
+  &nbsp;</td>
+<td align=center><a href="toogood.html" class="sml"><img border=2 src="tn_toogood.jpg" width="53" height="62" alt="Photo of Stephen Toogood"><br>
+      <b>Stephen<br>
+        Toogood</b></a><br>
+  &nbsp;</td>
+<td align=center><a href="paul_townsend.html" class="sml"><img src="tn_paul_townsend.gif" alt="Photo of Paul Townsend" width="55" height="77" border=2><br>
+  Paul<br>
+  Townsend</a><br>
+  &nbsp;</td>
+<td align=center>&nbsp;</td>
+<td align=center>&nbsp;</td>
+</tr>
+
+<tr valign="top">
+  <td align=center>&nbsp;</td>
+  <td align=center>&nbsp;</td>
+<td align=center><a href="varela.html" class="sml"><img border=2 src="tn_Varela.jpg" width="53" height="64" alt="Photo of John Varela"><br>
+      <b>John<br>
+        Varela</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="michael_west.html" class="sml"><img border=2 src="tn_michael_west.jpg" width="50" height="66" alt="Photo of Michael West"><br>
+        <b>Michael<br>
+        West</b></a><b><br>
+      </b> &nbsp;</td>
+  <td align=center><a href="paul_wolff.html" class="sml"><img border=2 src="tn_paul_wolff.jpg" alt="Photo Paul Wolff" width="55" height="62"><br>
+    Paul<br>
+    Wolff</a><br>
+  &nbsp;</td>
+  <td align=center><a href="peter_young.html" class="sml"><img border=2 src="tn_peter_young.jpg" width="55" height="65" alt="Photo of Peter Young"><br>
+        <b>Peter<br>
+        Young</b></a><br>
+  &nbsp;</td>
+  <td align=center><a href="zadne.html" class="sml"><img border=2 src="tn_zadne.jpg" width="54" height="54" alt="Photo of Zadne"><br>
+    Zadne</a><br>
+  &nbsp;</td>
+  <td align=center>&nbsp;</td>
+</tr>
+</table>
+       </center>
+       <p>
+You can have <b>your</b> picture in the AUE Photo Gallery. All you need do is send a GIF or JPG file (or the location of one, on the Web) to me, 
+<a href="/cgi-bin/email.cgi">the webmaster</a>, and I 
+will install it in the gallery. I can crop and scale your photo  to make  a thumbnail for use above, or you can send me  your own thumbnail image if you like. Please state the exact name you'd like me to use. If you'd like a short paragraph under your photo, perhaps with your e-mail address, or a link to your home page, that's fine as well. Two photos, one of you as a baby? No problem. I'm here to serve.</p>
+       <p>
+At the   <a href="http://www.totally-official.com/">Totally Official Web site</a>, there was a photo album where the names associated with
+the pictures are carefully withheld from the public. That album no longer exists, but on this site there is archived a <a href="/totally_official/tot_off_aue_people.html" class="sml">modified copy of the Totally Official album</a>.
+       <p>
+See also the <a href="/newsgroup.html#boinks">boink reports</a>.
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

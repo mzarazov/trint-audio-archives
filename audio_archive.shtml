@@ -1,0 +1,478 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: The Audio Archive</title>
+<style type="text/css">.mp3 {  font-family: Arial, Helvetica, sans-serif; font-size: 90%; font-weight: normal}
+.wav {  font-family: Arial, Helvetica, sans-serif; font-size: 70%; font-weight: normal}
+</style>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>The Audio Archive</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Audio -->
+
+       <table align=center cellpadding="3" bgcolor="#FFFFCC">
+        <tr valign="top">
+         <td>
+          
+           
+          <p>Sound samples are spoken by native English speakers from around the world. The spoken texts have been chosen for their usefulness in accent determination. On this page:</p>         </td>
+        </tr>
+        <tr valign="top">
+         <td>
+          <ul>
+           <li><a href="#spoken">The spoken texts</a>
+            <ul>
+             <li><i><a href="#Arthur">Arthur the Rat</a></i> (Australia, Canada, England, India, Ireland, USA, Wales)</li>
+             <li><i><a href="#Rainbow">The Rainbow Passage</a></i> (Australia, England, USA)</li>
+             <li><i><a href="#NorthWind">The North Wind and The Sun</a></i> (England, USA, Canada)</li>
+             <li><i><a href="#Accent">Bother, father caught...</a></i> (Australia, Canada, England, Ireland, New Zealand, USA)</li>
+             <li><i><a href="#Ferdinand">I teach Ferdinand...</a></i>  (Australia, Canada, England, USA)</li>
+             <li><i><a href="#Comma">Comma gets a cure</a></i>  (USA)</li>
+            </ul>
+           </li>
+           <li><a href="#sundryfiles">Other sound files</a></li>
+           <li><a href="#technical">Technical information</a></li>
+           <li><a href="#RP">Received pronunciation</a></li>
+           <li><a href="#credits">Credits</a></li>
+           <li><a href="#contribute">Contribute!</a></li>
+          </ul>         </td>
+         <td>&nbsp;</td>
+        </tr>
+       </table>
+       <a name="spoken"></a>
+       <h2>The spoken texts</h2>
+       <p>The sound samples on this page are available in MP3 and WAV format. The MP3 files are recommended because they are much smaller, so they download more quickly and are more economical with Internet resources. Also a few users have found that the WAV files sound garbled on their PCs. To enable MP3 in your browser, visit <a href="http://www.mpeg.org/MPEG/MPEG-audio-player.html">MPEG.ORG</a>. </p>
+       <p>&quot;RP&quot; stands for &quot;Received Pronunciation&quot; (<a href="#RP">more information</a>).</p>
+       <a name="Arthur"></a>
+       <h3><i>Arthur the Rat</i></h3>
+       Average file sizes (Kb): MP3 <b>210</b>,  WAV <b>590</b> [<a href="arth_txt.html" class="sml">Text</a>]
+       <ul>
+        <li><b>Australia</b>
+         <ul>
+          <li> <span class="mp3">[<a href="archive/arth_mb.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/arth_mb.wav">WAV</a>]</span> General
+            Australian speaker 1</li>
+          <li> <span class="mp3">[<a href="archive/arth_am.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/arth_am.wav">WAV</a>]</span> General
+            Australian speaker 2 </li>
+          </ul>
+        </li>
+        <li><b>Canada</b>
+         <ul>
+          <li> <span class="mp3">[<a href="archive/art_min8.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/art_min8.wav">WAV</a>]</span> Canadian speaker with assorted influences</li>
+          <li> <span class="mp3">[<a href="archive/arth_cane.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/arth_cane.wav">WAV</a>]</span> Canadian from Atlantic Canada (East Coast)</li>
+         </ul>
+        </li>
+        <li><b>England</b>
+         <ul>
+          <li><span class="mp3">[<a href="archive/arth_rp.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/arth_rp.wav">WAV</a>]</span> <a href="#RP">RP</a> speaker 1 (was incorrectly labelled &quot;RP speaker 2&quot; before 17 Oct 2003)</li>
+          <li><span class="mp3">[<a href="archive/arth_cs8.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/arth_cs8.wav">WAV</a>]</span> Cornish speaker</li>
+          <li><span class="mp3">[<a href="archive/rp2.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/rp2.wav">WAV</a>]</span> <a href="#RP">RP</a> speaker 2 (was incorrectly labelled &quot;RP speaker 1&quot; before 17 Oct 2003)</li>
+          <li><span class="mp3">[<a href="archive/01e04d.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/01e04d.wav">WAV</a>]</span> British speaker with international influences</li>
+          <li><span class="mp3">[<a href="archive/01e05d.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/01e05d.wav">WAV</a>]</span> <a href="#RP">RP</a> speaker 3</li>
+         </ul>
+        </li>
+        <li><b>India</b>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/art_in8.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/art_in8.wav">WAV</A>]</span> Indian speaker</li>
+         </ul>
+        </li>
+        <li><b>Ireland</b>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/arth_ire8.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/arth_ire8.wav">WAV</A>]</span> Southern Irish speaker</li>
+         </ul>
+        </li>
+        <li><B>USA</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/art_mi4.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/art_mi8.wav">WAV</A>]</span> General mid-western speaker (Michigan)</li>
+          <li><span class="mp3">[<A HREF="archive/arth_mt.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/arth_mt.wav">WAV</A>]</span> Southwestern speaker with mid-western influences</li>
+          <li><span class="mp3">[<A HREF="archive/arth_bt.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/arth_bt.wav">WAV</A>]</span> Mid-western speaker (Dallas)</li>
+          <li><span class="mp3">[<A HREF="archive/01un01d.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/01un01d.wav">WAV</A>]</span> New York City born Northeastern speaker</li>
+          <li><span class="mp3">[<A HREF="archive/01um06l.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/01um06l.wav">WAV</A>]</span> American speaker with various influences</li>
+          <li><span class="mp3">[<A HREF="archive/bc_arth2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/bc_arth2.wav">WAV</A>]</span> Western speaker with influences from all over America</li>
+          <li><span class="mp3">[<A HREF="archive/chi_arth2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/chi_arth2.wav">WAV</A>]</span> Chicago speaker with influences from Iowa and Southern California</li>
+          <li><span class="mp3">[<A HREF="archive/georgia_8_bit_arthur_11025_Hz.mp3">MP3</A>]</span> <span class="wav">[<a href="archive/georgia_4_bit_arthur_11025_Hz.wav">WAV</a>]</span> Georgia speaker with northern Florida influences (<a href="georgia_speech.html" class="sml">comments</a>) <span class="mp3">[<A HREF="archive/georgia_8_bit_arthur_22050_Hz_24kBit.mp3">MP3+</A>]</span> <span class="wav">[<A HREF="archive/georgia_8_bit_arthur_11025_Hz.wav">WAV+</A>] [<A HREF="archive/georgia_8_bit_arthur_22050_Hz.wav">WAV++</A>]</span></li>
+          <li><span class="mp3">[<A HREF="archive/arth_richard.mp3">MP3</A>]</span>  New York City born Texan speaker</li>
+          <li><span class="mp3">[<A HREF="archive/arth_dwj.mp3">MP3</A>]</span> <span class="wav">[<a href="archive/arth_dwj.wav">WAV</a>]</span> Southern California native living in Florida, male, 50, with national influences (and some voice training)</li>
+         </ul>
+        </li>
+        <li><B>Wales</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/arth_rt.mp3">MP3</A>]</span> <span class="wav">[<a href="archive/arth_rt.wav">WAV</a>]</span> Welsh speaker (Pembrokeshire)</li>
+          </ul>
+        </li>
+       </ul>
+       <p>(+ indicates higher quality reproduction, double the file size)</p>
+       <a name="Rainbow"></a>
+							<h3><i>The Rainbow Passage</i></h3>
+       <p>Average file sizes (Kb): MP3 <b>190</b>,  WAV <b>530</b>. [<A HREF="rainb_txt.html" class="sml">Text</a>]</p>
+       <ul>
+            <li><b>Australia</b>
+                <ul>
+                  <li> <span class="mp3">[<a href="archive/rain_am.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/rain_am.wav">WAV</a>]</span> General
+                    Australian speaker 2 </li>
+                </ul>
+            </li>
+            <li><B>England</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/rb_rp.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/rb_rp.wav">WAV</A>]</span> <a href="#RP">RP</a> speaker 1</li>
+         </ul>
+        </li>
+        <li><B>USA</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/rb_sch.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/rb_sch.wav">WAV</A>]</span> General mid-western speaker (Michigan)</li>
+          <li><span class="mp3">[<A HREF="archive/rabo_mt.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/rabo_mt.wav">WAV</A>]</span> Southwestern speaker with mid-western influences</li>
+         </ul>
+        </li>
+        <li><B>Canada</B>
+          <ul>
+          <li><span class="mp3">[<A HREF="archive/nw_cane.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/nw_cane.wav">WAV</A>]</span> Canadian from Atlantic Canada (East Coast)</li>
+         </ul>
+        </li>
+       </ul>
+       <P>
+       <a name=NorthWind></a>
+       <h3><i>The North Wind and The Sun</i></h3>
+       <p>Average file sizes (Kb): MP3 <b>55</b>,  WAV <b>155</b>. [<A HREF="north_txt.html" class="sml">Text</a>]</p>
+       <ul>
+        <li><B>England</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/nw_rp.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/nw_rp.wav">WAV</A>]</span> <a href="#RP">RP</a> speaker 1</li>
+         </ul>
+        </li>
+        <li><B>USA</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/nw_mi8.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/nw_mi8.wav">WAV</A>]</span> General mid-western speaker (Michigan)</li>
+          <li><span class="mp3">[<A HREF="archive/wisu_mt.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/wisu_mt.wav">WAV</A>]</span> Southwestern speaker with mid-western influences</li>
+          <li><span class="mp3">[<A HREF="archive/nw_ad.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/nw_ad.wav">WAV</A>]</span> Californian speaker</li>
+         </ul>
+        </li>
+       </ul>
+       <a name=Accent></a>
+       <h3><i>Bother, father caught...</i></h3>
+       <p> Accent determination by one sentence.</p>
+       <p>Average file sizes (Kb): MP3 <b>7</b>,  WAV <b>20</b>. Text: "Bother, father caught hot coffee in the car park."</p>
+       <ul>
+        <li><B>Australia</B>
+         <ul>
+            <li><span class="mp3">[<A HREF="archive/04a01r.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/04a01r.wav">WAV</A>]</span> General
+              Australian speaker 1 </li>
+            <li><span class="mp3">[<A HREF="archive/both_am.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_am.wav">WAV</A>]</span> General
+            Australian speaker 2 </li>
+         </ul>
+        </li>
+        <li><B>Canada</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/bother9.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/bother9.wav">WAV</A>]</span> Canadian speaker with assorted influences</li>
+          <li><span class="mp3">[<A HREF="archive/both_ca2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_ca2.wav">WAV</A>]</span> Canadian speaker</li>
+         </ul>
+        </li>
+        <li><B>England</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/bother8.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/bother8.wav">WAV</A>]</span> <a href="#RP">RP</a> speaker 1</li>
+          <li><span class="mp3">[<A HREF="archive/both_cs.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_cs.wav">WAV</A>]</span> Cornish speaker</li>
+          <li><span class="mp3">[<A HREF="archive/rb_bo2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/rb_bo2.wav">WAV</A>]</span> <a href="#RP">RP</a> speaker 2</li>
+          <li><span class="mp3">[<A HREF="archive/04e05k.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/04e05k.wav">WAV</A>]</span> <a href="#RP">RP</a> speaker 3</li>
+         </ul>
+        </li>
+        <li><B>Ireland</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/ir_e.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/ir_e.wav">WAV</A>]</span> Southern Irish speaker</li>
+         </ul>
+        </li>
+        <li><B>New Zealand</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/4n18.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/4n18.wav">WAV</A>]</span> New Zealand speaker (due to a transmission error "bother" was confused with "brother")</li>
+         </ul>
+        </li>
+        <li><B>USA</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/am1.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/am1.wav">WAV</A>]</span> General mid-western speaker (Dayton, Ohio)</li>
+          <li><span class="mp3">[<A HREF="archive/2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/2.wav">WAV</A>]</span> Mid-western speaker (South-East Oklahoma)</li>
+          <li><span class="mp3">[<A HREF="archive/am2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/am2.wav">WAV</A>]</span> General mid-western speaker (Michigan)</li>
+          <li><span class="mp3">[<A HREF="archive/both_tx.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_tx.wav">WAV</A>]</span> Mid-western speaker (Dallas)</li>
+          <li><span class="mp3">[<A HREF="archive/both_la.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_la.wav">WAV</A>]</span> Southwestern speaker with mid-western influences</li>
+          <li><span class="mp3">[<A HREF="archive/04jum06.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/04jum06.wav">WAV</A>]</span> American speaker with various influences</li>
+          <li><span class="mp3">[<A HREF="archive/sc_both.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/sc_both.wav">WAV</A>]</span> American speaker from Southern California</li>
+          <li><span class="mp3">[<A HREF="archive/bc_both2.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/bc_both2.wav">WAV</A>]</span> Western speaker with influences from all over America</li>
+          <li><span class="mp3">[<A HREF="archive/rwh_both.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/rwh_both.wav">WAV</A>]</span> Standard American speech (assembled from the <i>Random House Second Unabridged</i> dictionary)</li>
+          <li><span class="mp3">[<A HREF="archive/chi_both.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/chi_both.wav">WAV</A>]</span> Chicago speaker with influences from Iowa and Southern California</li>
+          <li><span class="mp3">[<A HREF="archive/both_ad.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_ad.wav">WAV</A>]</span> Californian speaker</li>
+          <li><span class="mp3">[<A HREF="archive/both_add.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/both_add.wav">WAV</A>]</span> Southern speaker (eastern North Carolina)</li>
+         </ul>
+        </li>
+       </ul>
+       <a name=Ferdinand></a>     
+       <h3><i>I teach Ferdinand</i></h3>
+       <p>Accent determination by a short introduction with a few significant sentences.</p>
+       <p>Average file sizes (Kb): MP3 <b>14</b>,  WAV <b>36</b>. Text: "I teach Ferdinand the calm cat to fetch cold cups of coffee. Who knows more about tasting things? He's used the book."</p>
+       <ul>
+            <li><B>Australia</B>
+                <ul>
+                  <li><span class="mp3">[<A HREF="archive/ferd_am.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/ferd_am.wav">WAV</A>]</span> General
+                    Australian speaker 2 </li>
+                </ul>
+            </li>
+            <li><B>Canada</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/ferd_jl.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/ferd_jl.wav">WAV</A>]</span> Alberta Canadian speaker</li>
+         </ul>
+        </li>
+        <li><B>England</B>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/calmcat4.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/calmcat4.wav">WAV</A>]</span> <a href="#RP">RP</a> speaker 1</li>
+          <li><span class="mp3">[<A HREF="archive/ferd_cs.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/ferd_cs.wav">WAV</A>]</span> Cornish speaker</li>
+         </ul>
+        </li>
+        <li><b>USA</b>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/caca_mt.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/caca_mt.wav">WAV</A>]</span> Southwestern speaker with mid-western influences</li>
+          <li><span class="mp3">[<A HREF="archive/am3.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/am3.wav">WAV</A>]</span> Mid-western speaker (North-East Kansas)</li>
+          <li><span class="mp3">[<a href="archive/ferd_mh.mp3">MP3</a>]</span> <span class="wav">[<a href="archive/ferd_mh.wav">WAV</a>]</span> New York City speaker, recently relocated to Missouri</li>
+          <li><span class="mp3">[<A HREF="archive/ferd_ad.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/ferd_ad.wav">WAV</A>]</span> Californian speaker</li>
+         </ul>
+       </ul>
+       <a name=Comma></a>     
+       <h3><i>Comma gets a cure</i></h3>
+       <p>This passage was specially composed using J.C. Wells' standard lexical sets and allows the dialect researcher to examine a reader's English pronunciation across a wide variety of phonemic contexts.</p>
+       <p>Average file sizes (Kb): MP3 <b>666</b>,  WAV <b>3675</b>. [<a href="http://www.dialectsarchive.com/comma-gets-a-cure">Text
+           and information</a>]</p>
+       <ul>
+        <li><b>USA</b>
+         <ul>
+          <li><span class="mp3">[<A HREF="archive/comma_II.mp3">MP3</A>]</span> <span class="wav">[<A HREF="archive/comma_II.wav">WAV</A>]</span> Western speaker with influences from all over America</li>
+          <li><span class="mp3">[<A HREF="archive/comma_richard.mp3">MP3</A>]</span> New York City born Texan speaker</li>
+          </ul>
+       </ul>
+       <a name="sundryfiles"></a>
+       <h2>Other Sound Files</h2>
+       <p>In addition to the sound files in this archive, there are others at this Web site in the following places:
+       <ul>
+        <li><a href="speechexamples.html">Speech Examples</a> &#8211; miscellaneous sound files that have been generated in connection with topics that have arisen in newsgroup discussions.
+        <li><a href="formant_analysis.shtml">Formant analysis plots</a> &#8211; with accompanying sound files.
+        <li><a href="ipa/ascii_ipa_combined.shtml">ASCII IPA guide</a> &#8211; numerous sound files illustrating the pronunciations of the symbols of ASCII IPA.
+        <li><a href="http://www.uiowa.edu/~acadtech/phonetics/">The University of Iowa's Phonetics Flash Animation Project</a>  &#8211; synchronised sounds and animated articulations in American English, German, and Spanish.</li>
+        </ul>
+       <p>If you're looking for a sound file that has a particular word in it that you know, you may be able to find it by using the <a href="eusitesearch.html">English Usage Site Search facility</a> to search on that word.</p>
+              <p>At <a href="categorized_links.shtml#audiorefs">Links: Audio references</a> 
+                there are links to some remote sites at which various sound files 
+                can be found. In particular, there's a large collection of English 
+                dialect examples from many different parts of the world at <a href="http://www.dialectsarchive.com/">The 
+                University of Kansas IDEA site</a>. </p>
+       <a name="technical"></a>  
+       <h2>Technical information</h2>
+       <p>The WAV files use a sampling frequency 11,025 Hz with 4-bit quantization, except for one that had originally been sampled at 8,000 Hz.
+							Some WAV files have been converted to 8-bit quantization because it was learned that some users were having problems with the 4-bit format.
+							Future submissions to the archive should be sampled at at least 22,050 Hz.
+							Submitted files will be used to create an MP3 file with 22,050 sampling rate.  WAV files may be resampled to a lower rate.</p>
+       <a name="RP"></a>
+       <h2>Received pronunciation</h2>
+       <p>&quot;RP&quot; stands for &quot;Received Pronunciation&quot;. RP speaker 1, Markus Laker, describes himself as an "Older style" RP speaker. Actually,
+there is a difference between Markus Laker's pronunciation and RP. See also pages <a href="ipa/ascii_ipa_combined.shtml">ASCII IPA (Combined)</a> and <a href="intrlinb.html">Interlinear transliterations</a>.</p>
+       <a name="credits"></a>
+       <h2>Credits</h2>
+       <p>I, (the originator of this page, Igor Merfert) would like to express my <B>gratitude to every contributor</B>.
+          <B>Many thanks</B> to</p>
+       <ul>
+        <li> the Southern Irish speaker Brian J. Goggin, Ireland,</li>
+        <li>the General mid-western speaker, US (Michigan) Dr. Thomas M. Schenk, CA, USA,</li>
+        <li>the General mid-western speaker (Dayton, Ohio) Anandashankar Mazumdar, who comments &quot;I believe my accent has been heavily influenced by the American mass media and I believe there are some (very) small influences of educated Indian and British R.P. accents&quot;,</li>
+        <li>the Canadian speaker with assorted influences Mark Israel, CA, USA,</li>
+        <li>the General Australian speaker 1 Mark Barton, USA,</li>
+        <li>the Indian speaker Sridhar Prasad, USA,</li>
+        <li>the Southwestern speaker with mid-western influences Michael Tseng, CA, USA,</li>
+        <li>the Midwestern speaker (Dallas) Bill. T., TX, USA,</li>
+        <li>the British speaker with international influences Jitze Couperus, USA,</li>
+        <li>RP speaker 3 John Underwood, Conductor of the Prommers' Orchestra &amp; Chorus, England,</li>
+        <li>the  New York City born Northeastern speaker Larry Krakauer, USA,</li>
+        <li> the Western speaker with influences from all over America Bob Cunningham, USA,</li>
+        <li> the New York City speaker recently relocated to Missouri, Michael Hamm, USA</li>
+        <li>the Alberta Canadian speaker, Jay Litwyn</li>
+        <li>and General Australian speaker 2, Adrian Morgan, who describes himself as &quot;from South Australia ( ~ Adelaide)
+          and possibly showing regional variation from more populous eastern states&quot;</li>
+        <li>the New York City born Texan speaker (20 years in Queens, 10 years in New Jersey/US Navy, 35 years in Texas).</li>
+       </ul>
+       <p>Special thanks to the audio archive consultant and RP speaker 1, Markus Laker, England.</p>
+       <p>Furthermore, I would like to thank the Universit&auml;tsrechenzentrum der Otto-von-Guericke-Universit&auml;t Magdeburg for kindly providing
+          additional web space, and Felix Boenchendorf for converting the sound files to MP3-format.</p>
+       <p>Some of the MPEG files  used here were converted from WAV files using the freeware program ACM Station (Version 2.1), which was written by Leeb Andreas, April 1999.
+          Others were converted with GoldWave.</p>
+       <p>
+       <font color=brown><small>
+      <i>The alt.usage.english Audio Archive was first opened by Igor Merfert on 10 October 1997. Igor announced in AUE on 16 June 1999 that the archive
+						had been closed at his site and would not reappear there.</i></small></font>       </p>
+       
+<p>The webmaster would also like to express his appreciation to all other speakers not explicitly mentioned above.</p>
+<p><a name="contribute"></a>       </p>
+<h2>Contribute!</h2>
+       <P>If you are a native English speaker and you would like to submit a sound sample to be added to the Audio Archive, 
+ you are welcome to do so. If you are interested, please contact <a href="/cgi-bin/email.cgi">the  webmaster</a>. 
+ Before you make a sound file, though, you are strongly recommended to read the 
+ <a href="recording_suggestions.html" class="sml">comments on sound recording</a>.</p>
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

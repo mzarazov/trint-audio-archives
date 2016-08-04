@@ -1,0 +1,799 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Intro B: Useful Web Sites for AUE Participants</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>Intro B: Useful Web Sites for AUE Participants</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Intro B -->
+       <!-- indexer: Sections -->
+       <!-- indexer: StartSkip -->
+<!--
+WARNING! YOU PROBABLY DON'T WANT TO EDIT THIS FILE.
+       IT WAS CREATED BY THE SCRIPT "convert_intro.pl".
+       EDIT THE SCRIPT OR ITS TEMPLATES INSTEAD.
+  
+-->					
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF0000">B</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#bottom">Bottom</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <pre>
+Subject: Intro B: Useful Web Sites for AUE Participants
+
+                                Last Revised 2011-08-27 (27 Aug 2011)
+                               * = recently revised, including deletions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contents -- Intro B: Useful Web Sites for AUE Participants
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  - <a href="#Wheretofindpreviouspostings">Where to find previous postings</a>
+  - <a href="#WheretolearnaboutASCIIIPA">Where to learn about ASCII IPA</a>
+  - <a href="#LearningEnglishasaForeignLanguage">Learning English as a Foreign Language</a>
+  - <a href="#AudioArchivesPhonetics">Audio Archives &amp; Phonetics</a>
+  - <a href="#Wordlists">Word lists</a>
+* - <a href="#DictionariesOnlineGeneral">Dictionaries, On-line: General</a>
+  - <a href="#DictionariesOnlineHistoricalandSpecialPurpose">Dictionaries, On-line: Historical and Special Purpose</a>
+  - <a href="#Acronymsandabbreviations">Acronyms and abbreviations</a>
+* - <a href="#Wordsandlanguage">Words and language</a>
+* - <a href="#GrammarFrequentlyRequestedTopics">Grammar: Frequently Requested Topics</a>
+  - <a href="#WritingandGrammarGuidesOnLine">Writing and Grammar Guides On Line</a>
+  - <a href="#EncyclopediasSearchEngines">Encyclopedias &amp; Search Engines</a>
+  - <a href="#BritishEnglishScots">British English; Scots</a>
+  - <a href="#BlackEnglishAfricanAmericanVernacularEnglishEbonics">Black English (African-American Vernacular English, Ebonics)</a>
+  - <a href="#HistoricalEnglishandEnglishLiterature">Historical English, and English Literature</a>
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=Wheretofindpreviouspostings></a><a name=Wheret0000></a>
+Where to find previous postings
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you suspect your topic has already been discussed, even though it is
+not in the FAQ, please check for articles, following the appropriate
+search guidelines, at the Google Usenet archive, which holds articles
+since approximately 1991:
+   <a href="http://groups.google.com/advanced_search">http://groups.google.com/advanced_search</a>
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=WheretolearnaboutASCIIIPA></a><a name=Wheret0001></a>
+Where to learn about ASCII IPA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASCII IPA is a way of expressing pronunciation on Usenet. It is a
+version of the International Phonetic Alphabet, using only the ASCII
+symbols (basic keyboard characters). There's a guide to ASCII IPA,
+including illustrative sound files, at
+     <a href="ascii_ipa_choice.html">http://www.alt-usage-english.org/ascii_ipa_choice.html</a>
+
+A detailed specification of the ASCII IPA transcriptions scheme,
+including tables showing the mapping to and from IPA characters,
+can be found at
+     <a href="http://www.kirshenbaum.net/IPA/ascii-ipa.pdf">http://www.kirshenbaum.net/IPA/ascii-ipa.pdf</a>
+
+See also "Audio Archives"
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=LearningEnglishasaForeignLanguage></a><a name=Learni0002></a>
+Learning English as a Foreign Language
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Good entry points to the many resources on the Web are:
+
+English as a Second Language
+   <a href="http://www.rong-chang.com/">http://www.rong-chang.com/</a>
+
+Dave's ESL Cafe
+   <a href="http://www.eslcafe.com/">http://www.eslcafe.com/</a>
+
+English as 2nd Language
+   <a href="http://esl.about.com/?once=true&amp;">http://esl.about.com/?once=true&amp;</a>
+
+ESL Resources at Purdue University - covers common grammar issues
+   <a href="http://owl.english.purdue.edu/handouts/esl/">http://owl.english.purdue.edu/handouts/esl/</a>
+
+1-language.com - The Comprehensive ESL Site
+   <a href="http://www.1-language.com">http://www.1-language.com</a>
+
+Paltalk chat room on "English Usage and Grammar" - listen and speak.
+   <a href="http://www.paltalk.com">http://www.paltalk.com</a>
+
+VOA's Special English - easy-to-read articles and sound files, too
+   <a href="http://www.voanews.com/specialenglish/about_our_website.cfm">http://www.voanews.com/specialenglish/about_our_website.cfm</a>
+
+BBC Learning English
+   <a href="http://www.bbc.co.uk/worldservice/learningenglish/index.shtml">http://www.bbc.co.uk/worldservice/learningenglish/index.shtml</a>
+
+Ask About English - new words, Q&amp;A, resources
+   <a href="http://askaboutenglish.blogspot.com/">http://askaboutenglish.blogspot.com/</a>
+
+See also "Writing and Grammar Guides On Line," below.
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=AudioArchivesPhonetics></a><a name=AudioA0003></a>
+Audio Archives &amp; Phonetics
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Three pages at the AUE Website with speech files and links to more:
+  The a.u.e Audio Archive -- listen to speakers with varying accents
+    <a href="audio_archive.shtml">http://alt-usage-english.org/audio_archive.shtml</a>
+  Other Sound files
+    <a href="audio_archive.shtml#sundryfiles">http://alt-usage-english.org/audio_archive.shtml#sundryfiles</a>
+  Audio References - more links to useful sound files
+    <a href="categorized_links.shtml#audiorefs">http://alt-usage-english.org/categorized_links.shtml#audiorefs</a>
+
+British Library archive of English accents, esp. Northern England:
+    <a href="http://www.collectbritain.co.uk/collections/dialects/">http://www.collectbritain.co.uk/collections/dialects/</a>
+
+BBC Voices, collection of UK speech
+    <a href="http://www.bbc.co.uk/voices/">http://www.bbc.co.uk/voices/</a>
+
+IDEA, the International Dialects of English Archive -- Large collection
+of MP3 speech files from around the world.
+    <a href="http://www.ku.edu/~idea/">http://www.ku.edu/~idea/</a>
+
+Fonetiks -- sound clips of 6 kinds of English plus 9 other languages
+    <a href="http://www.fonetiks.org/">http://www.fonetiks.org/</a>
+
+Voice of America Pronunciation Guide - Soundfiles of proper names
+    <a href="http://ibb7.ibb.gov/pronunciations/">http://ibb7.ibb.gov/pronunciations/</a>
+
+University of Lausanne Phonetics Course -- pronouncing sounds
+    <a href="http://www.unil.ch/ling/page30184.html">http://www.unil.ch/ling/page30184.html</a>
+
+Speech Accent Archives
+    <a href="http://classweb.gmu.edu/accent/">http://classweb.gmu.edu/accent/</a>
+
+IPA Handbook, Univ. of Victoria - sound files for many languages
+    <a href="http://web.uvic.ca/ling/resources/ipa/handbook.htm">http://web.uvic.ca/ling/resources/ipa/handbook.htm</a>
+
+ESL Cyber Listening Lab -- 100+ conversations with practice exercises.
+    <a href="http://esl-lab.com/">http://esl-lab.com/</a>
+
+Phonetics site made by University of Iowa
+    <a href="http://www.uiowa.edu/~acadtech/phonetics/#">http://www.uiowa.edu/~acadtech/phonetics/#</a>
+
+UCLA Phonetics Lab -- A Course in Phonetics
+    <a href="http://www.phonetics.ucla.edu/index.html">http://www.phonetics.ucla.edu/index.html</a>
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~<a name=Wordlists></a><a name=Wordli0004></a>
+Word lists
+~~~~~~~~~~
+Brian Kelk maintains a Web page with pointers to numerous wordlists on
+the net - for UK English, US English and other languages. Many are bare
+lists of words but some have other info. There is also information on
+word and letter frequency and on phonetic alphabets (Alpha Bravo).
+   <a href="http://www.bckelk.ukfsn.org/menu.html">http://www.bckelk.ukfsn.org/menu.html</a>
+
+The Moby Project has large downloadable lists of words:  Hyphenator,
+5-Language, Parts-of-Speech, Pronunciator (American), Shakespeare,
+Thesaurus, and American Words.Available at www.gutenberg.org or
+    <a href="http://icon.shef.ac.uk/Moby/">http://icon.shef.ac.uk/Moby/</a>
+
+National Puzzlers' League: "Our Collected Wordlists" &amp; related
+<a href="http://www.puzzlers.org/dokuwiki/doku.php?id=solving:wordlists:the_lists">http://www.puzzlers.org/dokuwiki/doku.php?id=solving:wordlists:the_lists</a>
+
+Bookmarks for Corpus-based Linguists - links to word lists, archives and tools
+   <a href="http://tiny.cc/corpora">http://tiny.cc/corpora</a>
+
+Webster's Second Edition (1934) list of over 200,000 words
+  <a href="http://www.mit.edu/afs/athena/astaff/reference/4.3network2/share/dict/">http://www.mit.edu/afs/athena/astaff/reference/4.3network2/share/dict/</a>
+
+
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=DictionariesOnlineGeneral></a><a name=Online0005></a>
+On-line dictionaries: General
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Please look up simple questions of meaning and origin in a dictionary
+before posting to the group. There are now several large, recent
+dictionaries on-line to choose from.
+
+Merriam-Webster Collegiate, 10th Edition, 1994. With US pronunciations.
+   <a href="http://www.m-w.com/netdict.htm">http://www.m-w.com/netdict.htm</a>
+
+* Concise Oxford Dictionary
+   <a href="http://oxforddictionaries.com/">http://oxforddictionaries.com/</a>
+
+Collins Dictionary Lookup, plus related features
+   <a href="http://www.collinslanguage.com/">http://www.collinslanguage.com/</a>
+
+Onelook, which searches over 500 dictionaries at a single stroke.
+   <a href="http://www.onelook.com/">http://www.onelook.com/</a>
+
+Dictionary.com, based on the American Heritage Dictionary
+   <a href="http://www.dictionary.com/">http://www.dictionary.com/</a>
+
+Cambridge International Dictionary, also Idioms &amp; Phrasal Verbs
+   <a href="http://dictionary.cambridge.org/">http://dictionary.cambridge.org/</a>
+
+Encarta World English Dictionary
+   <a href="http://dictionary.msn.com/">http://dictionary.msn.com/</a>
+
+Random House Webster's College Dictionary (no etymology)
+   <a href="http://www.infoplease.com/encyclopdict.html">http://www.infoplease.com/encyclopdict.html</a>
+
+Yourdictionary.com . A single lookup provides definition, synonyms, and usage examples.
+   <a href="http://www.yourdictionary.com/">http://www.yourdictionary.com/</a>
+
+Word Net - includes "X is a kind of..." and "X consists of..."
+    <a href="http://wordnet.princeton.edu/">http://wordnet.princeton.edu/</a>
+
+Hyperdictionary -- accesses WordNet and other dictionaries
+    <a href="http://www.hyperdictionary.com/">http://www.hyperdictionary.com/</a>
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=DictionariesOnlineHistoricalandSpecialPurpose></a>
+On-line dictionaries: Historical and Special Purpose
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Webster's 1828 American Dictionary of the English Language
+   <a href="http://www.christiantech.com/">http://www.christiantech.com/</a>
+
+Webster's 1913 Revised Unabridged Dictionary
+   <a href="http://humanities.uchicago.edu/forms_unrest/webster.form.html">http://humanities.uchicago.edu/forms_unrest/webster.form.html</a>
+
+The Century Dictionary, 1914 (12 volumes scanned):
+   <a href="http://www.global-language.com/century/">http://www.global-language.com/century/</a>
+
+The Oxford English Dictionary is available for a subscription fee:
+   <a href="http://oed.com">http://oed.com</a>
+
+Hobson-Jobson: Anglo-Indian Glossary, 1903
+   <a href="http://dsal.uchicago.edu/dictionaries/hobsonjobson/">http://dsal.uchicago.edu/dictionaries/hobsonjobson/</a>
+
+The Jargon Lexicon, the Jargon File or New Hacker's Dictionary -
+computer and hi-tech terms. Various copies on line including:
+    <a href="http://www.catb.org/jargon/">http://www.catb.org/jargon/</a>
+
+Online Etymology Dictionary -- includes many placenames
+    <a href="http://www.etymonline.com/">http://www.etymonline.com/</a>
+
+Slang dictionaries on the Web - Marius Hancu's list is here:
+    <a href="http://tinyurl.com/477xj">http://tinyurl.com/477xj</a>
+
+Urban Dictionary - slang defined by the general public
+    <a href="http://www.urbandictionary.com/">http://www.urbandictionary.com/</a>
+
+AlphaDictionary.com - multilingual dictionary: type a word and choose from 16 languages
+    <a href="http://www.alphadictionary.com">http://www.alphadictionary.com</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=Acronymsandabbreviations></a><a name=Acrony0006></a>
+*Acronyms and abbreviations
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Onelook (above) finds many initialisms. Two other searchable databases:
+
+* The Internet Acronym Server, by Silmaril
+   <a href="http://acronyms.silmaril.ie/cgi-bin/uncgi/acronyms">http://acronyms.silmaril.ie/cgi-bin/uncgi/acronyms</a>
+
+Acronym Finder
+    <a href="http://www.AcronymFinder.com/">http://www.AcronymFinder.com/</a>
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~<a name=Wordsandlanguage></a><a name=Siteso0007></a>
+* Words and language
+~~~~~~~~~~~~~~~~~~~~~
+
+Looking for the origin of a colorful expression? The a.u.e webmaster has
+arranged a combined link to the indexes of many of the sites below.
+Enter your word once at the AUE Website Search field and get links to
+each place the term is discussed.
+     <a href="index.shtml">http://www.alt-usage-english.org/</a>
+
+The Maven's Word of the Day (formerly Jesse's)
+Large archive of dictionary editor answers to word questions.
+     <a href="http://tinyurl.com/yunh9">http://tinyurl.com/yunh9</a>
+
+Common Errors in English -- Tips on hundreds of confusing words and
+pairs such as affect/effect, adapt/adopt, advice/advise, etc.
+     <a href="http://www.wsu.edu/~brians/errors/errors.html">http://www.wsu.edu/~brians/errors/errors.html</a>
+
+Michael Quinion, World Wide Words -- Discusses new words and the
+reappearance of old ones. Q&amp;A section.
+     <a href="http://www.worldwidewords.org/">http://www.worldwidewords.org/</a>
+
+Evan Morris, The Word Detective -- Answers questions on origins of
+colorful words and phrases. Large archive.
+     <a href="http://www.word-detective.com">http://www.word-detective.com</a>
+
+John Lawler -- A linguistics professor gives masterful explanations of
+how language really works
+     <a href="http://www-personal.umich.edu/~jlawler/aue.html">http://www-personal.umich.edu/~jlawler/aue.html</a>
+
+sci.lang FAQ -- language and linguistics questions commonly asked
+     <a href="http://www.zompist.com/langfaq.html">http://www.zompist.com/langfaq.html</a>
+
+Take Our Word -- the Weekly Word-origin Webzine
+     <a href="http://takeourword.com/">http://takeourword.com/</a>
+
+Wordorigins.org - Dave Wilton's Etymology Page
+     <a href="http://www.wordorigins.org/">http://www.wordorigins.org/</a>
+
+Sharp Points by Bill Walsh -- real-life copy editing dilemmas
+     <a href="http://www.theslot.com/sharp.html">http://www.theslot.com/sharp.html</a>
+
+Atlas of North American English -- Maps and articles on regional
+dialects in the US. Knowledge of basic linguistics advised.
+     <a href="http://www.ling.upenn.edu/phono_atlas/">http://www.ling.upenn.edu/phono_atlas/</a>
+
+* Dialect Survey Maps and Results - Over 100 US regionalisms
+     <a href="http://www4.uwm.edu/FLL/linguistics/dialect/maps.html">http://www4.uwm.edu/FLL/linguistics/dialect/maps.html</a>
+
+Word2Word -- links to dictionaries, translators, language sites, etc.
+     <a href="http://www.word2word.com/dictionary.html">http://www.word2word.com/dictionary.html</a>
+
+Fun with Words -- unusual words, lists of oddities, etc.
+     <a href="http://rinkworks.com/words/">http://rinkworks.com/words/</a>
+
+Word Ways: The Journal of Recreational Linguistics
+     <a href="http://www.wordways.com/">http://www.wordways.com/</a>
+
+Double-Tongued Word Wrester -- definitions, citations of modern words
+     <a href="http://www.doubletongued.org/">http://www.doubletongued.org/</a>
+
+Science Fiction Citation Project - Help OED find words in SF literature
+     <a href="http://www.jessesword.com/SF/sf_citations.shtml">http://www.jessesword.com/SF/sf_citations.shtml</a>
+
+The Big Apple - history of words from New York City
+     <a href="http://www.barrypopik.com/">http://www.barrypopik.com/</a>
+
+American Dialect Society ListServ - discusses words, phrases, etc.
+     <a href="http://listserv.linguistlist.org/cgi-bin/wa?A0=ads-l">http://listserv.linguistlist.org/cgi-bin/wa?A0=ads-l</a>
+
+Australian Word Map - shows regionalisms
+     <a href="http://www.abc.net.au/wordmap/default.htm">http://www.abc.net.au/wordmap/default.htm</a>
+
+LinguaFranca - radio show about language. Read or listen (or both!)
+     <a href="http://www.abc.net.au/rn/linguafranca/">http://www.abc.net.au/rn/linguafranca/</a>
+
+After Deadline - NY Times columns on grammar &amp; style
+     <a href="http://topics.blogs.nytimes.com/tag/after-deadline/">http://topics.blogs.nytimes.com/tag/after-deadline/</a>
+
+Karen Chung's Language and Linguistics Links
+     <a href="http://homepage.ntu.edu.tw/~karchung/linguistics%20links.htm">http://homepage.ntu.edu.tw/~karchung/linguistics%20links.htm</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=GrammarFrequentlyRequestedTopics></a>
+Grammar: Frequently Requested Topics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Adjective order ("a small brown wooden house")
+   <a href="http://learnenglish.britishcouncil.org/en/english-grammar/adjectives/order-adjectives">http://learnenglish.britishcouncil.org/en/english-grammar/adjectives/order-adjectives</a>
+
+Agreement of subject &amp; verb. Singular/plurals.(Use "Next" &amp; links)
+   <a href="http://www.bartleby.com/68/40/240.html">http://www.bartleby.com/68/40/240.html</a>
+
+Conditionals ("if I would...")
+   <a href="http://grammar.ccc.commnet.edu/grammar/conditional2.htm">http://grammar.ccc.commnet.edu/grammar/conditional2.htm</a>
+
+Conjugate any English verb; other languages, too - at Verbix
+   <a href="http://www.verbix.com/languages/english.shtml">http://www.verbix.com/languages/english.shtml</a>
+
+Diagramming sentences
+   <a href="http://www.utexas.edu/courses/langling/e360k/handouts/diagrams/">http://www.utexas.edu/courses/langling/e360k/handouts/diagrams/</a>
+
+Phrasal Verbs, separable &amp; inseparable (see also linked list)
+   <a href="http://grammar.ccc.commnet.edu/grammar/verbs.htm#phrasal">http://grammar.ccc.commnet.edu/grammar/verbs.htm#phrasal</a>
+
+Place Names with their adjectives (-an, -ian, -ese, etc.)
+   <a href="http://www.sf.airnet.ne.jp/~ts/language/placename.html">http://www.sf.airnet.ne.jp/~ts/language/placename.html</a>
+
+Tenses in English -- learn "progressive," "continuous," etc.
+   <a href="http://grammar.ccc.commnet.edu/grammar/tenses/tense_frames.htm">http://grammar.ccc.commnet.edu/grammar/tenses/tense_frames.htm</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=WritingandGrammarGuidesOnLine></a><a name=Writin0008></a>
+Writing and Grammar Guides On Line
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Guide to Grammar and Writing, by Charles Darling
+   <a href="http://grammar.ccc.commnet.edu/grammar/index2.htm">http://grammar.ccc.commnet.edu/grammar/index2.htm</a>
+
+Online English Grammar
+   <a href="http://www.edufind.com/english/grammar/toc.cfm">http://www.edufind.com/english/grammar/toc.cfm</a>
+
+Grammar and Style Notes by Jack Lynch
+   <a href="http://andromeda.rutgers.edu/~jlynch/Writing/">http://andromeda.rutgers.edu/~jlynch/Writing/</a>
+
+Handbook of Style, by Merriam-Webster, Inc.
+   <a href="http://szotar.sztaki.hu/webster/info/index.html">http://szotar.sztaki.hu/webster/info/index.html</a>
+
+The Online English Grammar, by Anthony Hughes
+   <a href="http://www.edufind.com/english/grammar/toc.cfm">http://www.edufind.com/english/grammar/toc.cfm</a>
+
+The Guardian Style Guide (British newspaper):
+   <a href="http://www.guardianunlimited.co.uk/styleguide/">http://www.guardianunlimited.co.uk/styleguide/</a>
+
+Bartleby -- US style guides: American Heritage Book of English
+Usage, Columbia Guide to Standard American English (1993) and Strunk's
+Elements of Style (1916). Also, UK: Fowler, The King's English, 1908.
+   <a href="http://www.bartleby.com/">http://www.bartleby.com/</a>
+
+Chicago Manual of Style: FAQ and index (not the manual itself)
+   <a href="http://www.chicagomanualofstyle.org/cmosfaq.html">http://www.chicagomanualofstyle.org/cmosfaq.html</a>
+
+English Style Guide -- recommendations from the European Commission
+<a href="http://europa.eu.int/comm/translation/writing/style_guides/english/index_en.htm">http://europa.eu.int/comm/translation/writing/style_guides/english/index
+_en.htm</a>
+
+US Government Printing Office Style Manual
+   <a href="http://www.gpoaccess.gov/stylemanual/index.html">http://www.gpoaccess.gov/stylemanual/index.html</a>
+
+The Internet Grammar of English: modern grammar (word classes, etc.)
+   <a href="http://www.ucl.ac.uk/internet-grammar/">http://www.ucl.ac.uk/internet-grammar/</a>
+
+The Online Writing Lab at Purdue University
+   <a href="http://owl.english.purdue.edu/">http://owl.english.purdue.edu/</a>
+
+APA Style Tips - for academic writing, bibliographies, etc.
+   <a href="http://www.apastyle.org/previoustips.html">http://www.apastyle.org/previoustips.html</a>
+
+The Plain English Campaign: guides to writing letters, reports, etc.
+   <a href="http://www.plainenglish.co.uk/">http://www.plainenglish.co.uk/</a>
+
+Garbl's Writing Resources On Line:
+A descriptive list of links about writing, and a style manual
+   <a href="http://garbl.home.comcast.net/writing/index.htm">http://garbl.home.comcast.net/writing/index.htm</a>
+
+Yahoo! Grammar &amp; Usage -- A long list of sites.
+<a href="http://dir.yahoo.com/Social_Science/Linguistics_and_Human_Languages/Languages/Specific_Languages/English/Grammar__Usage__and_Style/">http://dir.yahoo.com/Social_Science/Linguistics_and_Human_Languages/Lang
+uages/Specific_Languages/English/Grammar__Usage__and_Style/</a>
+
+Grammar resources, listed at "English as a Second Language" website
+    <a href="http://www.rong-chang.com/grammar.htm">http://www.rong-chang.com/grammar.htm</a>
+
+The Writing Center, advice on academic writing
+    <a href="http://www.unc.edu/depts/wcweb/handouts/">http://www.unc.edu/depts/wcweb/handouts/</a>
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=EncyclopediasSearchEngines></a><a name=Encycl0009></a>
+*Encyclopedias &amp; Search Engines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sometimes, language questions are tied closely to history, science,
+geography, and other factual matters.
+
+* Wikipedia is where many look first, but be wary of errors
+    <a href="http://en.wikipedia.org/wiki/Main_Page">http://en.wikipedia.org/wiki/Main_Page</a>
+
+InfoPlease - encyclopedia, almanac, atlas, more
+   <a href="http://www.infoplease.com/">http://www.infoplease.com/</a>
+
+* Biographical Dictionary - an excellent quick reference
+   <a href="http://www.s9.com/">http://www.s9.com/</a>
+
+Biography.com
+   <a href="http://www.biography.com/">http://www.biography.com/</a>
+
+Dictionary of Famous People
+   <a href="http://www.explore-biography.com/">http://www.explore-biography.com/</a>
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=BritishEnglishScots></a><a name=Britis0010></a>
+British English; Scots
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The American-British British-American Dictionary
+   <a href="http://www.peak.org/~jeremy/dictionary/">http://www.peak.org/~jeremy/dictionary/</a>
+
+Estuary English - recent developments in southern England
+   <a href="http://www.phon.ucl.ac.uk/home/estuary/index.html">http://www.phon.ucl.ac.uk/home/estuary/index.html</a>
+
+The Best of British
+   <a href="http://www.effingpot.com/">http://www.effingpot.com/</a>
+
+English slang and colloquialisms used in the United Kingdom
+   <a href="http://www.peevish.co.uk/slang/">http://www.peevish.co.uk/slang/</a>
+
+Scotsgate - info, dictionaries, links on Lowlands Scots
+   <a href="http://www.scotsgate.com/">http://www.scotsgate.com/</a>
+
+Dictionary of the Scots Language - site combines two large dictionaries
+    <a href="http://www.dsl.ac.uk/dsl/">http://www.dsl.ac.uk/dsl/</a>
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=BlackEnglishAfricanAmericanVernacularEnglishEbonics></a><a name=BlackE0011></a>
+Black English (African-American Vernacular English, Ebonics)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+African American Vernacular English (Ebonics) by Jack Sidnell
+   <a href="http://www.une.edu.au/langnet/definitions/aave.html">http://www.une.edu.au/langnet/definitions/aave.html</a>
+
+The Center for Applied Linguistics: Ebonics Information Page
+   <a href="http://www.cal.org/ebonics/">http://www.cal.org/ebonics/</a>
+
+John Lawler on Ebonics: a statement by linguists, bibliography &amp; links:
+   <a href="http://www-personal.umich.edu/~jlawler/ebonics.lsa.html">http://www-personal.umich.edu/~jlawler/ebonics.lsa.html</a>
+
+African-American History and Culture
+   <a href="http://www.cviog.uga.edu/Projects/gainfo/blackga.htm">http://www.cviog.uga.edu/Projects/gainfo/blackga.htm</a>
+
+Characteristic Features of AAVE
+   <a href="http://www.hf.ntnu.no/engelsk/staff/johannesson/111SoS/L09-O04.htm">http://www.hf.ntnu.no/engelsk/staff/johannesson/111SoS/L09-O04.htm</a>
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=HistoricalEnglishandEnglishLiterature></a><a name=Histor0012></a>
+* Historical English, and English Literature
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Word Safari: Megalist of Word Links -- History Section:
+A good starting point with links to a number of sites on the
+development, grammar, pronunciation, and literature of Old English or
+Anglo-Saxon (example, Beowulf) and Middle English (example, Chaucer).
+   <a href="http://home.earthlink.net/~ruthpett/safari/megalist.htm#Jump3">http://home.earthlink.net/~ruthpett/safari/megalist.htm#Jump3</a>
+
+Da Engliscan Gesidas - Anglo-Saxon (Old English). Includes sound files.
+  <a href="http://www.kami.demon.co.uk/gesithas/index.html">http://www.kami.demon.co.uk/gesithas/index.html</a>
+
+I have not yet found a good site about "Early Modern English," but you
+can use these two sites to search for your own usage examples:
+
+Search Shakespeare sites
+   <a href="http://www.rhymezone.com/shakespeare/help/">http://www.rhymezone.com/shakespeare/help/</a>
+   <a href="http://the-tech.mit.edu/Shakespeare/">http://the-tech.mit.edu/Shakespeare/</a>   (search single plays only)
+
+Bible Gateway - Search the Bible (King James and other versions)
+   <a href="http://bible.gospelcom.net/">http://bible.gospelcom.net/</a>
+
+"Thou, Thee &amp; Archaic Grammar" -- a brief overview by AUE members:
+   <a href="pronoun_paradigms.html">http://www.alt-usage-english.org/pronoun_paradigms.html</a>
+
+
+Sites for "Modern English" literature from 1700-2000:
+
+Bibliomania - search many classic novels and essays simultaneously
+   <a href="http://www.bibliomania.com/">http://www.bibliomania.com/</a>
+
+Search E-Books - another literature search
+   <a href="http://www.searchebooks.com/">http://www.searchebooks.com/</a>
+
+Literaturepost.com - Google &lt;site:literaturepost.com> to search texts
+   <a href="http://www.literaturepost.com/">http://www.literaturepost.com/</a>
+
+Making of America - many books &amp; journals of mid-1800s
+   <a href="http://www.hti.umich.edu/m/moagrp/">http://www.hti.umich.edu/m/moagrp/</a>
+
+Amazon.com: Books / Search Inside the Book -- search text of new books!
+<a href="http://www.amazon.com/exec/obidos/tg/browse/-/10197021/103-6386191-4283024">http://www.amazon.com/exec/obidos/tg/browse/-/10197021/103-6386191-42830
+24</a>
+
+The On-Line Books Page -- thousands of works of literature that are
+available for free download &amp; search. Includes Project Gutenberg titles.
+   <a href="http://digital.library.upenn.edu/books/">http://digital.library.upenn.edu/books/</a>
+
+Google Books - large number of scanned books, although erratic quality
+   <a href="http://books.google.com/advanced_book_search">http://books.google.com/advanced_book_search</a>
+
+University Of Virginia's Modern English Collection -- electronic texts searchable by year
+   <a href="http://tinyurl.com/nv8skg">http://tinyurl.com/nv8skg</a>            or  <a href="http://etext.lib.virginia.edu/modeng/">http://etext.lib.virginia.edu/modeng/</a>
+
+Schulers Books Online
+   <a href="http://schulers.com/books/">http://schulers.com/books/</a>
+
+* The Corpus of Contemporary American English (COCA) - Search word use from 1990-on.
+   <a href="http://www.americancorpus.org/">http://www.americancorpus.org/</a>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This series of seven "Intro Documents" is intended to aid newcomers to
+the newsgroup. The articles are posted frequently in the newsgroup
+and are installed at this Web site for your convenience, along with
+a <a href="/introdocs.shtml">menu of links to the seven Intro documents</a>.
+
+At <a href="/index.shtml">this site's home page</a> you will find links to other helpful
+information, including the <a href="/fast_faq.shtml">FAQ</a>.
+
+Comments and corrections to these Intro documents should be emailed to
+me. -- <a href="/cgi-bin/email.cgi?n=Donna_Richoux&amp;d2=nl&amp;d1=euronet&amp;l=trio">Donna Richoux</a>
+</pre>
+       <!-- indexer: StartSkip -->
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF0000">B</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#top">Top</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

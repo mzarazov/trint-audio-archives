@@ -1,0 +1,443 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Comments on a Proposal for Reformed English Spelling</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+         <h1>Comments on a Proposal for Reformed English Spelling</h1>
+       <div class="subh1">by 
+Bob Cunningham</div>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <p>[Added note, 28 November 2000: I realize that the author of the subject reformed spelling
+scheme has probably continued to work on it, so that many of my comments on it may no longer be applicable to
+the scheme as it now stands.]
+       <p>
+Here are some comments on <a href="http://reformedorthography.cjb.net">A Reformed Orthography for the English Language</a>. I will use the following abbreviations:</p>
+
+       
+        
+       <table align="center" width="80%">
+        <tr valign="top">
+         <td>AE&nbsp;-</td><td>American English</td>
+        <tr valign="top">
+         <td>BC&nbsp;-</td><td>My idiolect</td>
+        <tr valign="top">
+								 <td>BE&nbsp;-</td><td>the modern received pronunciation used in <i>The New Shorter Oxford English Dictionary</i> (NSOED)</td>
+        <tr valign="top">
+         <td>CO&nbsp;-</td><td>conventional orthography</td>
+        <tr valign="top">
+         <td>RO&nbsp;-</td><td>the proposed reformed orthography</td>
+        <tr valign="top">
+         <td>RP&nbsp;-</td><td>the traditional received pronunciation that is used in <i>The Concise Oxford Dictionary</i>, Eighth Edition.</td>
+       </table>
+       <p>Pronunciations shown within vertical bars are in the notation of Evan Kirshenbaum's ASCII
+IPA.  I've used vertical bars instead of square brackets or slashes
+because I think the distinction between phonetics and phonemics is
+irrelevant to a discussion of this sort.  I've converted
+pronunciations copied and pasted from NSOED from the NSOED scheme to
+ASCII IPA.
+</p>
+       <p>
+The fallacy of trying to devise a reformed orthography that will
+please everyone is at least twofold.  One aspect is the greatly
+different pronunciations that are used in different communities.  The
+great number of such differences is typified by 'geyser' and
+'Argentine' (|gaIz@r| and |ArdZ@nti:n| in AE, |gi:z@| and
+|'A:dZ@ntVIn| in BE).  A great class of contrasting pronunciations
+arises from the fact that some dialects are rhotic and some are
+nonrhotic.
+</p>
+       <p>
+A second aspect is the impossibility of finding vowel representations
+that are likely to please everyone.  In the remainder of this posting,
+I'll dwell mostly on that second aspect.
+</p>
+       Following are some specific examples of the failure of RO to devise
+vowel symbols that consistently show the same pronunciation or that
+are at all transportable from BE to AE:
+       <p>
+       <ul>
+        <li>BE uses entirely different vowels in 'cat' and 'bath', but the
+examples in RO show them to be the same.
+         <p class="bq">
+    CO: cat, bath<br>
+    RO: cat, bath<br>
+    BE: |kat|, |bA:T|<br>
+    BC: |k&amp;t|, |b&amp;T|
+</p>
+        <li>BE uses an unrounded vowel in 'father', a rounded vowel in 'what'.  RO
+shows the two to have the same vowel.
+         <p class="bq">
+CO: father, what<br>
+RO: faadher, waat<br>
+           
+BE: |'fA:D@|, |wA.t|<br>
+BC: |'fA:D@r|, |wA:t|
+</p>
+        <li>BE uses |O|, the rounded, back, close-mid vowel in certain words,
+while AE has either that vowel or |A|, the unrounded, back, open
+vowel.
+         <p class="bq">
+CO: call, walk, broad<br>
+RO: koal, woak, broad   <br>
+BE: |kO:l|, |wO:k|, |brO:d|<br>
+BC: |kA:l|, |wA:k|, |brA:d|
+</p>
+        <li>RO has the same vowel in 'team' and the second vowel in 'happy', while
+RP has different vowels.
+         <p class="bq">
+CO: team, happy<br>
+RO: tym, hapy,   <br>
+RP: |ti:m|, |h&amp;pI|
+</p>
+        <li>In many dialects, the second vowel in 'music' is the same as the vowel
+in 'pick'.  In BC the second vowel in 'music' is the vowel of 'peek'.
+         <p class="bq">
+CO: pick, music<br>
+RO: pik, myoozik <br>
+BE: |pIk|, |mjusIk|<br>
+BC: |pIk|, |mjusik|
+</p>
+        <li>BE uses a vowel, |A.|, in words like 'got', 'hot', and 'rock', while
+that vowel may not even exist in AE and certainly does not exist in
+BC.
+         <p class="bq">
+CO: got, rock<br>
+RO: got, rok<br>
+BE: |gA.t|, |rA.k|<br>
+BC: |gA:t|, |rA:k|
+</p>
+        <li>It should strike BE speakers as quite strange to see a symbol
+suggesting the |o| sound in words like 'go' and 'hoax'.  Their
+diphthong in those words doesn't contain anything similar to an |o|
+sound.  Rather it uses a schwa where AE uses |o|.
+         <p class="bq">
+CO: go, hoax<br>
+RO: gow, howks<br>
+BE: |g@U|, |h@Uks| <br>
+BC: |goU|, |hoUks|
+</p>
+        <li>It might sound somewhat ludicrous to a BE speaker to hear 'stupid'
+pronounced with plain |u| instead of |ju| ('oo' instead of 'yoo').  It
+might have about the same effect as hearing 'music' pronounced |muzIk|
+('moozic') would have on me.
+         <p class="bq">
+CO: rude, stupid<br>
+RO: rood, stoopid<br>
+BE: rude |ru:d|, stupid |'stju:pId| ('styoopid')<br>
+BC: rude |ru:d|, stupid |'stu:p@d|
+</p>
+        <li>The diphthong in words like 'fly' and 'style' in BE has a schwa where
+AE has |a|.  Also, I find it strange in BE to see the second vowel of
+the diphthong represented as |I| (the vowel of 'pit').  I hear myself
+using |i| (the vowel of 'peat').
+         <p class="bq">
+CO: fly, style<br>
+RO: flai, stail<br>
+BE: |flVI|, |stVIl|<br>
+BC: |flai|, |stail|
+</p>
+       </ul>
+       <p>Some additional comments, not related to pronunciation:
+       <ul>
+        <li>The flags shown at the top of the RO Web page represent the following
+countries:
+         <p class="bq">
+England, Scotland, Wales, Northern Ireland, Ireland, United States,
+Canada, Australia, New Zealand
+</p>
+         <p>In contrast with that selection, which may be taken to be the author's
+idea of the principal English-speaking communities, the 1995
+<i>Britannica Yearbook</i> listed the following countries, in descending
+order of number of speakers, as the ones that had 100,000 or more
+mother-tongue speakers of English:
+</p>
+         <p class="bq">
+United States, United Kingdom, Canada, Australia, South Africa,
+Ireland, New Zealand, Trinidad and Tobago, India, Zimbabwe,
+Hong Kong, Belize, Malaysia, Spain<br>
+          <br>
+
+(For the numbers, see <a href="Distribution_English_speakers.shtml">Worldwide Distribution of English Speakers</a>)</p>
+        <li>Typo noted in passing:
+         <p class="bq">
+    CO: the, this, weather<br>
+    RO: dhe, dhis, weather 
+</p>
+       </ul>
+       <hr>
+       <p>The designer of the reformed-spelling scheme, Brian Nolfi, posted 
+a rebuttal to my comments, and he has given me permission to install his remarks here:
+</p>
+       <pre>
+>Bob Cunningham wrote:
+>
+>> BE uses entirely different vowels in 'cat' and 'bath', but the
+>> examples in RO show them to be the same.
+>
+>    I knew that when I wrote it. "Cat" and "bath" both use short vowels - in
+>contrast to "Kate" and "bathe" which use long vowels - that's why I use the
+>same letter to represent both, even though they are different.
+>
+>> BE uses an unrounded vowel in 'father', a rounded vowel in 'what'.  RO
+>> shows the two to have the same vowel.
+>
+>    Again, I was aware of that distinction. However, I feel that those vowel
+>sounds are close enough that they can be represented by the same letter. It
+>is acceptable for different dialects to spell a word the same way, even if
+>they pronounce the word differently.
+>
+>> BE uses |O|, the rounded, back, close-mid vowel in certain words,
+>> while AE has either that vowel or |A|, the unrounded, back, open
+>> vowel.
+>
+>    See above.
+>
+>> RO has the same vowel in 'team' and the second vowel in 'happy', while
+>> RP has different vowels.
+>
+>    See above.
+>
+>> In many dialects, the second vowel in 'music' is the same as the vowel
+>> in 'pick'.  In BC the second vowel in 'music' is the vowel of 'peek'.
+>
+>    See above.
+>
+>> BE uses a vowel, |A.|, in words like 'got', 'hot', and 'rock', while
+>> that vowel may not even exist in AE and certainly does not exist in
+>> BC.
+>
+>    See above.
+>
+>> It should strike UK speakers as quite strange to see a symbol
+>> suggesting the |o| sound in words like 'go' and 'hoax'.  Their
+>> diphthong in those words doesn't contain anything similar to an |o|
+>> sound.  Rather it uses a schwa where AE uses |o|.
+>
+>    See above.
+>
+>> It might sound somewhat ludicrous to a BE speaker to hear 'stupid'
+>> pronounced with plain |u| instead of |ju| ('oo' instead of 'yoo').  It
+>> might have about the same effect as hearing 'music' pronounced |muzIk|
+>> ('moozic') would have on me.
+>
+>    Good point. I missed that one. Maybe I'll default to the U.K.
+>pronunciation by changing it to "styoopid", but Americans can continue to
+>say "stoopid".
+>
+>> The diphthong in words like 'fly' and 'style' in BE has a schwa where
+>> AE has |a|.  Also, I find it strange in BE to see the second vowel of
+>> the diphthong represented as |I| (the vowel of 'pit').  I hear myself
+>> using |i| (the vowel of 'peat').
+>
+>    I was aware of that distinction. However, I feel that those vowel sounds
+>are close enough that they can be represented by the same letter. It is
+>acceptable for different dialects to spell a word the same way, even if they
+>pronounce the word differently.
+>
+>> The flags shown at the top of the RO Web page represent the following
+>> countries:
+>>
+>> England, Scotland, Wales, Northern Ireland, Ireland, United States,
+>> Canada, Australia, New Zealand
+>>
+>> In contrast with that selection, which may be taken to be the author's
+>> idea of the principal English-speaking communities, the 1995
+>> _Britannica Yearbook_ listed the following countries, in descending
+>> order of number of speakers, as the ones that had 100,000 or more
+>> mother-tongue speakers of English:
+>>
+>> United States, United Kingdom, Canada, Australia, South Africa,
+>> Ireland, New Zealand, Trinidad and Tobago, India, Zimbabwe,
+>> Hong Kong, Belize, Malaysia, Spain
+>
+>    The criterion for which flags are included is that they represent large
+>countries in which English is the main language. According to that
+>criterion, I excluded countries in which English is not the main language
+>(even if there is a large English-speaking community) as well as tiny
+>countries (even if English is the main language). My apologies to the
+>latter, but there is only so much space. If I've excluded any countries that
+>fit the criterion, please let me know.
+>
+>
+>> Typo noted in passing:
+>>
+>>     CO: the, this, weather
+>>     RO: dhe, dhis, weather
+>
+>    Good eye. I've proof-read the page numerous times, but alas, that one
+>eluded me. It should be "wedher".
+>
+>    As I've said to Peter, I appreciate the feedback because I intend to
+>keep improving the system. Your criticisms facilitate that process.
+>
+>    Thanks.
+</pre>
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

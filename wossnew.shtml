@@ -1,0 +1,1536 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: What's new: History of Changes at the Site</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>What's new: History of Changes at the AUE Web Site</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" --> 
+              <!-- faqshortname What's new? -->
+              <!-- indexer: Sections -->
+              <p>On this page the webmaster logs additions to the <b>alt-usage-english.org</b> 
+                site, and significant changes to the content. Minor changes, and 
+                changes that affect only presentation, are usually not logged.</p>
+              <p>Old versions of this site can be viewed using the <a href="http://web.archive.org/web/*/http://alt-usage-english.org">Wayback 
+                Machine</a>.</p>
+              <ul>
+                <li>
+                  <h3><a name="1may16"></a>1 May 2016</h3>
+                  <p>Mike Barnes retired from the webmaster's position. The role is vacant.</p>
+                </li>
+                <li>
+                  <h3><a name="27apr15"></a>27 Apr 2015</h3>
+                  <p>Added <a href="AUE_gallery/guy_barry.html">Guy Barry</a> to the <a href="AUE_gallery/gallery.shtml">AUE Gallery</a>.</p>
+                </li>
+                <li>
+                  <h3><a name="25apr2015" id="25apr2015"></a>25 Apr 2015 </h3>
+                  <p>Added information about the <a href="boink_apr15/index.html">Bath Boink, April 2015</a> (thanks
+                    go to Katy Jennison).</p>
+                </li>
+                <li>
+                  <h3><a name="24apr15"></a>24 Apr 2015</h3>
+                  <p>Added <a href="AUE_gallery/charles_hope.html">Charles Hope</a> to the <a href="AUE_gallery/gallery.shtml">AUE Gallery</a>.</p>
+                </li>
+                <li>
+                       <h3><a name="12mar15"></a>12 Mar 2015</h3>
+                       <p>Added to the <a href="/audio_archive.shtml">Audio Archive</a> "Arthur The Rat" spoken by "Welsh speaker (Pembrokeshire)".
+                         Thanks to Rhys Thomas. </p>
+                </li>
+                <li>
+                       <h3><a name="1dec13"></a>1 Dec 2013</h3>
+                       <p>Added to the <a href="/audio_archive.shtml">Audio Archive</a> "Bother, father caught..." spoken by "Southern speaker (eastern North Carolina)".
+                         Thanks to Ann Duke Davis. </p>
+                </li>
+                <li>
+                  <h3><a name="5feb2013" id="5feb2013"></a>5 Feb 2013 </h3>
+                  <p>Added information about the <a href="boink_aug00/index.html">Palo Alto Boink, August 2000</a> (thanks
+                    go to Skitt).</p>
+                </li>
+                <li>
+                  <h3><a name="14nov12"></a>14 Nov 2012</h3>
+                  <p>Added the <a href="sdc2012/">2012 Summer Doldrums Competition</a>.</p>
+                <li>
+                       <h3><a name="23jul12"></a>23 Jul 2012</h3>
+                       <p>Added to the <a href="/audio_archive.shtml">Audio Archive</a> "Arthur The Rat" spoken by "Southern California native living in Florida, male, 50, with national influences (and some voice training)".
+                         Thanks to Dale W Johnston. </p>
+                <li>
+                  <h3><a name="6dec11"></a>6 Dec 2011</h3>
+                  <p>Added a rather belated report of the <a href="boink_apr06/index.html">Palo Alto (Bay Area) Mini-Boink, April 2006</a>.</p>
+                </li>
+                <li>
+                  <h3><a name="13sep11"></a>13 Sep 2011</h3>
+                  <p>Added the <a href="sdc2011/">2011 Summer Doldrums Competition</a>.</p>
+                     <li>
+                       <h3><a name="11sep11"></a>11 Sep 2011</h3>
+                       <p>Added to the <a href="/audio_archive.shtml">Audio Archive</a> contributions from "New York City born Texan speaker": Arthur the Rat, Comma gets a cure. Thanks to Richard
+                         for those. </p></li>
+                <li><h3><a name="21aug11"></a>21 Aug 2011</h3>
+                  <p>Added <a href="AUE_gallery/myles_paulsen.html">Myles Paulsen</a> to the <a href="AUE_gallery/gallery.shtml">AUE Gallery</a>.</p>
+                </li>
+                <li>
+                  <h3><a name="26jul11"></a>26 Jul 2011</h3>
+                  <p>Added <a href="AUE_gallery/steve_hayes.html">Steve Hayes</a> and <a href="AUE_gallery/david_stretch.html">David
+                      Stretch</a> to the <a href="AUE_gallery/gallery.shtml">AUE Gallery</a>.</p>
+                  <p>Added report of the <a href="boink_jul11/index.html">Coventry Boink, July 2011</a>. </p>
+                </li>
+                <li>
+                  <h3><a name="12jul11"></a>12 Jul 2011</h3>
+                  <p>Added <a href="AUE_gallery/frank_s.html">Frank S</a> to the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>. </p>
+                </li>
+                <li> <h3><a name="5apr11"></a>5 Apr 2011</h3>
+                   <p>Added to the <a href="/audio_archive.shtml">Audio Archive</a> contributions from "Canadian from Atlantic
+                     Canada (East Coast)": Arthur the Rat, The North Wind and the Sun. Thanks to Brendan Riley for those. </p>
+                 <li> <h3><a name="19jan11"></a>19 Jan 2011</h3>
+                   <p>Added Wikipedia links to the <a href="AUE_gallery/reinhold_aman.html">entry for Reinhold Aman</a> in the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>. </p>
+                <li>
+                  <h3><a name="18jan11"></a>18 Jan 2011</h3>
+                  <p>Added the <a href="sdc2010/">2010 Summer Doldrums Competition</a>.</p>
+                </li>
+                 <li> <h3><a name="6jan11"></a>6 Jan 2011</h3>
+                   <p>Updated the <a href="AUE_gallery/robert_bannister.html">entry for Robert Bannister</a> in the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>, with a new photo and caption. </p>
+                </li>
+                 <li> <h3><a name="22sep10"></a>22 Sep 2010</h3>
+                   <p>Updated the <a href="AUE_gallery/mark_israel.html">entry for Mark Israel</a> in the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>, to include the report of his death. </p>
+                </li>
+                 <li> <h3><a name="5jul10"></a>5 Jul 2010</h3>
+                  <p>Added <a href="AUE_gallery/peter_young.html">Peter Young</a> to the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>. </p>
+                </li>
+                <li>
+                  <h3><a name="19oct09"></a>19 Oct 2009</h3>
+              <p>Added report of the <a href="boink_oct09/index.html">OxBoink, October 2009</a>. </p></li>
+                <li>
+                  <h3><a name="9oct09"></a>9 Oct 2009</h3>
+                  <p>Added up-to-date photo of <a href="AUE_gallery/mike_barnes.html">Mike Barnes</a> to the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>. </p></li>
+                 <li> <h3><a name="7oct09"></a>7 Oct 2009</h3>
+                  <p>Added <a href="AUE_gallery/bertel_lund_hansen.html">Bertel Lund Hansen</a> to the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>. </p>
+              <p>Added report of the <a href="boink_sep09/index.html">ManBoink, September 2009</a>. </p></li>
+                 <li> <h3><a name="2oct09"></a>2 Oct 2009</h3>
+                  <p>Added <a href="AUE_gallery/james_hogg.html">James Hogg</a> to the <a href="AUE_gallery/gallery.shtml">AUE
+                      Gallery</a>. </p>
+                </li>
+                <li><h3><a name="20sep09"></a>20 Sep 2009</h3>
+                  <p>The site has been moved and is now hosted at <a href="http://www.zen.co.uk/">Zen Internet</a>.</p>
+                  <p>Many changes have been made, mainly internal
+                      but some external, to improve the security and maintainability of the site. Changes visible to users
+                    include:</p>
+                  <ul>
+                    <li>Site navigation no longer uses JavaScript.</li>
+                    <li>The &quot;Site Statistics&quot; item on the side menu has been deleted. Usage statistics are no longer available.</li>
+                    <li>The &quot;Printer-Friendly&quot; item on the side menu has been deleted. Pages are formatted automatically for
+                    printing by your browser using an enhanced CSS style-sheet.</li>
+                  </ul>
+                </li>
+                <li>
+                  <h3><a name="6apr09"></a>6 Apr 2009</h3>
+                  <p>Removed all references to Bob Cunningham's web site, which he has deleted.</p>
+                  <p>Moved Bob Cunningham's recording of "Comma Gets a Cure" to the <a href="audio_archive.shtml">Audio Archive</a> page.</p></li>
+                <li>
+                  <h3><a name="19jan09"></a>19 Jan 2009</h3>
+                  <p>Added Bob Cunningham's recording of "Comma Gets a Cure" to the <a href="speechexamples.html">Speech Examples</a> page.</p>
+                  <p>Added Bob Cunningham's alternative <a href="symbol_table.html">Pronunciation Symbols</a> page to the <a href="skeleton.shtml">FAQ
+                  Supplement</a>.</p>
+                  <p>Added report of the <a href="boink_jan09/index.html">OxBoink, Jan 2009</a>. </p>
+                <li>
+                  <h3><a name="31oct08"></a>31 Oct 2008</h3>
+                  <p>Added report of the <a href="boink_oct08/index.html">Boston Boink, Oct 2008</a>. </p>
+                <li>
+                  <h3><a name="25sep08"></a>25 Sep 2008</h3>
+                  <p>Added report of the <a href="boink_sep08/index.html">Manchester Boink, Sep 2008</a>. </p>
+                <li>
+                  <h3><a name="3sep08"></a>3 Sep 2008</h3>
+                  <p>Added a link to Evan Kirshenbaum's <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;lr=lang_en&amp;hl=en&amp;safe=on&amp;msa=0&amp;msid=103988438588879042297.00045572cd6d7bdf3a216&amp;ll=19.973349,47.109375&amp;spn=145.352398,360&amp;t=h&amp;z=2">AUE
+                      participant map</a> to the <a href="newsgroup.html#people">AUE People
+                  section of the Newsgroup page</a>.</p>
+                <li>
+                  <h3><a name="26aug08"></a>26 Aug 2008</h3>
+                  <p>The ASCII IPA pages (<a href="ipa/ascii_ipa_combined.shtml#others">Combined</a> and <a href="ipa/ascii_ipa_american_only.shtml#others">American
+                  Only</a>) have been improved by adding an "IPA symbol" column to the "Other symbols" tables.</p>
+                <li>
+                  <h3><a name="8aug08"></a>8 Aug 2008</h3>
+                  <p>Several pages in the <a href="fast_faq.shtml">FAQ</a> and <a href="skeleton.shtml">FAQ supplement</a>,
+                    which were outdated, have been updated or deleted.</p>
+                <li>
+                  <h3><a name="31jul08"></a>31 Jul 2008</h3>
+                  <p>Added page <a href="newtech.html">AUE on New Technology</a>. Thanks to Laura for this contribution to the site.                </p>
+                <li>
+                  <h3><a name="1jul08"></a>1 Jul 2008</h3>
+                  <p>Added report of the <a href="boink_jun08/index.html">OxBoink, June 2008</a>.                </p>
+                <li>
+                  <h3><a name="27apr08"></a>27 Apr 2008</h3>
+                  <p>Added report of the <a href="boink_apr08/index.html">Brussels mini-boink, April 2008</a>.                </p>
+                <li> 
+                  <h3><a name="18feb08"></a>18 Feb 2008</h3>
+                  <p>Added page <a href="long_and_short_vowels.html">Long and Short Vowels</a> to the <a href="skeleton.shtml">FAQ Supplement</a>.
+                  It was written some time ago and belatedly submitted for inclusion on this site &#8212; but better late than never.</p>
+                <li>
+                    <h3><a name="4dec07"></a>4 Dec 2007</h3>
+                    <p>Rather belatedly updated the Gallery page for <a href="AUE_gallery/mark_israel.html">Mark Israel</a>,
+                      providing links to information about his cycle accident in 2004 and his subsequent recovery.</p>
+                <li>
+                  <h3><a name="24oct07"></a>24 Oct 2007</h3>
+                  <p>Added the <a href="sdc2007/">2007 Summer Doldrums Competition</a>.</p>
+                <li> 
+                  <h3><a name="13oct07"></a>13 Oct 2007</h3>
+                  <p>The new <a href="eusitesearch.html">English Usage Site Search</a> has been in operation for six months now without
+                      any complaints from users, so I've deleted the old search facilities (Multi-Site Search and Multi-Site
+                    Index).</p>
+                <li>
+                  <h3><a name="15jul07"></a>15 Jul 2007</h3>
+                  <p>Additions to the <a href="audio_archive.shtml">Audio Archive</a>: "General Australian speaker 2" (Adrian
+                      Morgan) speaking "<a href="audio_archive.shtml#Arthur">Arthur the Rat</a>", "<a href="audio_archive.shtml#Rainbow">The Rainbow Passage</a>", "<a href="audio_archive.shtml#Accent">Bother,
+                        father caught...</a>", and "<a href="audio_archive.shtml#Ferdinand">I
+                      teach Ferdinand</a>".</p>
+                <li> 
+                  <h3><a name="30may07"></a>30 May 2007</h3>
+                  <p>Added page <a href="illitterate.html">Embarrassing error: &quot;illitterate&quot;</a> to the <a href="skeleton.shtml">FAQ Supplement</a>.</p>
+                <li> 
+                  <h3><a name="26apr07"></a>26 Apr 2007</h3>
+                  <p>Added report of the <a href="boink_apr07_2/index.html">Greater Bay Area Boink, April 2007</a>.</p>
+                <li> 
+                  <h3><a name="19apr07"></a>19 Apr 2007</h3>
+                  <p>The Site Statistics report was replaced by a new, more informative version powered by <a href="http://www.mrunix.net/webalizer/">Webalizer</a>.</p>
+                <li> 
+                  <h3><a name="13apr07"></a>13 Apr 2007</h3>
+                  <p>A new search facility, the <a href="eusitesearch.html">English Usage Site Search</a>, was introduced.</p>
+                <li> 
+                  <h3><a name="10apr07"></a>10 Apr 2007</h3>
+                  <p>Added report of the <a href="boink_apr07/index.html">London "Baryton"
+                    Boink, April 2007</a>.</p>
+                <li> 
+                  <h3><a name="19mar07"></a>19 Mar 2007</h3>
+                  <p>Added contributions to the <a href="skeleton.shtml">FAQ Supplement</a> from Bob Cunningham:</p>                
+                  <ul>
+                    <li><a href="newsreaders_2006.html">Newsreaders used by alt.usage.english posters, 1996-2006 </a></li>
+                    <li><a href="homo-defs.html">Comparison of definitions of "homograph&quot;, &quot;homonym&quot;, and &quot;homophone"</a></li>
+                  </ul>
+                <li> 
+                  <h3><a name="4mar07"></a>4 Mar 2007</h3>
+                  <p>Bob Cunningham's AUE statistics pages are no longer included in the Multi-Site Search and the Multi-Site Index.
+                  They were removed at Bob's request.</p>
+                <li> 
+                  <h3><a name="21dec06"></a>21 Dec 2006</h3>
+                  <p>Addition to the <a href="audio_archive.shtml">Audio Archive</a>, "Alberta Canadian" (Jay Litwin) speaking "<a href="audio_archive.shtml#Ferdinand">I teach Ferdinand</a>".</p>
+                <li> 
+                  <h3><a name="18nov06"></a>18 Nov 2006</h3>
+                  <p>Updated the Gallery page for <a href="AUE_gallery/graeme_thomas.html">Graeme Thomas</a>, who died earlier in the month.</p>
+                <li> 
+                  <h3><a name="9oct06"></a>9 Oct 2006</h3>
+                  <p>Added the <a href="sdc2006/">2006 Summer Doldrums Competition</a>.</p>
+                <li> 
+                  <h3><a name="4sep06"></a>4 Sep 2006</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/ozzie_maland.html">tinwhistler (Ozzie Maland)</a>.</p>
+                <li> 
+                  <h3><a name="17jun06"></a>17 Jun 2006</h3>
+                  <p>Updated picture in the gallery: <a href="AUE_gallery/reinhold_aman.html">Reinhold Aman</a>.</p>
+                <li> 
+                  <h3><a name="14jun06"></a>14 Jun 2006</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/jerry_friedman.html">Jerry Friedman</a>.</p>
+                  <p>Added report of the <a href="boink_jun06/index.html">London 
+                    Boink, June 2006</a>.</p>
+                <li> 
+                  <h3><a name="17feb06"></a>17 Feb 2006</h3>
+                  <p>Added report of the <a href="boink_feb06/index.html">London 
+                    Boink, February 2006</a>.</p>
+                <li> 
+                  <h3><a name="31jan06"></a>31 Jan 2006</h3>
+                  <p>Added report of the <a href="boink_nov05/index.html">Las Vegas 
+                    Boink, November 2005</a>.</p>
+                <li> 
+                  <h3><a name="19jan06"></a>19 Jan 2006</h3>
+                  <p>Additions to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://www.sharpened.net/glossary/">The Sharpened Glossary of Computer and Internet Terms</a> A Dictionary of Computer Terms with Easy-To-Understand Definitions, and <a href="http://www.techterms.org/">The Tech Terms Computer Dictionary</a> where computer and technology terms are defined and explained.</p>
+                  <p>New picture in the gallery: <a href="AUE_gallery/paul_townsend.html">Paul Townsend (aka Prai Jei)</a>.</p>
+								  <p>Removed references to Mark Israel's FAQ at <em>http://www.english-usage.com/faq.html</em>, which is no longer available. </p>
+                <li> 
+                  <h3><a name="4jan06"></a>4 Jan 2006</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/nate_branscom.html">Nate Branscom</a>.</p>
+                <li> 
+                  <h3><a name="19oct05"></a>19 Oct 2005</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/paul_wolff.html">Paul Wolff</a>.</p>
+                <li> 
+                  <h3><a name="27sep05"></a>27 Sep 2005</h3>
+                  <p>Added the <a href="sdc2005/">2005 Summer Doldrums Competition</a>.</p>
+                                <li> 
+                                  <h3><a name="26sep05"></a>26 Sep 2005</h3>
+                    <p>Added a correction to the <a href="excerpts/fxlimere.html">FAQ 
+                      article on "limerence"</a>.</p>
+                  <li> 
+                    <h3><a name="15sep05"></a>15 Sep 2005</h3>
+                    <p>Added report of the <a href="boink_sep05/index.html">Manchester 
+                      Boink, September 2005</a>.</p>
+                  <li> 
+                    <h3><a name="19jul05"></a>19 Jul 2005</h3>
+                    <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                      page: <a href="http://eggcorns.lascribe.net/">The Eggcorn 
+                        Database</a>. An eggcorn is an unusual spelling of a particular 
+                      kind, such as free reign (instead of free rein) or hone in 
+                      on (instead of home in on).</p>
+                                  </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="30jun05"></a>30 Jun 2005</h3>
+                  <p>Lawrence Paros and Dave Middleton's <i>A Word With You </i>site 
+                    (www.wordwithyou.com) no longer exists. Entries relating to 
+                    it no longer appear in the Multi-Site 
+                    Search and Index.</p>
+                </li>
+                <li> 
+                  <h3><a name="22jun05"></a>22 Jun 2005</h3>
+                  <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                    page: a <a href="http://www.explore-biography.com/">Dictionary 
+                    of Famous People</a>: Biographies for over 130,000 famous 
+                    people.</p>
+                </li>
+                <li> 
+                  <h3><a name="30may05"></a>30 May 2005</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/katy_jennison.html">Katy 
+                    Jennison</a>.</p>
+                <li> 
+                  <h3><a name="16may05"></a>16 May 2005</h3>
+                  <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                    page: an <a href="http://www.scottish-places.info/councils/soundsc13.html">Edinburgh 
+                    accent</a> from the <i>Gazetteer for Scotland</i>. Recorded 
+                    as a WAV file.</p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="2may05"></a>2 May 2005</h3>
+                  <p>Added report of the <a href="boink_may05/index.html">Oxford 
+                    Boink, May 2005</a>.</p>
+                <li> 
+                  <h3><a name="7jan05"></a>7 Jan 2005</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/maria_conlon.html">Maria 
+                    Conlon</a>.</p>
+                <li> 
+                  <h3><a name="19oct04"></a>19 Oct 2004</h3>
+                  <p>John Davies's FAQ Supplement article <a href="english_british_uk_et_al.shtml">Britain/Great 
+                    Britain/United Kingdom &amp;c: Some Common Confusions</a> 
+                    has been revised and expanded. There are some explanatory 
+                    maps and a link to a printable version of the article in PDF 
+                    format. On a separate page there is a new footnote concerning 
+                    <a href="ireland.html">The Correct Name For Ireland</a>.</p>
+                <li> 
+                  <h3><a name="18oct04"></a>18 Oct 2004</h3>
+                  <p>Added detailed scorebook for the <a href="sdc2004/scores.html">2004 
+                    Summer Doldrums Competition</a>.</p>
+                <li> 
+                  <h3><a name="1oct04"></a>1 Oct 2004</h3>
+                  <p>Added reports of the <a href="boink_aug04/edinburgh.html">Edinburgh 
+                    Boink, August 2004</a> and the <a href="boink_aug04/oxford.html">Oxford 
+                    Boink, August 2004</a>.</p>
+                <li> 
+                  <h3><a name="29sep04"></a>29 Sep 2004</h3>
+                  <p>Added the "Printer-Friendly" button to the navigation bar 
+                    on the left of the screen (visible only if your browser executes 
+                    JavaScript). For most (but not all) pages on this site, this 
+                    button produces a simplified version of the page with most 
+                    of the page formatting and navigation aids removed.</p>
+                  <p>Added the <a href="sdc2004/">2004 Summer Doldrums Competition</a>.</p>
+                <li> 
+                  <h3><a name="20sep04"></a>20 Sep 2004</h3>
+                  <p>Added to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://web.uvic.ca/ling/resources/ipa/handbook.htm">IPA 
+                    Handbook recordings.</a> The recordings (WAV files) contained 
+                    in this site are the words and text that appear in the illustrations 
+                    in Part 2 of The Handbook of the International Phonetic Association, 
+                    and which demonstrate the application of the International 
+                    Phonetic Alphabet to a wide variety of sound systems of languages 
+                    of the world.</p>
+                <li> 
+                  <h3><a name="22aug04"></a>22 Aug 2004</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/ian_noble.html">Ian 
+                    Noble</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="10jul04"></a>10 Jul 2004</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/alec_mckenzie.html">Alec 
+                    McKenzie</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="4may04"></a>4 May 2004</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/redwine.html">Professor 
+                    Redwine</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="16apr04"></a>16 Apr 2004</h3>
+                  <p>Added to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://www.billcasselman.com/">Canadian words</a> 
+                    (extracts from books by Bill Casselman).</p>
+                </li>
+                <li> 
+                  <h3><a name="1apr04"></a>1 Apr 2004</h3>
+                  <p>Added the <a href="searchsuggestions.html">Search Suggestions</a> 
+                    page.</p>
+                </li>
+                <li> 
+                  <h3><a name="31mar04"></a>31 Mar 2004</h3>
+                  <p>Added the <a href="big_faq.html">Big FAQ</a> (caution: over 
+                    400Kb) and the <a href="sitemap.html">Site Map</a> pages.</p>
+                </li>
+                <li> 
+                  <h3><a name="24feb04"></a>24 Feb 2004</h3>
+                  <p>Two online dictionaries added to the <a href="categorized_links.shtml">Links</a> 
+                    page:</p>
+                  <ol>
+                    <li><a href="http://www.thefreedictionary.com/">TheFreeDictionary.com</a> 
+                      English, Medical, Legal, and Computer Dictionaries, Thesaurus, 
+                      Encyclopedia, a Literature Reference Library, and a Search 
+                      Engine all in one!</li>
+                    <li><a href="http://www.hyperdictionary.com">Hyperdictionary</a> 
+                      One-step lookup for an English Dictionary, a Computer Dictionary, 
+                      a Thesaurus, a Dream Dictionary, and a Medical Dictionary</li>
+                  </ol>
+                  <br>
+                </li>
+                <li> 
+                  <h3><a name="23feb04"></a>23 Feb 2004</h3>
+                  <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://www.collectbritain.co.uk/collections/dialects/">British 
+                    Library Collection</a> of 20th century (British) English accents 
+                    and dialects, with sound files and notes on vocabulary, pronunciation, 
+                    and grammar.</p>
+                </li>
+                <li> 
+                  <h3><a name="6feb04"></a>6 Feb 2004</h3>
+                  <p>New pictures in the gallery: <a href="AUE_gallery/richard_bollard.html">Richard 
+                    Bollard</a> and <a href="AUE_gallery/r_h_draney.html">R H 
+                    Draney</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="4feb04"></a>4 Feb 2004</h3>
+                  <p>New pictures in the gallery: <a href="AUE_gallery/adrian_bailey.html">Adrian 
+                    Bailey</a> and Leah.</p>
+                </li>
+                <li> 
+                  <h3><a name="2feb04"></a>2 Feb 2004</h3>
+                  <p>New picture in the gallery: DE781 
+                    (Joe).</p>
+                </li>
+                <li> 
+                  <h3><a name="30jan04"></a>30 Jan 2004</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/joe_fineman.html">Joe 
+                    Fineman</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="9oct03"></a>9 Oct 2003</h3>
+                  <p>New page: <a href="audio_gallery/">Pronunciation of newsgroup 
+                    contributors' names</a>.</p>
+                  <p>Added the <a href="sdc2003/">2003 Summer Doldrums Competition</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="8oct03"></a>8 Oct 2003</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/charles_riggs.html">Charles 
+                    Riggs</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="26sep03"></a>26 Sep 2003</h3>
+                  <p>The<a href="excerpts/fxbluemo.html"> FAQ entry for "Blue 
+                    Moon"</a> has been updated with a reference to <a href="http://groups.google.com/groups?selm=bk71l9$p56al$1@ID-103223.news.uni-berlin.de">Matti 
+                    Lamprhey's recent message</a> to the newsgroup on that subject.</p>
+                </li>
+                <li> 
+                  <h3><a name="20sep03"></a>20 Sep 2003</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/dena_jo.html">Dena 
+                    Jo</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="3aug03"></a>3 Aug 2003</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/michael_west.html">Michael 
+                    West</a>.</p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="29jul03"></a>29 Jul 2003</h3>
+                  <p>Some MP3 files in the <a href="audio_archive.shtml">Audio 
+                    Archive</a> were found to end prematurely. The files concerned 
+                    have now been reconverted from the WAV versions. Thanks to 
+                    Bob Cunningham for identifying the files concerned and for 
+                    creating the new versions. </p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="11jul03"></a>11 Jul 2003</h3>
+                  <p>Most of the e-mail addresses on this site are now disguised 
+                    to prevent them being collected for spam (see a sample: <a href="/cgi-bin/email.cgi">the 
+                    webmaster's e-mail address</a>). Some addresses have been 
+                    left unchanged for various reasons; most of them are in Mark 
+                    Israel's FAQ, which I prefer not to change unless strictly 
+                    necessary, and is in any case freely available elsewhere on 
+                    the web.</p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="9jul03"></a>9 Jul 2003</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/robin_bignall.html">Dr 
+                    Robin Bignall</a>.</p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="8jul03"></a>8 Jul 2003</h3>
+                  <p>Added a report of the <a href="boink_jun03/index.html">June 
+                    2003 Oxford Boink</a>.</p>
+                  <p>New picture in the gallery: Christopher Johnson (removed 
+                    3 Aug 2003).</p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="20jun03"></a>20 Jun 2003</h3>
+                  <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://www.wordreference.com/">WordReference.com</a> 
+                    Uses Collins dictionaries to provide English definitions and 
+                    translations (French, German, Italian, and Spanish).</p>
+                </li>
+              </ul>
+              <ul>
+                <li> 
+                  <h3><a name="7may03"></a>7 May 2003</h3>
+                  <p>Added a report of the <a href="boink_apr03/index.html">April 
+                    2003 Manchester Boink</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="25mar03"></a>25 Mar 2003</h3>
+                  <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                    page: Bob 
+                    Cunningham's AUE-related pages.</p>
+                </li>
+                <li> 
+                  <h3><a name="17mar03"></a>17 Mar 2003</h3>
+                  <p>Added a report of the <a href="london_feb2003.html">February 
+                    2003 London Boink</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="16Feb03"></a>16 Feb 2003</h3>
+                  <p>Added the link at the top of this page to the <a href="http://web.archive.org/web/*/http://alt-usage-english.org">Wayback 
+                    Machine</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="9Feb03"></a>9 Feb 2003</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/larry_phillips.html">Larry 
+                    Phillips</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="9Oct02"></a>9 Oct 2002</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/jacqui.html">Jacqui</a>.</p>
+                  <p>Updated picture in the gallery: <a href="AUE_gallery/robert_bannister.html">Rob 
+                    Bannister</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="5sep02"></a>5 Sep 2002</h3>
+                  <p>Added the <a href="sdc2002/">2002 Summer Doldrums Competition</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="7aug02"></a>7 Aug 2002</h3>
+                  <p>Added a new section to the Newsgroup page, describing previous 
+                    <a href="newsgroup.html#doldrums">Summer Doldrums Competitions</a>.</p>
+                  <p>Added a link to Tony Cooper's <a href="http://groups.google.com/groups?selm=aikp51$14p9tr$1&#64;ID-113505.news.dfncis.de">New 
+                    letter to Sis</a> from the <a href="newsgroup.html#letters">Newsgroup</a> 
+                    page. </p>
+                </li>
+                <li> 
+                  <h3><a name="16jul02"></a>16 Jul 2002</h3>
+                  <p>Added a new link to the Links page: Glossarist &quot;a searchable directory of glossaries and topical dictionaries&quot;.</p>
+                  <p>Added a report of the <a href="boink_jul02/index.html">July 
+                    2002 London Boink</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="26jun02"></a>26 Jun 2002</h3>
+                  <p>Added a new page to the FAQ Supplement: <a href="humorousrules.html">Humorous 
+                    Rules for Writing (&quot;Fumblerules,&quot; &quot;Perverse 
+                    Rules,&quot; etc.)</a>, by Donna Richoux.</p>
+                </li>
+                <li> 
+                  <h3><a name="25jun02"></a>25 Jun 2002</h3>
+                  <p>The "Links to Official Usenet Documents" page has been deleted 
+                    and replaced with a link to <a href="http://www.faqs.org/usenet/">a 
+                    similar page at www.faqs.org</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="20jun02"></a>20 Jun 2002</h3>
+                  <p>The "Perlfect Search" has been renamed the "Multi-Site 
+                    Search". The "Concordance Search" has been replaced by 
+                    the "Multi-Site Index", 
+                    which looks remarkably similar to the Concordance search, 
+                    but the pages are now generated on request using a CGI script. 
+                    Previously the Perfect Search and the Concordance Search each 
+                    used independent text analysis methods, with slightly different 
+                    results. Now, the Multi-Site Search and the Multi-Site Index 
+                    use a common analysis method, so the results are always the 
+                    same whichever tool you choose.</p>
+                  <p>Added a link to Tony Cooper's <a href="http://groups.google.com/groups?as_umsgid=aerptp$96udb$1&#64;ID-113505.news.dfncis.de">Letter 
+                    to Sis - Recap of threads</a> from the <a href="newsgroup.html">Newsgroup</a> 
+                    page. </p>
+                </li>
+                <li> 
+                  <h3><a name="13jun02"></a>13 Jun 2002</h3>
+                  <p>Added report of the <a href="arlington_2002.html">"Not a" 
+                    Boink</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="11jun02"></a>11 Jun 2002</h3>
+                  <p>Addition to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://names.voa.gov/"><i>Voice of America</i> 
+                    Pronunciation Guide</a>, with sound files. Mainly names of 
+                    people in the news.</p>
+                </li>
+                <li> 
+                  <h3><a name="4jun02"></a>4 Jun 2002</h3>
+                  <p>The <a href="ipa/ascii_ipa_combined.shtml">ASCII IPA (combined) 
+                    page</a> has been extensively revised. The "A Quick Look" 
+                    section has been extracted to a separate page, <a href="ipa/nutshell.shtml">ASCII 
+                    IPA in a nutshell</a>. Thanks to Bob Cunningham for his assistance.</p>
+                  <p>New picture in the gallery: <a href="AUE_gallery/elliven.html">Neville 
+                    X. Elliven</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="29may02"></a>29 May 2002</h3>
+                  <p>The pictures on the &quot;Unknowns&quot; page were transferred 
+                    to the <a href="AUE_gallery/gallery.shtml">AUE Gallery</a>: 
+                    <a href="AUE_gallery/orne.html">Orne Batmagoo</a>, <a href="AUE_gallery/queenofhearts.html">Laura 
+                    Spira as the Queen of Hearts</a>, <a href="AUE_gallery/bunmui.html">Bun 
+                    Mui?</a>. The &quot;Unknowns&quot; page was deleted.</p>
+                </li>
+                <li> 
+                  <h3><a name="26may02"></a>26 May 2002</h3>
+                  <p>Added a link to Bob Cunningham's site from the <a href="formant_analysis.shtml">Formant 
+                    Analysis page</a>.</p>
+                  <p>Added a link to Tony Cooper's <a href="http://groups.google.com/groups?as_umsgid=acpasq$rpkgq$1&#64;ID-113505.news.dfncis.de">Letter 
+                    to Sis - Irony</a> from the <a href="newsgroup.html">Newsgroup</a> 
+                    page. </p>
+                </li>
+                <li> 
+                  <h3><a name="16may02"></a>16 May 2002</h3>
+                  <p>The page <i>Markus Laker's Interlinear ASCII IPA</i> (markusinterlinear.html) 
+                    has been deleted<i>. </i>Its contents have been transferred 
+                    to the <a href="intrlinb.html">Interlinear transliterations 
+                    of ASCII IPA</a> page.</p>
+                </li>
+                <li> 
+                  <h3><a name="8may02"></a>8 May 2002</h3>
+                  <p>New page: <a href="dublin_apr2002.html">Dublin Boink, 27 
+                    April 2002</a>.</p>
+                  <p>New pictures in the gallery: <a href="AUE_gallery/padraig.html">Padraig 
+                    Breathnach</a>, <a href="AUE_gallery/natti.html">Natti Glouchova</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="24apr02"></a>24 April 2002</h3>
+                  <p>The home page has been rewritten in a narrative style, and 
+                    has navigation links on the left rather than at the bottom. 
+                    The new-style navigation links will gradually be installed 
+                    in other pages (but not UCLE) as time allows.</p>
+                </li>
+                <li> 
+                  <h3><a name="5apr02"></a>5 April 2002</h3>
+                  <p>The word index of <a href="http://www.yaelf.com">www.yaelf.com</a> 
+                    is now included in the Perlfect and Concordance searches.</p>
+                </li>
+                <li> 
+                  <h3><a name="2apr02"></a>2 April 2002</h3>
+                  <p>The word index of Michael Quinion's <a href="http://www.worldwidewords.org/indexes/genindex.htm">World 
+                    Wide Words</a> is now included in the Perlfect and Concordance 
+                    searches.</p>
+                </li>
+                <li> 
+                  <h3><a name="31mar02"></a>31 March 2002</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/satchi.html">Satchi</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="27mar02"></a>27 March 2002</h3>
+                  <p>Three more new pictures in the gallery: <a href="AUE_gallery/tony_cooper.html">Tony 
+                    Cooper</a>, <a href="AUE_gallery/albert_peasemarch.html">Albert 
+                    Peasemarch</a>, and <a href="AUE_gallery/joe_manfre.html">Joe 
+                    Manfre</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="26mar02"></a>26 March 2002</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/evan_kirshenbaum.html">Evan 
+                    Kirshenbaum</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="25mar02"></a>25 March 2002</h3>
+                  <p>New pictures in the gallery: <a href="AUE_gallery/mickwick.html">Mickwick</a> 
+                    and <a href="AUE_gallery/michael_hardy.html">Michael Hardy</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="21mar02"></a>21 March 2002</h3>
+                  <p>Additions to the <a href="categorized_links.shtml">Links</a> 
+                    page: <a href="http://www.etymonline.com/">Etymology Online</a> 
+                    and the <a href="http://www.ucl.ac.uk/internet-grammar/">Internet 
+                    Grammar of English</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="18mar02"></a>18 March 2002</h3>
+                  <p>New picture in the gallery: <a href="AUE_gallery/mike_oliver.html">Mike 
+                    Oliver</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="10mar02"></a>10 March 2002</h3>
+                  <p>The Perlfect and Concordance searches now provide direct 
+                    links to articles on these sites:</p>
+                  <ul>
+                    <li><a href="http://www.wsu.edu/%7Ebrians/errors/errors.html">Paul 
+                      Brians' <i>Common Errors in English</i></a></li>
+                    <li><a href="http://garbl.home.comcast.net/stylemanual/">Garbl's 
+                      <i>Editorial Style Manual</i></a></li>
+                    <li><a href="http://andromeda.rutgers.edu/~jlynch/Writing/index.html">Jack 
+                      Lynch's <i>Guide to Grammar and Style</i></a></li>
+                    <li><a href="http://www.word-detective.com/backidx.html">Evan 
+                      Morris's <i>Word Detective</i></a></li>
+                    <li><a href="http://www.randomhouse.com/wotd/index.pperl?action=dly__alph_arc&amp;fn=word">Random 
+                      House Mavens' <i>Word of the Day</i></a></li>
+                    <li><a href="http://www.wordorigins.org/">Dave 
+                      Wilton's <i>Etymology Page</i></a></li>
+                    <li>Lawrence Paros and Dave Middleton's <i>A Word With You</i> 
+                      (site no longer exists -- MB, June 2005)</li>
+                  </ul>
+                  <p> Previously the searches provided links to echoed index of 
+                    these pages, resident on this site. The echoed index pages 
+                    have been removed.</p>
+                </li>
+                <li> 
+                  <h3><a name="5mar02"></a>5 March 2002</h3>
+                  <p>The Perlfect search now provides direct links to articles 
+                    on the <a href="http://www.randomhouse.com/wotd/index.pperl?action=dly__alph_arc&amp;fn=word">Random 
+                    House Mavens' Word of the Day</a> site. (The Concordance search 
+                    has done this for some time, but until now the Perlfect search 
+                    has provided links to an echoed index page).</p>
+                  <p>The Word of the Day index page, that was previously an &quot;echoed 
+                    index&quot;, has been removed from this site - click the link 
+                    in the previous paragraph to see the original version on the 
+                    Random House site.</p>
+                  <p>The second-level indexes of the Concordance Search have been 
+                    rearranged. Instead of one large page for &quot;Numbers and 
+                    symbols&quot;, there are now ten pages, one for each of the 
+                    digits 0-9. Symbols are now disregarded, so, for instance, 
+                    &quot;-able&quot; is included with &quot;able&quot; on the 
+                    &quot;a&quot; page.</p>
+                </li>
+                <li> 
+                  <h3><a name="1mar02"></a>1 March 2002</h3>
+                  <p>The <a href="AUE_logo/aueLogoMasterImage.jpg">high-definition 
+                    master copy</a> (750 Kb) of the Totally Wonderful AUE logo 
+                    is now available.</p>
+                </li>
+                <li> 
+                  <h3><a name="23feb02"></a>23 February 2002</h3>
+                  <p>The <a href="skeleton.shtml">FAQ Supplement</a> was extensively 
+                    reorganised:</p>
+                  <ul>
+                    <li>All articles were removed from the FAQ Supplement page, 
+                      and put in new pages. The Supplement page now contains only 
+                      categorised links to other pages on this site.</li>
+                    <li>Some material was removed from the FAQ Supplement and 
+                      placed on a new page, <a href="newsgroup.html">The alt.usage.english 
+                      Newsgroup</a>.</li>
+                    <li>Other non-FAQ-type material was relocated to various parts 
+                      of the site.</li>
+                  </ul>
+                  <p>The &quot;Resources&quot; pages was renamed <a href="categorized_links.shtml">Links</a> 
+                    to better reflect its content.</p>
+                  <p>Navigation facilities were added to the <a href="introdocs.shtml">Intro 
+                    pages</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="15feb02"></a>15 February 2002</h3>
+                  <p>The Perlfect search now includes some pages that were previously 
+                    included only in the Concordance search. These are AUE-related 
+                    pages that exist on sites other than <b>alt-usage-english.org</b> 
+                    - <a href="http://www-personal.umich.edu/%7Ejlawler/aue.html">John 
+                    Lawler's English Grammar FAQ</a> and Bob 
+                    Cunningham's AUE statistics.</p>
+                  <p>John Lawler's index page, that was previously an &quot;echoed 
+                    index&quot;, has been removed from this site - click the link 
+                    in the previous paragraph to see the original version on John 
+                    Lawler's site.</p>
+                </li>
+                <li> 
+                  <h3><a name="13feb02"></a>13 February 2002</h3>
+                  <p>Restored an echoed index to the site: Jack Lynch's Guide 
+                    to Grammar and Style (<a href="#10mar02">removed 10 March 
+                    2002</a>). </p>
+                </li>
+                <li> 
+                  <h3><a name="28jan02"></a>28 January 2002</h3>
+                  <p>New picture in the <a href="AUE_gallery/gallery.shtml">gallery</a>: 
+                    <a href="AUE_gallery/matti_lamprhey.html">Matti Lamprhey</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="24jan02"></a>24 January 2002</h3>
+                  <p>New article by Don Aitken: <a href="whatistheuk.html">What 
+                    is the UK? Is it the same as Britain, Great Britain or England?</a>.</p>
+                </li>
+                <li> 
+                  <h3><a name="15jan02"></a>15 January 2002</h3>
+                  <p>The Perlfect search page results are now shown 20 to a page 
+                    instead of 5.</p>
+                </li>
+                <li> 
+                  <h3><a name="30dec01"></a>30 December 2001</h3>
+                  <p>"Search" links from the home page, from the site links at 
+                    the bottom of every page, and from some other places have 
+                    been changed to go to the Perlfect search page instead of 
+                    the Concordance search page.</p>
+                </li>
+                <li> 
+                  <h3><a name="18dec01"></a>18 December 2001</h3>
+                  <p>Mark Israel's list of language terms with definitions, previously 
+                    available from the <b>Language Resources</b> page, was removed 
+                    from the site because of concerns over copyright issues (possibly 
+                    unfounded concerns, but I'm playing safe). It is hoped to 
+                    reinstate this page soon, but this is only a hope.</p>
+                </li>
+                <li> 
+                  <h3><a name="7dec01"></a>7 December 2001</h3>
+                  <p>The &quot;UCLE Corner&quot; material was moved from <b>www.ucle.org/aue/ucle</b> 
+                    to its former location at <b>alt-usage-english.org/ucle</b>, 
+                    reversing the change made on 3 September 2001. Similarly, 
+                    the AUE Audio Archive material was moved from <b>www.ucle.org/aue/archive</b> 
+                    to its former location at <b>alt-usage-english.org/archive</b>, 
+                    reversing the change made on 2 September 2001.</p>
+                </li>
+                <li> 
+                  <h3><a name="6dec01"></a>6 December 2001</h3>
+                  <p>I (Mike Barnes) took over the webmaster's role. Bob Cunningham 
+                    kindly agreed to advise me during my familiarisation with 
+                    the site contents and procedures.</p>
+                </li>
+                <li> 
+                  <hr>
+                </li>
+                <li> 
+                  <h3><a name="1dec01"></a>1 December 2001</h3>
+                  UCLE Corner <a href="ucle/ucle9.html#pearshaped">"Pear-shaped"</a> 
+                  <blockquote> Added <a href="pear_shaped.html">supplementary 
+                    comments</a>. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="17nov01"></a>17 November 2001</h3>
+                  I (Bob Cunningham) have announced in the newsgroup that I'm 
+                  stopping my involvement with the AUE Web site effective immediately, 
+                  except for some things I want to tidy up to leave things in 
+                  better order. </li>
+                <li> 
+                  <h3><a name="9nov01"></a>9 November 2001</h3>
+                  <a href="speechexamples.html">Speech examples</a> 
+                  <blockquote> Added a sound file submitted by a speaker who spent 
+                    her early years in <a href="Tennessee.html">Tennessee</a>.                  </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="29oct01"></a>29 October 2001</h3>
+                  <a href="AUE_gallery/gallery.shtml">AUE Photo Gallery</a> 
+                  <blockquote> Added <a href="AUE_gallery/robert_bannister.html">Rob 
+                    Bannister</a>. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="26oct01"></a>26 October 2001</h3>
+                  <a href="AUE_gallery/gallery.shtml">AUE Photo Gallery</a> 
+                  <blockquote> Added <a href="AUE_gallery/zadne.html">Zadne</a>.                  </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="24oct01"></a>24 October 2001</h3>
+                  <a href="categorized_links.shtml#rhetoric">Rhetoric vocabulary</a> 
+                  <blockquote> Fixed some browser problems in the the Language 
+                    terms list. <br>
+                    (The letter index was working okay with Opera 5 and Internet 
+                    Explorer 5, but <br>
+                    not with either of two Netscape browsers.) </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="17oct01"></a>17 October 2001</h3>
+                  <a href="fast_faq.shtml">Fast FAQ</a>. 
+                  <blockquote> The FAQ-excerpt files weren't working with Netscape 
+                    4.75, although they worked fine with three other browsers. The 
+                    problem had to with automatic substitution of "/" for "\" 
+                    in a certain directory string. Netscape 4.75 wouldn't 
+                    do it; the others, including Netscape 6.1, would. Now 
+                    fixed. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="15oct01"></a>15 October 2001</h3>
+                  <a href="AUE_gallery/gallery.shtml">AUE Photo Gallery</a>. 
+                  <blockquote> <A HREF="AUE_gallery/felix.html">Felix.</A></blockquote>
+                </li>
+                <li> 
+                  <h3><a name="11oct01"></a>11 October 2001</h3>
+                  <a href="AUE_gallery/gallery.shtml">AUE Photo Gallery</a>. 
+                  <blockquote> <A HREF="AUE_gallery/Laura_Spira.html">Laura Spira's 
+                    picture</A> has been copied &#8211; with her permission &#8211; 
+                    from the gallery of unknowns to the gallery of photos with 
+                    names. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="10oct01"></a>10 October 2001</h3>
+                  <a href="formant_analysis.shtml">FAQ Supplement/Pronunciation/Formant 
+                  Analysis plots</a>. 
+                  <blockquote> Formant&nbsp;analysis&nbsp;of&nbsp;<A href="Mark_a_vowels.html">Mark&nbsp;Barratt's&nbsp;"a"&nbsp;vowels&nbsp;in&nbsp;"Can&nbsp;a&nbsp;cat&nbsp;man a&nbsp;catamaran?"</A>.                  </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="6oct01"></a>6 October 2001</h3>
+                  <a href="categorized_links.shtml">Resources</a>. 
+                  <blockquote> <a href="categorized_links.shtml#webcolors">Color 
+                    charts</a> <br>
+                      3D color charts &lt;http://www.worldworks.com/colors/color.htm&gt;, 
+                    216 cross-platform compatible colors. <br>
+                    <a href="categorized_links.shtml#dictslexis">Dictionaries</a> 
+                    <br>
+                    History of Webster's Dictionary, from Noah Webster's 1828 first edition<br>
+                    through the 
+                    controversy over Webster's Third New International. <br>
+                      <a href="http://1828.mshaffer.com/">Webster's 
+                    1828 dictionary</a>. <br>
+                    <a href="categorized_links.shtml#usageand">Grammar 
+                    and style guides</a> <br>
+                      <a href="http://www.apostrophe.org.uk/">The 
+                    Apostrophe Protection Society</a>. <br>
+                      <a href="http://www.bartleby.com/141/">The 
+                    Elements of Style</a>, William Strunk, Jr., 1918. <br>
+                    An 
+                    overall index of topics in Professor Charles Darling's <br>
+                    <i>Guide to 
+                    Grammar and Writing</i>. <br>
+                    <a href="categorized_links.shtml#learning">Learning English</a> 
+                    <br>
+                      <a href="http://membres.lycos.fr/stephmrs/">Irregular 
+                    English Verbs</a>, Lists and tools for learning. <br>
+                    <a href="categorized_links.shtml#nothingtodo">Miscellaneous, 
+                    not language related</a> <br>
+                      <a href="http://symantec.com/avcenter/hoax.html">List 
+                    of Virus hoaxes</a>, by Symantec. <br>
+                      Monetary 
+                    exchange rates. <br>
+                      <a href="http://symantec.com/avcenter/vinfodb.html">Virus 
+                    catalog</a>, Symantec. <br>
+                      <a href="http://www.whitehouse.gov">White 
+                    House</a> web site -- Full texts of speeches and radio addresses. 
+                    <br>
+                    <a href="categorized_links.shtml#webdesign">Web-design utilities</a>. 
+                    <br>
+                      TABLEs 
+                    on non-TABLE Browsers (2nd Ed., 1998) <br>
+                      <a href="http://www.w3.org/">World 
+                    Wide Web Consortium</a> Web site. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="25sep01"></a>25 September 2001</h3>
+                  <b>Search the Site</b>. 
+                  <blockquote> After the "UCLE Corner" files and the Audio Archive 
+                    files were moved to www.ucle.org, the Concordance was not 
+                    providing valid links to them. That situation has 
+                    now been corrected. Perlfect Search will not provide 
+                    links to those files, since it's inherently limited to coverage 
+                    of the site where it's resident. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="24sep01"></a>24 September 2001</h3>
+                  <a href="feedback.html">Feedback</a>. 
+                  <blockquote> Added some comments to help Usenet beginners. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="19sep01"></a>19 September 2001</h3>
+                  Resources, <a href="categorized_links.shtml#wordsabout">Words 
+                  about words</a>. 
+                  <blockquote> Yet another English Language FAQ &lt;<a href="http://www.yaelf.com">http://www.yaelf.com</a>&gt;.                  </blockquote>
+                  Resources, <a href="categorized_links.shtml#audiorefs">Audio 
+                  references</a> 
+                  <blockquote> International Dialects of English Archive &lt;<a href="http://www.dialectsarchive.com/">http://www.dialectsarchive.com/</a>&gt;.                  </blockquote>
+                  Audio Archive, Other sound files &lt;<a href="audio_archive.shtml#sundryfiles">http://alt-usage-english.org/audio_archive.shtml#sundryfiles</a>&gt; 
+                  <blockquote> International Dialects of English Archive. See 
+                    previous entry. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="11sep01"></a>11 September 2001</h3>
+                  AUE FAQ Supplement, Grammar. 
+                  <blockquote> New: <a href="pronoun_paradigms.html">Thou, thee 
+                    &amp; archaic grammar</a> (A. Davies, R. Lipton, D. Richoux et 
+                    al) </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="10sep01"></a>10 September 2001</h3>
+                  Resources, <a href="categorized_links.shtml#wordsabout">Words 
+                  about words</a>. 
+                  <blockquote> The OED Word of the Day feature is no longer free 
+                    online. It's now available only to subscribers 
+                    to the Online OED. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="5sep01"></a>5 September 2001</h3>
+                  Updated Posting 
+                  volume history with August 2001 totals. 
+                  <blockquote> I've deleted the columns that pertained to numbers 
+                    shown by Dejanews. I don't know if Google will 
+                    ever furnish monthly totals the way Deja did. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="3sep01"></a>3 September 2001</h3>
+                  The "UCLE Corner" material has been moved to a different location. 
+                  <i> <b>[This change was reversed on <a href="#7dec01">7 December 
+                  2001</a>]</b></i> 
+                  <blockquote> If you use a bookmark for the old URL, you should 
+                    get a notice of the move and a link to the new location. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="2sep01"></a>2 September 2001</h3>
+                  The AUE Audio Archive has been moved to a different location. 
+                  <i> <b>[This change was reversed on <a href="#7dec01">7 December 
+                  2001</a>]</b></i> 
+                  <blockquote> If you use a bookmark for the old URL, you should 
+                    get a notice of the move and a link to the new location. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="1sep01"></a>1 September 2001</h3>
+                  "Exception proves the rule" 
+                  <blockquote> In the Fast FAQ file &lt;<a href="excerpts/fxtheexc.html">http://alt-usage-english.org/excerpts/fxtheexc.html</a>&gt;, 
+                    <br>
+                    added a link to &lt;<a href="exception_proves.html">http://alt-usage-english.org/exception_proves.html</a>&gt;, 
+                    <br>
+                    which discusses Cicero's use of this phrase in 56 BC. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="31aug01"></a>31 August 2001</h3>
+                  Removed the full version of Mark Israel's FAQ from the AUE Web 
+                  site. Changed links to the FAQ file at his site <i>http://www.english-usage.com/faq.html</i>                </li>
+                <li> 
+                  <h3><a name="28aug01"></a>28 August 2001</h3>
+                  File <a href="ascii_ipa_choice.html">&lt;http://alt-usage-english.org/ascii_ipa_choice.html&gt;</a> 
+                  <blockquote> Added links to Evan Kirshenbaum's ASCII IPA specification 
+                    files. </blockquote>
+                  UCLE Corner, <a href="ucle/ucle9.html#rivers">Rivers in London</a>. 
+                  <blockquote> Noted a <a href="ucle_tyburn.html">differing opinion</a>.                  </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="27aug01"></a>27 August 2001</h3>
+                  Resources, <a href="categorized_links.shtml#rhetoric">Rhetoric 
+                  vocabulary</a> and <a href="categorized_links.shtml#lexicons">Glossaries</a>. 
+                  <blockquote> A list of definitions of the terms in <a href="excerpts/fxwhatis.html">Mark 
+                    Israel's list of language terms</a>. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="25aug01"></a>25 August 2001</h3>
+                  Resources, <a href="categorized_links.shtml#funwithwords">Fun 
+                  with words</a> 
+                  <blockquote> Lots of different word topics: <a href="http://rinkworks.com/words/">&lt;http://rinkworks.com/words/&gt;</a>.</blockquote>
+                </li>
+                <li> 
+                  <h3><a name="13aug01"></a>13 August 2001</h3>
+                  Resources, <a href="categorized_links.shtml#rhetoric">Rhetoric 
+                  Vocabulary</a> 
+                  <blockquote> Added links for frameless displays at the BYU "Silva 
+                    Rhetoricae" site. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="12aug01"></a>12 August 2001</h3>
+                  Resources, <a href="categorized_links.shtml#dictslexis">Dictionaries</a> 
+                  <blockquote> <a href="http://www.global-language.com/century/"><i></i>The 
+                    Century Dictionary</a> <br>
+                    An encyclopedic dictionary of English considered by many to 
+                    be the finest ever produced in the US. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="9aug01"></a>9 August 2001</h3>
+                  FAQ Supplement, Miscellany 
+                  <blockquote> Posting 
+                    volume history updated for July. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="01aug01"></a>01 August 2001</h3>
+                  Resources <a href="categorized_links.shtml#collections">Collections 
+                  of Web links</a> 
+                  <blockquote>New URL for <a href="http://www.bckelk.ukfsn.org/menu.html">Brian 
+                    Kelk's</a> phonetic alphabets and lists of word lists</blockquote>
+                  Resources, <a href="categorized_links.shtml#encyclopedias"> 
+                  Encyclopedias</a> 
+                  <blockquote>_Encyclopedia Britannica_ is no longer free online.</blockquote>
+                </li>
+                <li> 
+                  <h3><a name="27jul01"></a>27 July 2001</h3>
+                  FAQ Supplement, Spelling 
+                  <blockquote> Absurdities of English spelling by Henry Sweet 
+                    (1845-1904) <br>
+                    <a href="http://www.xibalba.demon.co.uk/jbr/ortho.html"> 
+                    Spellng Reform</a>, "clearing away 13 bad arguments against" 
+                    it </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="26jul01"></a>26 July 2001</h3>
+                  Resources, <a href="categorized_links.shtml#measurement"> Measurement 
+                  conversion</a> 
+                  <blockquote><a href="http://ts.nist.gov/ts/htdocs/230/235/appxc/appxc.htm#4a"> 
+                    National Institute of Standards and Technology</a> General 
+                    Tables of Units of Measurement <br>
+                    How long 
+                    is a yard? &lt;"http://www.wsdot.wa.gov/Metrics/ftmtr2.htm>  Two different standard yards. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="25jul01"></a>25 July 2001</h3>
+                  Resources, <a href="categorized_links.shtml#webcolors"> Color 
+                  charts</a> 
+                  <blockquote> Replaced defunct 140-color chart with one that 
+                    works, &lt;http://members.tripod.com/~Graphics4Webbers/EasyColorChart.html>. 
+                    At this sitting, the background change works with Netscape 
+                    4.75 and Internet Explorer, but not with Netscape 6 or Opera.                  </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="21jul01"></a>21 July 2001</h3>
+                  Mark Israel's updated version of his FAQ 
+                  <blockquote> In the version of Mark Israel's FAQ at the UCLE/AUE 
+                    Web site, a note has been added telling about Mark Israel's 
+                    updated version of his FAQ and providing a link to it. His 
+                    update mainly consists of providing current URLs to replace 
+                    ones that had become obsolete. He has also removed 
+                    notes that have been added that don't pertain to updating 
+                    URLs. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="16jul01"></a>16 July 2001</h3>
+                  <b>Concordance Interface</b> 
+                  <blockquote> Expanded the note that discusses the reasons for 
+                    choosing between Perlfect Search and the Concordance. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="15jul01"></a>15 July 2001</h3>
+                  <h4>Totally Official</h4>
+                  <blockquote> Added pictures for <a href="totally_official/nyc_boink_2001/">Big 
+                    Apple Boink 2001</a> <br>
+                    Added pictures for <a href="totally_official/mini_boink.html">London 
+                    Mini Boink</a> </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="05jul01"></a>05 July 2001</h3>
+                  <h4>Posting-volume 
+                    history</h4>
+                       Added totals for May and June 2001 
+                  <blockquote> In the past two months there has been a great increase 
+                    in crossposting between AUE and AEU. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="01jul01"></a>01 July 2001</h3>
+                  <h4><a href="intro_b.shtml">Intro B</a></h4>
+                       New version dated 2001-07-01. 
+                  <blockquote> Principal difference is the addition of a link 
+                    to XREFER. (See below, under 22 June 2001.) </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="22jun01"></a>22 June 2001</h3>
+                  <h4><a href="categorized_links.shtml#reference">Resources: Online 
+                    reference books</a></h4>
+                       xrefer - "the web's reference engine" 
+                  <blockquote> "Free access to over 50 reference titles containing 
+                    more than 500,000 entries", including Burchfield's _The New 
+                    Fowler's Modern English Usage_, _The Oxford Dictionary of 
+                    Quotations_, and _The Oxford Companion to the English Language_.                  </blockquote>
+                </li>
+                <li> 
+                  <h3>22 June 2001</h3>
+                  <h4><a href="categorized_links.shtml#audiorefs">Resources: Audio 
+                    References</a></h4>
+                  <blockquote> Added links to sound files:<br>
+                      Canadian Speech - Illustrations of 
+                    "Canadian raising".<br>
+                      DARE - "Arthur the Rat" by a variety 
+                    of American English speakers in tandem.<br>
+                      Eamonn McManus - His pronunciations 
+                    of "hock" and "hawk".<br>
+                      Jamaican patois - Selected phrases 
+                    illustrated by poor-quality recordings.<br>
+                  </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="20jun01"></a>20 June 2001</h3>
+                  <h4>Concordance Interface</h4>
+                  <blockquote> I have enlarged the scope of the Concordance at 
+                    the AUE Web site to cover the full contents -- not just the 
+                    index -- of all of the AUE FAQ files at John Lawler's Web 
+                    site. Items in the Concordance that are preceded 
+                    by "Lawler &lt;name&gt;:", where "&lt;name&gt;" is the name 
+                    of a file, will link directly to that file at his site. </blockquote>
+                </li>
+                <li> 
+                  <h3><a name="18jun01"></a>18 June 2001</h3>
+                  <h4><a href="skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Grammar:<br>
+                   <a href="http://www.csse.monash.edu.au/~damian/papers/HTML/Plurals.html">Damian 
+                  Conway's plural-formation paper</a><br>
+                </li>
+                <li> 
+                  <h3><a name="15jun01"></a>15 June 2001</h3>
+                  <h4><a href="skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   Random Houses 
+                  Maven's Word of the Day (<a href="#5mar02">removed 5 March 2002</a>)<br>
+                  Concordance 
+                  hits on this site, like those on Michael Quinion's<br>
+                  World Wide Words, 
+                  will go directly to the Random House Web Site<br>
+                  rather than 
+                  through an intermediate index. </li>
+                <li> 
+                  <h3><a name="11jun01"></a>11 June 2001</h3>
+                  <h4>Concordance search 
+                    engine</h4>
+                       Fixed a shortcoming in the concordance 
+                  generator's handling of multiword entries in the Quinion index. The 
+                  individual words in a multiword index entry were not being recognized 
+                  and assigned to concordance entries. For example 
+                  "cut the mustard" was given a concordance entry, but "mustard" 
+                  was not". </li>
+                <li> 
+                  <h3><a name="18may01"></a>18 May 2001</h3>
+                  <h4><a href="./McGrath.html">Comments about Daniel McGrath</a></h4>
+                </li>
+                <li> 
+                  <h3><a name="8may01"></a>8 May 2001</h3>
+                  <h4>Concordance search 
+                    engine</h4>
+                       The organization of the Concordance 
+                  interface file has been modified to use smaller individual concordance 
+                  files. As stated in the notes to the interface file, the original 
+                  rule was that no concordance file should exceed 50 kilobytes 
+                  in size. Most of the files had grown to exceed that limit by 
+                  a factor of two or more. The entries in the concordance selection 
+                  table have been increased in number and have been proportioned 
+                  to get concordance files that are about 40 kilobytes maximum. 
+                  The reason for doing this is to avoid a longer download time 
+                  each time you click on a link in the selection list. </li>
+                <li> 
+                  <h3>8 May 2001</h3>
+                  <h4>Concordance search 
+                    engine</h4>
+                       Enhanced concordance generator now 
+                  gives direct links to World Wide Words. </li>
+                <li> 
+                  <h3><a name="2may01"></a>2 May 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   Jack Lynch's 
+                  Guide to Grammar and Style (<a href="#10mar02">removed 10 March 
+                  2002</a>)<br>
+                </li>
+                <li> 
+                  <h3><a name="1may01"></a>1 May 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   Garbl's Editorial 
+                  Style Manual (<a href="#10mar02">removed 10 March 2002</a>) 
+                  <br>
+                </li>
+                <li> 
+                  <h3><a name="25apr01"></a>25 April 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   Paul Brians' 
+                  Common Errors in English (removed December 2001)<br>
+                </li>
+                <li> 
+                  <h3><a name="20apr01"></a>20 April 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   Evan Morris's 
+                  Word Detective (<a href="#10mar02">removed 10 March 2002</a>) 
+                  <br>
+                </li>
+                <li> 
+                  <h3><a name="18apr01"></a>18 April 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   John Lawler's 
+                  AUE FAQ index (<a href="#15feb02">removed 15 February 2002</a>)<br>
+                </li>
+                <li> 
+                  <h3><a name="13apr01"></a>13 April 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes:<br>
+                   A Word With 
+                  You index (<a href="#10mar02">removed 10 March 2002</a>)<br>
+                </li>
+                <li> 
+                  <h3><a name="11apr01"></a>11 April 2001</h3>
+                  <h4><a href="./skeleton.shtml">AUE FAQ Supplement</a></h4>
+                       Echoed remote indexes: (new heading)<br>
+                   Quinion's World 
+                  Wide Words index <br>
+                   Wilton's Etymology 
+                  Page index (<a href="#10mar02">removed 10 March 2002</a>)<br>
+                </li>
+                <li> 
+                  <h3><a name="3apr01"></a>3 April 2001</h3>
+                  <h4><a href="./categorized_links.shtml">Resources</a></h4>
+                       Collections of Web links:<br>
+                   E. L. Easton's 
+                  English online<br>
+                      
+                  A wealth of links to resources on many aspects of English.<br>
+                     Dictionaries:<br>
+                   Cambridge International 
+                  Dictionary of English<br>
+                      
+                  This may be the only available source for American pronunciations 
+                  using the International Phonetic Alphabet.<br>
+                     Humor:<br>
+                   Comedy Central<br>
+                     Miscellaneous, language related:<br>
+                   French vowel 
+                  chart<br>
+                    
+                  Positions of French vowels in the vowel quadrilateral.<br>
+                </li>
+                <li> 
+                  <h3><a name="22mar01"></a>22 March 2001</h3>
+                  <h4><a href="ucle/index.shtml">UCLE Corner</a></h4>
+                  "Home" links 
+                  in UCLE files were asking for "index.shtml". There was no file 
+                  by that name in the UCLE directory. Changed the name of "index.html" 
+                  to "index.shtml" and changed the link in the AUE home directory. 
+                  (Please let <a href="/cgi-bin/email.cgi">the 
+                  webmaster</a> know if any "404"s show up because something is 
+                  looking for an "index.html" in UCLE.) </li>
+                <li> 
+                  <h3><a name="21mar01"></a>21 March 2001</h3>
+                  <h4>Search the Site</h4>
+                           Updated Concordance 
+                  index files and Perlfect Search index file. </li>
+                <li> 
+                  <h3><a name="20mar01"></a>20 March 2001</h3>
+                  <h4><a href="skeleton.shtml">Word Origins</a></h4>
+                           Updated links 
+                  to Dave Wilton's etymology page. </li>
+                <li> 
+                  <h3><a name="16mar01"></a>16 March 2001</h3>
+                  <h4><a href="./excerpts/fxonline.html">Online dictionaries</a></h4>
+                           Noted in the 
+                  FAQ that a reference to a UNIX OED is no longer valid. 
+                  <h4><a href="./categorized_links.shtml#wordsabout">Words about 
+                    words</a></h4>
+                           Added "Vocabula" 
+                  to Resources. </li>
+                <li> 
+                  <h3><a name="2mar01"></a>2 March 2001</h3>
+                  <h4><a href="./formant_analysis.shtml">Formant analysis</a></h4>
+                           Added formant 
+                  analysis of Bob Cunningham's pronunciations of "hing", "hean", 
+                  "hin", and "hit". </li>
+                <li> 
+                  <h3><a name="28feb01"></a>28 February 2001</h3>
+                  <h4>Gallery of Desconocidos (transferred to the <a href="AUE_gallery/bunmui.html">Gallery</a> 
+                    on <a href="#29may02">29 May 02</a>)</h4>
+                  Added a picture 
+                  of a happy lady. 
+                  <h4><a href="./AUE_gallery/gallery.shtml">AUE Photo Gallery</a></h4>
+                  Added more pictures 
+                  of Tootsie. 
+                  <h4><a href="./categorized_links.shtml">Resources</a></h4>
+                  Audio references: 
+                  <br>
+                  Added 
+                  "Animal sounds" <br>
+                  Added 
+                  "Russian alphabet, sounds" <br>
+                  Collections 
+                  of Web links: <br>
+                  Added 
+                  "Dogpile" <br>
+                  Lexicons: <br>
+                  Added 
+                  "Financial Terms" <br>
+                  Humor (Added): 
+                  <br>
+                  Added 
+                  "Bushisms" <br>
+                  Miscellaneous, 
+                  language related: <br>
+                  Added 
+                  "Accents in the UK" <br>
+                  Added 
+                  "Scouse, comments from the Guardian about Liverpool accents" 
+                  <br>
+                  Miscellaneous, 
+                  not language related: <br>
+                  Added 
+                  "e-mail safety rules" <br>
+                  Added 
+                  "Mapquest" <br>
+                  Words about 
+                  words: <br>
+                  Updated 
+                  Phrontistery URL </li>
+              </ul>
+          <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

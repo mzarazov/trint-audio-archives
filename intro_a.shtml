@@ -1,0 +1,439 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Intro A: Welcome to AUE and Guidelines for Posting</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>Intro A: Welcome to AUE and Guidelines for Posting</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Intro A -->
+       <!-- indexer: Sections -->
+       <!-- indexer: StartSkip -->
+ <!--
+WARNING! YOU PROBABLY DON'T WANT TO EDIT THIS FILE.
+       IT WAS CREATED BY THE SCRIPT "convert_intro.pl".
+       EDIT THE SCRIPT OR ITS TEMPLATES INSTEAD.
+  
+-->					
+      <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><font color="#FF0000">A</font></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#bottom">Bottom</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <pre>
+Subject: Intro A: Welcome to AUE and Guidelines for Posting
+
+                                    Last Revised 2007-08-07 (7 Aug 2007)
+
+
+This series of seven "Intro Documents" is intended to aid newcomers to
+the newsgroup. The articles are posted frequently in the newsgroup
+and are installed at this Web site for your convenience, along with
+a <a href="/introdocs.shtml">menu of links to the seven Intro documents</a>.
+
+Most of what follows is taken from Albert Marshall's and John Davies'
+work. Comments and corrections should be emailed to me -- <a href="/cgi-bin/email.cgi?n=Donna_Richoux&amp;d2=nl&amp;d1=euronet&amp;l=trio" class="sml">Donna Richoux</a>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contents of Intro A: Welcome to AUE and Guidelines for Posting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - <a href="#WELCOMETOaltusageenglish">WELCOME TO alt.usage.english!</a>
+  - <a href="#Guidelinesforposting">Guidelines for posting</a>
+  - <a href="#NewcomerstotheNet">Newcomers to the Net</a>
+  - <a href="#AskingQuestionsDictionaryDefinitions">Asking Questions; Dictionary Definitions</a>
+  - <a href="#DictionaryAbbreviations">Dictionary Abbreviations</a>
+  - <a href="#Responding">Responding</a>
+  - <a href="#Dealingwithunwantedpostings">Dealing with unwanted postings</a>
+  - <a href="#altusageenglishandaltenglishusage">alt.usage.english and alt.english.usage</a>
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=WELCOMETOaltusageenglish></a><a name=WELCOM0000></a>
+WELCOME TO alt.usage.english!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+alt.usage.english is a newsgroup where we discuss the English language
+(and also occasionally other languages).
+
+We discuss how particular words, phrases, and syntactic forms are used;
+how they originated; and where in the English-speaking world they're
+prevalent. (All this is called "description".)
+
+We also discuss how we think they *should* be used ("prescription").
+
+alt.usage.english is for everyone, *not* only for linguists, native
+speakers, or descriptivists.
+
+Please read or at least browse through our AUE FAQ, which is available
+at several addresses including
+
+  <a href="index.shtml">http://www.alt-usage-english.org/</a>
+
+There is more information about obtaining our FAQ in the regular post
+"Intro G: Where is the FAQ?"
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~<a name=Guidelinesforposting></a><a name=Guidel0001></a>
+Guidelines for posting
+~~~~~~~~~~~~~~~~~~~~~~
+Things you may want to consider avoiding when posting here:
+
+(1) re-opening topics (such as "singular they" and "hopefully") that
+experience shows lead to circular debate.  (One function of the FAQ
+file is to point out topics that have already been discussed ad
+nauseam.)
+
+(2) questions that can be answered by simple reference to a dictionary
+or a thesaurus.
+
+(3) generalities.  If you make a statement like:  "Here in the U.S. we
+NEVER say 'different to'", "Retroflex 'r' is ONLY used in North
+America", or "'Eh' ALWAYS rhymes with 'pay'", chances are that someone
+will pounce on you with a counterexample.
+
+(4) assertions that one variety of English is "true English".
+
+(5) sloppy writing (as distinct from simple typing errors, or errors
+from someone whose native language is not English).  The regulars are
+probably less willing than the general population to suffer sloppy
+writers gladly. Each article is written by one person, but read perhaps
+by thousands, so the convenience of the readers really ought to have
+priority over the convenience of the writer.  Again, this is *not* to
+discourage non-native speakers from posting; readers will be able to
+detect that you're writing in a language that is foreign to you, and
+will make allowances for that.
+
+(6) expressions of exasperation.  In the course of debate, you may
+encounter positions based on premises radically different from yours and
+perhaps surprisingly novel to you.  Saying things like "Oh, please",
+"That's absurd", "Give me a break", or "Go teach your grandmother to
+suck eggs, my man" is unlikely to win your opponent over.
+
+You really *are* welcome to post here!  Don't let the impatient tone of
+this FAQ frighten you off.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~<a name=NewcomerstotheNet></a><a name=Newcom0002></a>
+Newcomers to the Net
+~~~~~~~~~~~~~~~~~~~~
+If you are a newcomer not just to a.u.e but to Usenet newsgroups in
+general, you will find it helpful to read the messages posted regularly
+to news.announce.newusers.  These contain invaluable
+advice on "netiquette", the rules of behaviour expected of those who
+post to any newsgroup. These articles are found at:
+
+       news.announce.newusers FAQs
+       <a href="http://web.presby.edu/~nnqadmin/nan/">http://web.presby.edu/~nnqadmin/nan/</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=AskingQuestionsDictionaryDefinitions></a><a name=Dictio0003></a>
+Asking Questions; Dictionary Definitions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Please do not post questions to a.u.e. that ask "what is the meaning
+of...", or "what is the origin of..."  Looking in a dictionary is a
+quicker and more reliable way of getting an answer. Some people may
+respond to such questions with deliberately false information, and it
+may not always be obvious that it is comically intended. In the unlikely
+event that you don't have a dictionary at hand, try the on-line
+Merriam-Webster dictionary at
+
+   <a href="http://www.m-w.com/">http://www.m-w.com/</a>
+
+If you can't find the answer in a dictionary, it is a good idea to
+say so in your posting, to reassure people that you have at least
+looked. If you are still puzzled after you do your own research, then
+you are welcome to post the results of your findings.
+
+Please explain the context of the usage; that will allow people to give
+you a sensible answer.
+
+We hope that newcomers who ask a question will stay around long enough
+to read a variety of answers, because later responses may correct or
+clarify the earlier ones. This process may take two or three days.
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~<a name=DictionaryAbbreviations></a><a name=Dictio0004></a>
+Dictionary Abbreviations
+~~~~~~~~~~~~~~~~~~~~~~~~
+The posters in a.u.e tend to avoid initialisms, but you can expect to
+find the names of dictionaries and reference works abbreviated for
+convenience. Here are a few of the most common initialisms, which are
+usually followed by a number to refer to the edition: for example,
+     AHD3 = American Heritage Dictionary, 3rd ed.
+
+AHD     American Heritage Dictionary
+CIDE   Cambridge International Dictionary of English
+COD     Concise Oxford Dictionary
+MEU     Modern English Usage (Fowler, Gowers or Burchfield)
+MWCD    Merriam-Webster's Collegiate Dictionary
+NODE    New Oxford Dictionary of English
+NSOED   New Shorter Oxford English Dictionary
+OED     Oxford English Dictionary
+RHDEL   Random House Dictionary of the English Language
+RHHDAS  Random House Historical Dictionary of American Slang
+RHWCD   Random House Webster's College Dictionary
+RHWUD   Random House Webster's Unabridged Dictionary
+SOED    Shorter Oxford English Dictionary
+W3NID   Webster's Third New International Dictionary
+
+For many more abbreviations found in a.u.e, go to
+     <a href="abbreviations.html">http://alt-usage-english.org/abbreviations.html</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~<a name=Responding></a><a name=Respon0005></a>
+Responding
+~~~~~~~~~~
+When responding to other people, please quote *just enough* of the
+previous posting to set the context for readers.  You rarely need to
+quote the whole thing.  Delete the signature if your software does not
+do so.
+
+Please place your remarks and signature *below* the material you are
+quoting. That is the tradition in this and many newsgroups. It minimizes
+confusion by keeping the contributions in chronological order,
+especially when several postings are quoted in one response, as is
+fairly common. Some popular newsreaders, such as Outlook Express,
+automatically put the cursor above the quoted material; you can take
+advantage of this by scrolling down through the prior posting, deleting
+anything superfluous, until you reach the point where you want to start
+your reply.
+
+When participating in cross-posted threads, you will often do everyone a
+service if you use the "Followup-To" line to direct followups only to
+a.u.e; you should mention in the message body that you have changed
+this.
+
+For more on this topic, please read "Quoting Usenet Articles in
+Follow-ups" at:
+
+  <a href="posting_quotes.html" class="sml">http://alt-usage-english.org/posting_quotes.html</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=Dealingwithunwantedpostings></a><a name=Dealin0006></a>
+Dealing with unwanted postings
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Please don't respond to spam, or off-topic postings, or questions that
+can easily be answered in a dictionary.  If you feel strongly about such
+matters, send a polite e-mail note to the offender. Responding to the
+group uses up bandwidth, wastes even more of everyone's time, and has no
+effect on spammers, who never read the groups they spam to.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=altusageenglishandaltenglishusage></a>
+alt.usage.english and alt.english.usage
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+We are sometimes asked why there are two newsgroups with similar
+names. We don't know; it may have been an error. We are also asked what
+the difference is between the two groups. We are not aware of any
+official policy differences; participants of both groups report that
+alt.usage.english has significantly more traffic. Beyond that, you
+can make your own judgements about atmosphere, attitudes,
+personalities of current contributors, etc.
+
+A historical note: one of the messages from 1991 about the formation of
+a.u.e can be found at:
+   <a href="alt.usage.english-1.txt" class="sml %f">http://alt-usage-english.org/alt.usage.english-1.txt</a>
+</pre>
+       <!-- indexer: StartSkip -->
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF0000">A</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_c.shtml">C</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#top">Top</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

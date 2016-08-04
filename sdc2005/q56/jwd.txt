@@ -1,0 +1,383 @@
+from Jim Ward (jfw@Radix.Net)
+
+Sonnet Hunt
+
+1. There are 26 clues, A to Z.
+2. Each clue is the first line of a sonnet with each word replaced
+   by the number of characters in that word. The punctuation has not
+   been altered from the sonnet source.
+3. The value of a clue is the sonnet number, or a number in the
+   sonnet title.
+4. Your FINAL ANSWER is the sum of the 26 values of the 26 clues.
+5. The winner is the person who has the highest FINAL ANSWER less than
+   or equal to the true answer. Please, only one guess per person.
+6. A word pile has been provided that lists all of the words used
+   in the clues. The spelling of each word has not been altered from
+   the sonnet source (or translation).
+-------------------------------------------------------------------------
+Example Clue: (Elizabeth Barrett Browning, sonnet number)
+
+   3 2 1 4 4? 3 2 5 3 4.
+
+Answer Line: How do I love thee? Let me count the ways.
+
+   This is the first line of Sonnet #43, From the Portuguese
+
+Clue Value: 43
+-------------------------------------------------------------------------
+[Start of Puzzle]
+
+Clues:
+
+A. (Elizabeth Barrett Browning, sonnet number)
+
+   2 7! 3 4 5, 4 3 5!
+
+B. (Percy Bysshe Shelley, number in the sonnet title)
+
+   2 3, 3, 5, 8, 3 5 4,--
+
+C. (Emma Lazarus, number in the sonnet title)
+
+   4 9 4, 6 2 6 3 4,
+
+D. (John Milton, sonnet number)
+
+   4 1 8 3 2 5 2 5
+
+E. (William Shakespeare, sonnet number)
+
+   3 2 3 2 3 8 2 4 5
+
+F. (John Donne, sonnet number)
+
+   5, 2 3 5, 6 4 4 6 4
+
+G. (John Keats, sonnet number)
+
+   1 8! 2 1 4 4 4 5,
+
+H. (Thomas Hardy, sonnet number)
+
+   7, 4 5, 4 1 4 6 4,
+
+I. (William Wordsworth, number in sonnet title)
+
+   6! 4 8 2 6 2 4 4:
+
+J. (Pablo Neruda, sonnet number)
+
+   4 5, 7 5, 3 4,
+
+K. (Edna St. Vincent Millay, sonnet number)
+
+   2, 2 3 4 2 5 3 4 4!
+
+L. (John Berryman, sonnet number)
+
+   2 4 4 7, 2 4 4 5 2 5
+
+M. (Edmund Spenser, sonnet number)
+
+   3 3 1 5 3 4 4 3 6,
+
+N. (Samuel Daniel, sonnet number)
+
+   12 5, 3 2 3 5 5
+
+O. (Petrarch, sonnet number)
+
+   4, 3 5 2 8 2 3 6
+
+P. (Dante Gabriel Rossetti, sonnet number)
+
+   1 5 5 4 2 8 7 4
+
+Q. (Thomas Wyatt, sonnet number)
+
+   6, 4 4 3 7 2 5,
+
+R. (Michelangelo Buonarroti, sonnet number)
+
+   1 6 2 5 1 3 4 4 8 7
+
+S. (Michael Drayton, sonnet number)
+
+   2 2 4 6 4 7 4 6 4
+
+T. (Amy Lowell, number in sonnet title)
+
+   2 4 2 "10 5" 4 3 5
+
+U. (Algernon Charles Swinburne, sonnet number)
+
+   1 9 4 2 5 4 4 2 6:
+
+V. (Rupert Brooke, sonnet number)
+
+   2 1 6 3, 5 4 4 2 2:
+
+W. (Fulke Greville, sonnet number)
+
+   3 5, 4 7 4, 4 4 7,
+
+X. (Henry Wadsworth Longfellow, sonnet number)
+
+   1 4 2 7 3 2 7!
+
+Y. (Rainer Maria Rilke, sonnet number)
+
+   2 5 3 5 2 6, 9, 5.
+
+Z. (John Addington Symonds, number in sonnet title)
+
+   3 6 2 1 5, 5 8 6
+---------------------------------------------------------------
+Word Pile
+
+ 1 character words:
+
+   A
+   A
+   I
+   I
+   I
+   I
+   I
+   I
+   I
+   O
+   O
+   a
+
+ 2 character words:
+
+   An
+   He
+   If
+   If
+   It
+   My
+   Oh
+   We
+   as
+   at
+   be
+   be
+   be
+   he
+   if
+   in
+   is
+   is
+   it
+   it
+   me
+   me
+   my
+   my
+   no
+   of
+   of
+   of
+   of
+   of
+   of
+   of
+   of
+   of
+   oh
+   on
+   to
+   us
+
+ 3 character words:
+
+   Let
+   One
+   THE
+   The
+   all
+   and
+   and
+   and
+   and
+   day
+   die
+   for
+   got
+   her
+   his
+   his
+   hot
+   how
+   mad
+   not
+   not
+   old
+   son
+   the
+   the
+   the
+   the
+   the
+   who
+   you
+
+ 4 character words:
+
+   Fate
+   Full
+   Love
+   Love
+   Thou
+   When
+   away
+   bids
+   bore
+   dead
+   died
+   doom
+   fire
+   fire
+   from
+   from
+   have
+   have
+   hour
+   king
+   long
+   moon
+   more
+   must
+   mute
+   name
+   only
+   seem
+   some
+   star
+   that
+   that
+   that
+   that
+   that
+   thee
+   thee
+   this
+   this
+   this
+   this
+   thou
+   torn
+   true
+   upon
+   when
+   when
+   when
+   will
+   will
+   with
+   with
+   with
+   word
+   year
+
+ 5 character words:
+
+   Death
+   Egypt
+   Fever
+   Night
+   Sleep
+   apple
+   blind
+   cycle
+   dwell
+   dying
+   earth
+   fruit
+   hence
+   light
+   minds
+   paper
+   proud
+   range
+   range
+   rules
+   sable
+   seems
+   seems
+   share
+   sorry
+   spent
+   stood
+   think
+   where
+   where
+   white
+   woman
+   world
+   wrote
+   youth
+
+ 6 character words:
+
+   Caesar
+   Change
+   Heav'n
+   MILTON
+   Mother
+   Sonnet
+   called
+   caught
+   empire
+   flower
+   goiter
+   grieve
+   living
+   living
+   passed
+   should
+   strand
+   though
+
+ 7 character words:
+
+   Perhaps
+   armfuls
+   blasted
+   craning
+   filch'd
+   fleshly
+   letters
+   liberty
+   morning
+   strange
+   thunder
+   traitor
+
+ 8 character words:
+
+   Solitude
+   backward
+   brimming
+   consider
+   despised
+   feelings
+   marriage
+   shouldst
+   thinking
+
+ 9 character words:
+
+   graceless
+   grapeleaf
+   two-faced
+
+10 character words:
+
+   Stranger's
+
+12 character words:
+
+   Care-charmer

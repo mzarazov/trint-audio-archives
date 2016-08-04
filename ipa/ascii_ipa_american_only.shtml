@@ -1,0 +1,1457 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: ASCII IPA (American only)</title>
+<style type="text/css">
+.qle {  font-weight: bold; color: #0000FF}
+.qla {  font-weight: bold; color: #FF0000}
+.qls {  color: #990000}
+.sf {  font-family: Arial, Helvetica, sans-serif; font-weight: bold}
+</style>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>ASCII IPA (American only) </h1>
+       <div class="subh1">by Markus Laker, with some additions by Bob Cunningham</div>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname IPA I -->
+       ASCII IPA is a way to represent speech using a computer keyboard. This is a simplified version showing American pronunciations
+       only.
+       <h2>Contents</h2>
+       <ul>
+        <li><a href="#what">What is this?</a></li>
+        <li><a href="#start">Let's get started!</a>
+         <ul>
+          <li><a href="#reading">Reading ASCII IPA</a></li>
+          <li><a href="#writing">Writing ASCII IPA</a></li>
+          <li><a href="#sound">About the sound files</a></li>
+         </ul>
+        </li>
+        <li><a href="#symbols">The symbols</a>
+         <ul>
+          <li><a href="#cnv">Consonants and vowels</a></li>
+          <li><a href="#af_d_and_tr">Affricates, diphthongs and triphthongs</a></li>
+          <li><a href="#others">Other symbols</a></li>
+          <li><a href="#delim">Slashes or square brackets?</a></li>
+         </ul>
+        </li>
+        <li><a href="#focus">Focus on vowel sounds</a>         </li>
+        <li><a href="#speakers">Speakers</a></li>
+        <li><a href="#credits">Credits</a></li>
+        <li><a href="#help">Help to complete this page!</a></li>
+       </ul>
+       <a name=what></a>
+
+       <h2>What is this?</h2>
+       On the newsgroup <a href=news:alt.usage.english>alt.usage.english</a>
+we often want to represent the way we speak.
+It's dangerous to make statements such as "<i>bother</i> rhymes with <i>father</i>"
+or "<i>father</i> sounds like <i>farther</i>"
+because, for many people, those statements aren't true.
+Besides, nobody knows how you say <i>bother</i> and <i>farther</i>.
+       <p>
+To get round the problem, we use a notation called
+<a href="http://www.kirshenbaum.net/IPA/index.html">ASCII IPA</a>.
+We all agree on what sound each symbol represents, regardless of our own accents.
+ASCII IPA is similar to the International Phonetic Alphabet used in modern dictionaries,
+but it uses the symbols available on most computer keyboards.
+       <p><font size="-1">
+[For a full description of the International Phonetic Alphabet, see the Web site of the
+International Phonetic Association at 
+<a href="http://www.arts.gla.ac.uk/IPA/ipa.html">http://www.arts.gla.ac.uk/IPA/ipa.html</a>.
+  The IPA symbols shown on this page are from the 1979 revision of the 
+        International Phonetic Association's IPA Chart. For that reason, some of the
+        symbols shown may not be the same as those shown in later revisions of the
+        Phonetic Association's chart. In particular, 'turned-t' is no longer used for
+        the sound in 'tsk tsk', and lowercase iota is no longer used. (BC)]</font></p>
+       <p>
+This page is an introduction to ASCII IPA;
+whether you already know conventional IPA or not, you should find ASCII IPA easy to learn here.
+If you don't, please contact <a href="/cgi-bin/email.cgi"> the webmaster</a> 
+ and suggest how this page might be improved.
+       <p>
+Not every ASCII IPA symbol is shown here, only those used most often on alt.usage.english.
+Other ASCII IPA symbols are used in descriptions of other languages
+and on other newsgroups, such as the linguistics group <a href="news:sci.lang">sci.lang</a>.
+       <p>Each word in the following tables is used to demonstrate a particular sound.
+Don't worry if other parts of the words sound different from the way they're pronounced
+in your part of the world;
+the idea is to demonstrate the sounds themselves, not the words they form.
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <a name=start></a>
+
+       <h2>Let's get started!</h2>
+       <p>
+For a quick look at ASCII IPA symbols, see page <a href="nutshell.shtml">ASCII IPA in a nutshell</a>. Come back here if you want more.</p>
+       <p>Reading ASCII IPA is easier than writing it.
+For one thing, no one will know if you make a mistake.
+I suggest you learn to read it and then, when you can start to read words
+without constantly referring to the tables below, start to write.</p>
+       <a name=reading></a>
+       <h4>Reading ASCII IPA</h4>
+       <p>ASCII IPA looks like this: /bIt/.
+The /slashes/ are just a way of keeping the ASCII IPA in and the English spelling out.
+All you have to do is to look up the three symbols "b", "I" and "t" in the tables below.
+You'll find that /b/ and /t/ are just what you expect them to be,
+assuming that you grew up speaking English,
+and /I/ is the vowel in <i>it</i> and <i>bridge</i>.
+Put it all together and you get the word <i>bit</i>.
+       <p>
+Here's a more complicated example: /'fA:D@/.  What are all those symbols?
+Well, the apostrophe (') is a stress marker: it says that the following
+syllable is stressed.
+The colon (:) lengthens the preceding vowel.
+The at-sign (@) represents a schwa, the neutral, unstressed vowel
+in the words <i><u>a</u>bout</i> and <i>lem<u>o</u>n</i>.
+Put it all together and you get the way I [Markus Laker] &#8211; a Brit who drops his R's &#8211; say <i>father</i>.
+The word <i>schwa</i>, by the way, is pronounced /SwA:/.</p>
+       <p>
+You'll find it easier to learn ASCII IPA if you remember the following points:
+       <ol>
+        <li>
+In English spelling, some sounds are represented by combinations of letters,
+such as the "th" in <i>thin</i>.
+This never happens in ASCII IPA. One sound corresponds to one symbol.
+The "th" in thin, for example, is represented by the symbol /T/.
+<br>
+         <br>
+        <li>
+In English spelling, some letters change their sounds depending on what follows.
+The "a" in <i>mat</i> changes if you add an "e", making <i>mate</i>.
+The "a" and the "g" in <i>rag</i> both change if you add an "e", making <i>rage</i>.
+In this respect, ASCII IPA is a good deal easier than English spelling
+because each symbol always represents the same sound.
+<br>
+         <br>
+(Actually, that's only nearly true.
+There are a handful of symbols that do change the preceding symbol,
+but always in a predictable way.
+The only one you'll meet in the early days is the colon ":",
+which we've already described.
+You'll find the others in the <a href="#others">other symbols</a> table.)
+<br>
+         <br>
+        <li>
+Conversely, some sounds are represented in two or more ways in English spelling.
+Consider the first consonants in the words <i>cat</i> and <i>kitty</i>
+or <i>fun</i> and <i>phone</i>.
+Again, ASCII IPA is easier: there's only one way of representing each sound.
+<br>
+         <br>
+        <li>
+In English spelling, the sound of a word doesn't depend on whether it's written
+in capital letters or not.
+ASCII IPA is different, and one of the most common mistakes is to get the case of a symbol wrong.
+For example, /tin/ represents the word <i>teen</i> and /TIN/ represents <i>thing</i>.
+<br>
+         <br>
+        <li>
+Sometimes, sounds that we think of as a unit are really two or even three sounds in a row.
+For example, say the word <i>cold</i> slowly to yourself.
+Although we hear it as a single sound and write it with a single letter,
+the "o" is really a glide from one sound to another.
+Which two sounds those are depends on your accent.
+Similarly, the vowel in <i>cake</i> is, very roughly, a glide from the vowel in <i>egg</i>
+to the vowel in <i>leek</i>.
+<br>
+         <br>
+These two-in-one vowel sounds are called diphthongs.
+Three-in-one vowel sounds are called triphthongs.
+There's a <a href="#af_d_and_tr">table</a> of them further down.
+       </ol>
+       <p>For practice in reading IPA, try following  the <a href="../intrlinb.html">Interlinear transliterations</a>.       </p>
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <h2><a name=writing></a>       </h2>
+       <h4>Writing ASCII IPA</h4>
+       <p>
+Writing ASCII IPA is easy once you can read it fairly fluently.</p>
+       <p>
+To represent a word in ASCII IPA, you have to break it down into its component sounds.
+The word <i>cat</i>, for example, has the "k" sound from <i>kick</i>,
+the "a" sound from <i>pan</i> and the "t" sound from <i>hit</i>.
+All you do is to find the relevant sounds in the tables below,
+pick the corresponding symbols, and write them one after another inside a pair of /slashes/.
+So the ASCII IPA for <i>cat</i> is /k&amp;t/.</p>
+       <p>
+For longer or more complex words, use an apostrophe (') to indicate that
+the <i>following</i> syllable is stressed.
+Use a colon (:) to indicate that the <i>previous</i> vowel is lengthened.
+You can learn how to use the rest of the <a href="#others">other symbols</a> table
+from other people as and when you need it.</p>
+       <p>
+Sometimes you should use [square brackets] rather than slashes when you write ASCII IPA.
+But don't worry about that now;
+learn the symbols and how to use them, and then read the little <a href="#delim">essay</a>
+near the end of this page.</p>
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <a name=sound></a>
+       <h4>About the sound files</h4>
+       <p>
+If you are able to listen to sound files, I [Bob Cunningham] recommend that you emphasize use of
+the sound files to associate each symbol with a sound. Don't be 
+concerned about whether or not the example words are pronounced as you would 
+pronounce them. An example word has the sole purpose of illustrating
+the sound associated with a symbol, so all that matters is that the speaker is
+pronouncing the word with the correct sound of the symbol. I'd 
+like to call particular attention to the section that is headed <a href="#focus">Focus on vowel sounds</a>. The sounds presented in that section should be the most 
+reliable and authoritative guide for associating sounds with symbols. (BC)</p>
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <a name="symbols"></a>      
+       <h2>The Symbols</h2>
+       <a name=cnv></a>
+       <h4>Consonants and vowels</h4>
+       The consonant symbols [b], [d], [f], [h], [k], [l], [m], [n], [p],
+[r], [s], [t], [v], [w], and [z] have their usual English values.
+In other words, they always have the same sound in English spelling,
+and that's the sound they have in ASCII IPA, too.
+       <p>
+The following table lists the other sounds most often used in ASCII IPA.
+It shows each ASCII IPA symbol,
+some words that use that sound,  the way that American speakers
+typically pronounce those words (don't worry if that's not the way that <i>you</i> pronounce them), and the    IPA symbol and name.
+Numbered links in the table lead to sound samples, the number identifying the <a href="#speakers">speaker</a>.
+       <p>The section <a href="#focus">Focus on Vowel Sounds</a>, further down this page, gives additional information about English language vowel sounds. The links <b>&lt;+&gt;</b> provide quick access to, and return from, the relevant line of that table. (MB)
+       <p>Symbols in the table (click on a blue arrow to return here): <font face="Lucida Sans Typewriter, Courier New, Courier, mono">
+ <a href="#uppercase_a">A</a>
+ <a href="#lowercase_a">a</a>
+ <a href="#uppercase_d">D</a>
+ <a href="#uppercase_e">E</a>
+ <a href="#lowercase_e">e</a>
+ <a href="#lowercase_g">g</a>
+ <a href="#uppercase_i">I</a>
+ <a href="#lowercase_i">i</a>
+ <a href="#lowercase_j">j</a>
+ <a href="#uppercase_n">N</a>
+ <a href="#uppercase_o">O</a>
+ <a href="#lowercase_o">o</a>
+ <a href="#uppercase_r">R</a>
+ <a href="#uppercase_s">S</a>
+ <a href="#uppercase_t">T</a>
+ <a href="#lowercase_t_bang">t!</a>
+ <a href="#uppercase_u">U</a>
+ <a href="#lowercase_u">u</a>
+ <a href="#uppercase_v">V</a>
+ <a href="#uppercase_v_quote">V"</a>
+ <a href="#uppercase_z">Z</a>
+ <a href="#ampersand">&</a>
+ <a href="#at_sign">@</a>
+ <a href="#question_mark">?</a>
+ <a href="#asterisk">*</a>
+       </font></p>
+       <table border=1 cellpadding=5 align="center">
+        <tr>
+         <td>ASCII<br>
+          symbol</td>
+         <td>Sound</td>
+         <td>Example
+<a name="uppercase_a"></a></td>
+         <td>Pronunciation</td>
+         <td>
+          IPA<br>
+          symbol</td>
+         <td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>A</b>
+
+         </font></td>
+         <td>
+          
+           
+          <center>
+           /A/&nbsp;<a href="london_opn_bck_urd_crd_05_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_opn_bck_script_a.wav" class="sf">5</a>
+          </center>         </td>
+         <td valign="top">Ah<br>
+          Cart<br>
+          Father<br>
+          Farther<br>
+          All<br>
+    Bother<br>
+          Caught<br>
+          Cot<br>
+ Hot<br>
+          Sorry<br>
+ <font size="-1">(<a href="#cvnote1">Note 1</a>)</font>
+<a name="lowercase_a"></a></td>
+         <td valign="top">/A:/&nbsp<a href=ah24.wav class="sf">2</a>&nbsp;<a href=ahahbc.wav class="sf">3</a><br>
+/kArt/&nbsp;<a href=cart24.wav class="sf">2</a>&nbsp;<a href=cartcartbc.wav class="sf">3</a><br>
+/'fA:D@r/&nbsp;<a href=father24.wav class="sf">2</a>&nbsp;<a href=fatherfatherbc.wav class="sf">3</a><br>
+/'fArD@r/&nbsp;<a href=farthr24.wav class="sf">2</a>&nbsp;<a href=fartherfartherbc.wav class="sf">3</a><br>
+/A:l/&nbsp;<a href=allallbc.wav class="sf">3</a><br>
+/bA:D@r/&nbsp;<a href=botherbotherbc.wav class="sf">3</a><br>
+/kA:t/&nbsp;<a href=caughtcaughtbc.wav class="sf">3</a><br>
+/kA:t/&nbsp;<a href=cotcotbc.wav class="sf">3</a><br>
+/hA:t/&nbsp;<a href=hothotbc.wav class="sf">3</a><br>
+/sA:ri:/ <a href=sorrysorrybc.wav class="sf">3</a><br>
+          &nbsp;</td>
+         <td align=center>
+          <font size="-1"><img src=a-cursive.gif alt="IPA symbol"><br>
+           </font><font size="-1">(script a)</font><br>
+          <a href="#focus_uppercase_a">&lt;+&gt;</a></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>a</b>
+         </font></td>
+         <td>/a/&nbsp;<a href="london_opn_frt_urd_crd_04_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_opn_frt_a.wav" class="sf">5</a></td>
+         <td valign="top">Chicago <i>pop</i><br>
+          Boston <i>park</i>
+<br>
+          <font size="-1">(<a href="#cvnote2">Note 2</a>)</font>
+<a name="uppercase_d"></a></td>
+         <td valign="top">/pap/<br>
+          /pa:k/
+<br>         </td>
+         <td align=center>
+          <img src="manu_a.gif" alt="IPA symbol">
+<br>
+          <a href="#focus_lowercase_a">&lt;+&gt;</a></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>D</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>This
+<a name="uppercase_e"></a></td>
+         <td>/DIs/ <a href=thisthisbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=eth.gif alt="IPA symbol"><br>
+           (edh)</font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>E</b>
+         </font></td>
+         <td>/E/&nbsp;<a href="london_opn_mid_frt_urd_crd_03_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_hlf_opn_frt_greek_e.wav" class="sf">5</a></td>
+         <td valign="top">End<br>
+          Get<br>
+          Merry<br>
+          Mary<br>
+          <font size="-1">(<a href="#cvnote3">Note 3</a>)</font><a name="lowercase_e"></a></td>
+         <td valign="top">/End/&nbsp;<a href=endendbc.wav class="sf">3</a><br>
+    /gEt/&nbsp;<a href=getgetbc.wav class="sf">3</a><br>
+    /mEri:/&nbsp;<a href=merrymerrybc.wav class="sf">3</a><br>
+    /mEri:/&nbsp;<a href=marymarybc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=epsilon.gif alt="IPA symbol"><br>
+           (epsilon)</font><br>
+          <a href="#focus_uppercase_e">&lt;+&gt;</a></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>e</b>
+         </font></td>
+         <td>/e/&nbsp;<a href="london_cls_mid_frt_urd_crd_02_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_hlf_cls_frt_e.wav" class="sf">5</a></td>
+         <td valign="top">Eight<br>
+          Chaos
+<a name="lowercase_g"></a></td>
+         <td valign="top">/eIt/&nbsp;<a href=eighteightbc.wav class="sf">3</a><br>
+    /'keIA:s/&nbsp;<a href=chaoschaosbc.wav class="sf">3</a></td>
+         <td align=center>
+          <img src="manu_e.gif" alt="IPA symbol">
+<br>
+          <a href="#focus_lowercase_e">&lt;+&gt;</a></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>g</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Get
+<a name="uppercase_i"></a></td>
+         <td>/gEt/&nbsp;<a href=getgetbc.wav class="sf">3</a><br>         </td>
+         <td align=center>
+          <font size="-1"><img src="manu_g.gif" alt="IPA symbol">         </font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>I</b>
+         </font></td>
+         <td>/I/&nbsp;<a href="london_smf_smc_urd_lax_crd_01_4_bit.wav" class="sf">4</a></td>
+         <td valign="top">It<br>
+          Bridge
+<a name="lowercase_i"></a></td>
+         <td valign="top">/It/&nbsp;<a href=ititbc.wav class="sf">3</a><br>
+    /brIdZ/&nbsp;<a href=bridge14.wav class="sf">1</a>&nbsp;<a href=bridgebridgebc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=iota-small-cap.gif alt="IPA symbol"> <i>or</i> <img src=iota-lower.gif alt="IPA symbol"><br>
+           (iota)</font><br>
+          <a href="#focus_uppercase_i">&lt;+&gt;</a></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>i</b>
+         </font></td>
+         <td>/i/&nbsp;<a href="london_cls_frt_urd_crd_01_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_cls_frt_i.wav" class="sf">5</a></td>
+         <td valign="top">Eat
+<a name="lowercase_j"></a></td>
+         <td valign="top">/i:t/&nbsp;<a href=eateatbc.wav class="sf">3</a></td>
+         <td align=center>
+          <img src="manu_i.gif" alt="IPA symbol">
+<br>
+          <a href="#focus_lowercase_i">&lt;+&gt;</a></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>j</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Yes
+         <a name="uppercase_n"></a></td>
+         <td>/jEs/&nbsp;<a href=yesyesbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src="manu_j.gif" alt="IPA symbol">         </font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>N</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Hang
+<a name="uppercase_o"></a></td>
+         <td>/heIN/&nbsp;<a href=hanghangbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=eng.gif alt="IPA symbol">
+<br>
+           </font><font size="-1">(eng)</font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>O</b>
+         </font></td>
+         <td>/O/&nbsp;<a href="london_opn_mid_bck_rnd_crd_06_4_bit.wav" class="sf">4</a> <a href="lausanne_rnd_hlf_opn_bck_open_o.wav" class="sf">5</a></td>
+         <td valign="top">Court<br>
+          Oil
+<a name="lowercase_o"></a></td>
+         <td valign="top">&nbsp;&nbsp;/kO:rt/&nbsp;<a href=courtcourtbc.wav class="sf">3</a><br>
+ &nbsp;</td>
+         <td align=center>
+          <font size="-1"><img src=o-open.gif alt="IPA symbol"><br>
+           </font><font size="-1">(open o)<br>
+          </font><a href="#focus_uppercase_o">&lt;+&gt;</a></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>o</b>
+         </font></td>
+         <td>/o/&nbsp;<a href="london_cls_mid_bck_rnd_crd_07_4_bit.wav" class="sf">4</a> <a href="lausanne_rnd_hlf_cls_bck_o.wav" class="sf">5</a></td>
+         <td valign="top">No<br>
+          Old<br>
+          Omit<a name="uppercase_r"></a>&nbsp;</td>
+         <td valign="top">/noU/&nbsp;<a href=nonobc.wav class="sf">3</a><br>
+    /oUld/&nbsp;<a href=oldoldbc.wav class="sf">3</a><br>
+ /oU'mIt/&nbsp;<a href=omitomitbc.wav class="sf">3</a></td>
+         <td align=center>
+          <img src="manu_o.gif" alt="IPA symbol"><br>
+          <a href="#focus_lowercase_o">&lt;+&gt;</a></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>R</b>
+         </font></td>
+         <td colspan=3>Equivalent to /@r/, /r-/, or even /V"r/
+<a name="uppercase_s"></a></td>
+         <td align=center>
+          <font size="-1"><img src=schwa-right-hook.gif alt="IPA symbol">
+<br>
+           </font><font size="-1">(right-hook<br>
+          schwa)</font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>S</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Ship<a name="uppercase_t"></a></td>
+         <td>/SIp/&nbsp;<a href=shipshipbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=esh.gif alt="IPA symbol"><br>
+           </font><font size="-1">(esh)
+         </font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>T</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Thin
+<a name="lowercase_t_bang"></a></td>
+         <td>/TIn/&nbsp;<a href=thinthinbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=theta.gif alt="IPA symbol"></font><font size="-1"><br>
+           (theta)
+                   </font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>t!</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td><i>tsk-tsk</i> or <i>tut-tut</i><a name="uppercase_u"></a></td>
+         <td>/t!&nbsp;t!/&nbsp;<a href=tsktsktsktskbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=t-turned.gif alt="IPA symbol">
+<br>
+           </font><font size="-1">(turned t)         </font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>U</b>
+         </font></td>
+         <td>/U/&nbsp;<a href="london_smb_smc_rnd_lax_crd_08_4_bit.wav" class="sf">4</a></td>
+         <td valign="top">Pull<br>
+          Butch
+<a name="lowercase_u"></a></td>
+         <td valign="top">/pUl/<br>
+    /bUtS/</td>
+         <td align=center>
+          <font size="-1"><img src=upsilon.gif alt="IPA symbol">
+<br>
+           (upsilon) <br>
+          </font><a href="#focus_uppercase_u">&lt;+&gt;</a>
+
+                 
+         <font size="-1">        </font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>u</b>
+         </font></td>
+         <td>/u/&nbsp;<a href="london_cls_bck_rnd_crd_08_4_bit.wav" class="sf">4</a> <a href="lausanne_rnd_cls_bck_u.wav" class="sf">5</a></td>
+         <td>Ooze
+<a name="uppercase_v"></a></td>
+         <td>/u:z/&nbsp;<a href=oozeoozebc.wav class="sf">3</a></td>
+         <td align=center>
+          <img src="manu_u.gif" alt="IPA symbol">
+<br>
+          <a href="#focus_lowercase_u">&lt;+&gt;</a></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>V</b>
+         </font></td>
+         <td>/V/&nbsp;<a href="london_opn_mid_bck_urd_crd_14_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_hlf_opn_bck_inverted_v.wav" class="sf">5</a></td>
+         <td valign="top">Shun<br>
+          Up<a name="uppercase_v_quote"></a></td>
+         <td valign="top">&nbsp;/SVn/&nbsp;<a href=shunshunbc.wav class="sf">3</a><br>
+/Vp/&nbsp;<a href=upupbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=v-turned.gif alt="IPA symbol"><br>
+           (turned v)
+<br>
+          </font><a href="#focus_uppercase_v">&lt;+&gt;</a>
+<font size="-1">                   </font></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>V"</b>
+         </font></td>
+         <td>/V&quot;/&nbsp;<a href="lon_rev_eps.wav" class="sf">4</a></td>
+         <td valign="top">Fern<br>
+          Hurl
+<a name="uppercase_z"></a></td>
+         <td valign="top">/fV"rn/<br>
+          /hV"rl/</td>
+         <td align=center>
+          <font size="-1"><img src=epsilon-reversed.gif alt="IPA symbol">
+         <br>
+           (reversed<br>
+           epsilon)<br>
+          </font><a href="#focus_uppercase_v_quote">&lt;+&gt;</a></td>
+         <td align=center><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>Z</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Beige
+<a name="ampersand"></a></td>
+         <td>/beIZ/&nbsp;<a href=beigebeigebc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=yogh.gif alt="IPA symbol">
+<br>
+           </font><font size="-1">(yogh)</font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>&</b>
+         </font></td>
+         <td>/&amp;/&nbsp;<a href="london_frt_smo_urd_ae_digraph_4_bit.wav" class="sf">4</a> <a href="lausanne_near_opn_unr_frt_ash.wav" class="sf">5</a></td>
+         <td valign="top">Ash<br>
+          Cat<br>
+          Marry
+<br>
+         
+<font size="-1">(<a href="#cvnote3">Note 3</a>)</font><a name="at_sign"></a></td>
+         <td valign="top">/&amp;S/&nbsp;<a href=ashashbc.wav class="sf">3</a><br>
+    /k&amp;t/&nbsp;<a href=catcatbc.wav class="sf">3</a><br>
+ /'m&amp;ri/</td>
+         <td align=center>
+          <font size="-1"><img src=ash.gif alt="IPA symbol"><br>
+           </font><font size="-1">(ash)</font>
+                 
+         <font size="-1"><br>
+          </font><a href="#focus_ampersand">&lt;+&gt;</a></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>@</b>
+         </font></td>
+         <td>/@/&nbsp;<a href="london_mid_ctl_normally_urd_schwa_4_bit.wav" class="sf">4</a> <a href="lausanne_neutral_hlf_cls_ctr_inverted_e.wav" class="sf">5</a></td>
+         <td>Lemon
+<a name="question_mark"></a></td>
+         <td>/'lEm@n/&nbsp;<a href=lemonlemonbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=schwa.gif alt="IPA symbol">
+<br>
+           </font><font size="-1">(schwa)</font><font size="-1"><br>
+          </font><a href="#focus_at_sign">&lt;+&gt;</a></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>?</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td>Uh-oh
+<a name="asterisk"></a></td>
+         <td>/'V?oU/&nbsp;<a href=uhohuhohbc.wav class="sf">3</a></td>
+         <td align=center>
+          <font size="-1"><img src=glottal.gif alt="IPA symbol"><br>
+           (glottal)</font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>*</b>
+         </font></td>
+         <td>&nbsp;</td>
+         <td valign="top">Pedal<br>
+          <font size="-1">(<a href="#cvnote4">Note 4</a>)</font></td>
+         <td valign="top">/pE*@l/</td>
+         <td align=center>
+          <font size="-1"><img src=r-fish-hook.gif alt="IPA symbol"><br>
+           </font><font size="-1">(fish-<br>
+          hook r)</font></td>
+         <td><a href="#cnv"><img border=0 src="../up_arrow.gif" alt=uparrow></a>
+       </table>
+       <br>
+       <p><a name=cvnote1></a><font size="-1"><b>Note 1: </b>The word pronunciations  are not heard in
+          every part of the United States. They are the ones in my [Bob Cunningham's] idiolect and probably are typical of the pronunciation of most speakers west of the Rocky Mountains. (BC)   
+       </font></p>
+       <p><a name=cvnote2></a><font size="-1"><b>Note 2: </b>The reference to 'Chicago pop' first appeared in Mark Israel's AUE FAQ, and I  [Bob Cunningham] believe it was copied from there by Markus Laker for inclusion in his
+          ASCII IPA guide. Some AUE readers have expressed disagreement with the Chicago pronunciation of 'pop' with [a]. I have no opinion on the subject, having no knowledge
+          of how 'pop' is pronounced in Chicago. I suggest that you use your own knowledge or your own judgement about whom to believe. In any case, example words should not be relied upon in general to
+          illustrate pronunciation. First priority should be given to listening to the sound files to learn the pronunciation associated with any symbol. Example words are to be regarded
+          as crutches for the benefit of those who do not have sound cards. (BC) 
+       </font></p>
+       <p><a name=cvnote3></a><font size="-1"><b>Note 3: </b> Some U.S. speakers do not distinguish between "Mary", "merry", and "marry"  <a href=merrydearmerrydearbc.wav class="sf">3</a>. Among those who use the same vowel in 'Mary', 'merry', and 'marry', not all of them have the common vowel /E/ in the three words.
+          One reader has said that he pronounces all three with /&amp;/. (BC)
+       </font></p>
+       <p><a name=cvnote4></a><font size="-1"><b>Note 4: </b></font><font size="-1">A short tap of the tongue used by some U.S. speakers in "pedal", "petal".  If you distinguish"pedal"  [<a href=pedalpedalbc.wav class="sf">3</a>] from "petal"  [<a href=petalpetalbc.wav class="sf">3</a>], then you do not use this sound.</font></p>
+       <p>
+
+<i><font size="-1">[<a href="#cnv">Start of "Consonants and Vowels"</a>] [<a href="#top">Top of this page</a>]</font></i></p>
+       <h4><a name="af_d_and_tr"></a>       </h4>
+       <h4>Affricates, diphthongs and triphthongs</h4>
+       <!-- Mark 2 -->
+A <b>diphthong</b> is a glide between two pure vowel sounds
+but which is normally considered as a unit.
+The vowels in <i>cake, dive, bone</i> are diphthongs.
+       <p>
+A <b>triphthong</b> is a glide between three vowels &#8211;
+again, normally considered as a unit.
+The vowels in <i>fire</i> and <i>power</i> are triphthongs.
+       <p>
+An <b>affricate</b> is a plosive consonant immediately followed
+by a fricative or spirant.
+In simple English, it's a consonant that momentarily stops the air flow through your mouth
+followed by a second consonant that you pronounce by forcing the air through a small gap.
+The two consonants in <i>charge</i> are affricates.
+       <p>
+Observant readers will notice that /hw/ doesn't belong in this table at all.
+       <p>Symbols in the table (click on a blue arrow to return here): <font face="Lucida Sans Typewriter, Courier New, Courier, mono">
+ <a href="#lc_t_uc_s">tS</a>
+ <a href="#lc_d_uc_z">dZ</a>
+ <a href="#lc_e_uc_i">eI</a>
+ <a href="#lc_o_uc_u">oU</a>
+ <a href="#lc_a_uc_i">aI</a>
+ <a href="#lc_a_uc_u">aU</a>
+ <a href="#uc_o_lc_i">Oi</a>
+ </font></p>
+       <table border=1 cellpadding=5 align="center">
+        <tr>
+         <td>ASCII<br>
+          symbol</td>
+         <td>Example
+<a name="lc_t_uc_s"></a></td>
+         <td>Pronunciation</td>
+         <td>IPA<br>
+          symbol</td>
+         <td>&nbsp;</td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>tS</b>
+         </font></td>
+         <td valign="top">Chin<br>
+          Butch
+<a name="lc_d_uc_z"></a></td>
+         <td valign="top">/tSIn/&nbsp;<a href=chin4.wav class="sf">0</a>&nbsp;<a href=chinchinbc.wav class="sf">3</a><br>
+    /bUtS/ <a href=butch14.wav class="sf">1</a></td>
+         <td align=center><img src=tS.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>dZ</b>
+         </font></td>
+         <td valign="top">Jet<br>
+          Bridge
+<a name="lc_e_uc_i"></a></td>
+         <td valign="top">/dZEt/&nbsp;<a href=jet4.wav class="sf">0</a>&nbsp;<a href=jetjetbc.wav class="sf">3</a><br>
+          /brIdZ/ 
+    <a href=bridge14.wav class="sf">1</a></td>
+         <td align=center><img src=dZ.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>eI</b>
+         </font></td>
+         <td>Gate
+<a name="lc_o_uc_u"></a></td>
+         <td>/geIt/&nbsp;<a href=gate4.wav class="sf">0</a></td>
+         <td align=center><img src=eI1.gif alt="IPA symbol"> <i>or</i> <img src=eI2.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>oU</b>
+         </font></td>
+         <td valign="top">Stone&nbsp;cold<a name="lc_a_uc_i"></a></td>
+         <td valign="top">/stoUn koUld/ <a href=stncld14.wav class="sf">1</a> <a href=stonecoldstonecoldbc.wav class="sf">3</a></td>
+         <td align=center><img src=oU.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>aI</b>
+         </font></td>
+         <td>Dive
+<a name="lc_a_uc_u"></a></td>
+         <td>/daIv/&nbsp;<a href=dive4.wav class="sf">0</a>&nbsp;<a href=divedivebc.wav class="sf">3</a></td>
+         <td align=center><img src=aI1.gif alt="IPA symbol"> <i>or</i> <img src=aI2.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>aU</b>
+         </font></td>
+         <td>Out
+<a name="uc_o_lc_i"></a></td>
+         <td>/aUt/&nbsp;<a href=out4.wav class="sf">0</a>&nbsp;<a href=outoutbc.wav class="sf">3</a></td>
+         <td align=center><img src=aU.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>OI</b>
+         </font></td>
+         <td>Oil</td>
+         <td>/OIl/&nbsp;<a href=oil4.wav class="sf">0</a>&nbsp;<a href=oiloilbc.wav class="sf">3</a></td>
+         <td align=center><img src=OI.gif alt="IPA symbol"></td>
+         <td align=center><a href="#af_d_and_tr"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+       </table>
+       <p>
+        
+         
+<i><font size="-1">[<a href="#af_d_and_tr">Start of "Affricates, diphthongs, and triphongs"</a>] [<a href="#top">Top of this page</a>]</font></i></p>
+       <h4><a name=others></a>       </h4>
+       <h4>Other symbols</h4>
+       <table border=1 cellpadding=5 align="center">
+        <tr>
+         <td align=center>ASCII<br>
+           symbol</td>
+         <td>Effect
+
+<a name="minus_sign"></a></td>
+         <td>IPA 
+           symbol <font size="-1">(<a href="#osnote1">Note 1</a>)</font></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>-</b>
+         </font></td>
+         <td>Previous consonant syllabic as in "bundle" /'bVnd@l/ or /'bVndl-/,<br>
+          "button" /bVt@n/ or /bVtn-/
+
+<a name="nasal_tilde"></a></td>
+         <td><div align="center"><img src="nminus.gif" alt="IPA symbol" width="12" height="22"><br>
+           (vertical line below)</div></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>~</b>
+         </font></td>
+         <td>Previous vowel nasalised, or previous consonant velarised
+
+<a name="colon_stretcher"></a></td>
+         <td><div align="center"><img src="otilde.gif" alt="IPA symbol" width="13" height="22"><em> or <img src="ttilde.gif" alt="IPA symbol" width="14" height="19"></em><br>
+           (tilde above or overlaid) </div></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>:</b>
+         </font></td>
+         <td>Previous sound lengthened
+
+<a name="sc_palatalizer"></a></td>
+         <td><div align="center"><img src="ecolon.gif" alt="IPA symbol" width="21" height="15"><br>
+           (triangular colon) </div></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>;</b>
+         </font></td>
+         <td>Previous sound palatalised
+
+<a name="h_in_angles"></a></td>
+         <td><div align="center"><img src="tj.gif" alt="IPA symbol" width="16" height="27"><br>
+           (modifier small j) </div></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>&lt;h&gt;</b>
+         </font></td>
+         <td>Previous sound aspirated
+
+<a name="pri_stress"></a></td>
+         <td><div align="center"><img src="th.gif" alt="IPA symbol" width="20" height="27"><br>
+           (modifier small h) </div></td>
+        <tr>
+         <td align=center><b><font face="Lucida Sans Typewriter, Courier New, Courier, mono">'</font></b><font size="-1">
+ [apostrophe]</font></td>
+         <td>Following syllable has primary stress
+
+<a name="sec_stress"></a></td>
+         <td><div align="center"><img src="apostrophet.gif" alt="IPA symbol" width="13" height="22"></div></td>
+        <tr>
+         <td align=center><b><font face="Lucida Sans Typewriter, Courier New, Courier, mono">,</font></b>
+         <font size="-1">[comma]</font></td>
+         <td>Following syllable has secondary stress</td>
+         <td><div align="center"><img src="commat.gif" alt="IPA symbol" width="12" height="23"></div></td>
+        </table>
+       <p> <b><font size="-1"><a name="osnote1"></a>Note 1: </font></b><font size="-1">The IPA symbol in question is shown
+           in black. The arbitrarily-chosen gray symbol indicates positioning only</font>.</p>
+       <p>
+        
+         <i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <a name=delim></a>
+
+       <h4>Slashes or square brackets?</h4>
+       <p>If you read alt.usage.english for long, you'll sometimes see ASCII IPA
+written between /slashes/ and you'll sometimes see it between
+[square brackets]. Which is right?
+This apparently simple question baffled me [Markus Laker] for months.
+Here is the understanding that I, as a non-linguist, eventually reached,
+along with four useful words that interested amateurs &#8211; like me &#8211; will find useful.       </p>
+       <ul>
+        <li>A <b>phone</b> is a simple vowel or consonant, such as a [p].</li>
+        <li>A <b>phonetic</b> transcription is concerned with phones &#8211;
+it attempts to write down the sounds that are actually made,
+regardless of what they mean.</li>
+        <li>A <b>phoneme</b> is a sound that distinguishes one word from another.</li>
+        <li>A <b>phonemic</b> transcription is concerned with the meanings of sounds.
+It is not concerned with differences between sounds unless they affect meaning.</li>
+       </ul>
+       Phonetic transcriptions are enclosed in square brackets.
+       <p>
+Phonemic transcriptions are enclosed in slashes.
+       <p>
+Here's an example. In English English, <i>cold</i> is pronounced /k@Uld/.
+This is true for <i>all</i> English accents,
+even those that sound very different from RP (Received Pronunciation
+or 'BBC English'). In many English accents, however,
+the presence of the [l] changes the [@U] to [oU], and the word
+comes out as [koUld].
+But it's still correct to write it phonemically as /k@Uld/ because the change from [@U] to [oU]
+doesn't affect the meaning.
+In fact, all words in the same class &#8211; <i>soul, pole, sold</i> --
+undergo the same change and we aren't normally even conscious of it.
+       <p>
+A second example: phonemic transcriptions &#8211; which use slashes &#8211; don't
+distinguish between the four [t] sounds in <i><a href="tot4.wav">tot</a>,
+<a href="bottle4.wav">bottle</a>, <a href="button4.wav">button</a>,</i> and 
+<i><a href="dunno4.wav">don't know</a>.</i>
+Phonetic transcriptions &#8211; which use square brackets &#8211; do attempt to distinguish.
+The scheme shown on this page can't make all these distinctions
+(although the [t] in <i>don't know</i> would be replaced by a [?]).
+More elaborate distinctions are possible using the full definition of ASCII IPA at
+Evan Kirshenbaum's 
+Web site,
+although they aren't often used on alt.usage.english. Evan's definition is also 
+available in a PDF version for those who have the Acrobat reader. He has 
+stated "The PDF file is the one that should be treated as authoritative (to the extent 
+that any of this is)."</p>
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <a name="focus"></a>    
+       <h2>Focus on vowel sounds</h2>
+       <p>Symbols in the table (click on a blue arrow to return here): <font face="Lucida Sans Typewriter, Courier New, Courier, mono">
+       <a href="#focus_uppercase_a">A</a>
+       <a href="#focus_lowercase_a">a</a>
+       <a href="#focus_rot_lc_a">%</a>
+       <a href="#focus_uppercase_e">E</a>
+       <a href="#focus_lowercase_e">e</a>
+       <a href="#focus_uppercase_i">I</a>
+       <a href="#focus_lowercase_i">i</a>
+       <a href="#focus_uppercase_o">O</a>
+       <a href="#focus_lowercase_o">o</a>
+       <a href="#focus_uppercase_u">U</a>
+       <a href="#focus_lowercase_u">u</a>
+       <a href="#focus_uppercase_v">V</a>
+       <a href="#focus_uppercase_v_quote">V"</a>
+       <a href="#focus_ampersand">&</a>
+       <a href="#focus_at_sign">@</a>
+       </font></p>
+       <table border=1 cellpadding=5 align="center">
+        <tr>
+         <td align=center>ASCII<br>
+          Symbol</td>
+         <td align=center>Sound</td>
+         <td align=center>Articulatory
+<br>
+          Description</td>
+         <td align=center>
+          <div align="left">Comments<a name="focus_uppercase_a"></a></div>         </td>
+         <td align=center>IPA<br>
+          Symbol</td>
+         <td align=center>&nbsp;</td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>A</b>
+         </font></td>
+         <td align=center><a href="london_opn_bck_urd_crd_05_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_opn_bck_script_a.wav" class="sf">5</a></td>
+         <td align=center>{low,bck,unr,vwl}</td>
+         <td align=center>
+          <div align="left">This sound requires opening your mouth wide and feeling resonance at the back of your mouth.
+<a name="focus_lowercase_a"></a></div>         </td>
+         <td align=center>
+          <font size="-1"><img src=a-cursive.gif alt="IPA symbol"><br>
+           </font><a href="#uppercase_a">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>a</b>
+         </font></td>
+         <td align=center><a href="london_opn_frt_urd_crd_04_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_opn_frt_a.wav" class="sf">5</a></td>
+         <td align=center>{low,fnt,unr,vwl}</td>
+         <td align=center>
+          <div align="left">
+           <p>Also in diphthongs: "dive" <a href=dive4.wav>/daIv/</a> (yes, folks, the sound traditionally called "long i" is actually a diphthong!), "out" <a href=out4.wav>/aUt/</a>.  Typically, [a] is not distinguished phonemically from [A]; but if you use in "ask" a vowel distinct both from the one in "cat" and the one in "father", then [a] is what it is.<a name="focus_rot_lc_a"></a></p>
+          </div>         </td>
+         <td align=center>
+          <img src="manu_a.gif" alt="IPA symbol">
+<br>
+          <a href="#lowercase_a">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center>(none)</td>
+         <td align=center><a href="london_rot_lc_a.wav" class="sf">4</a> <a href="lausanne_rot_lc_a.wav" class="sf">5</a></td>
+         <td align=center>{smo,cnt,ntl,vwl} </td>
+         <td align=center>
+          <p align="left">There is no ASCII IPA symbol for the IPA 180-degree-rotated 
+lowercase 'a', which corresponds to the central vowel that is midway between open-mid
+and open. I've added sound files for this vowel because at least one AUE
+person has said that he thinks he may use a central open vowel. The rotated
+lowercase 'a' is slightly higher than open. It seems reasonable to guess 
+that the difference between it and a fully open central open might be similar to the 
+difference between /&/ and /a/, since they are the same difference apart on the openness
+scale. Anyway, for what it's worth, there it is. If you want to
+use it, I suggest you use one of Evan Kirshenbaum's ad hoc symbols (/$/ or /%/) for it
+and define it in your accompanying text. (BC)<a name="focus_uppercase_e"></a></p>         </td>
+         <td align=center><img src="T_lausrota.gif" alt="IPA symbol"></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>E</b>
+         </font></td>
+         <td align=center><a href="london_opn_mid_frt_urd_crd_03_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_hlf_opn_frt_greek_e.wav" class="sf">5</a></td>
+         <td align=center>{lmd,fnt,unr,vwl} </td>
+         <td align=center>&nbsp;<a name="focus_lowercase_e"></a></td>
+         <td align=center>
+          <font size="-1"><img src=epsilon.gif alt="IPA symbol"><br>
+          </font><a href="#uppercase_e">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>e</b>
+         </font></td>
+         <td align=center><a href="london_cls_mid_frt_urd_crd_02_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_hlf_cls_frt_e.wav" class="sf">5</a></td>
+         <td align=center>{umd,fnt,urd,vwl}</td>
+         <td align=center>
+          &nbsp;<a name="focus_uppercase_i"></a></td>
+         <td align=center>
+          <img src="manu_e.gif" alt="IPA symbol">
+<br>
+          <a href="#lowercase_e">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>I</b>
+         </font></td>
+         <td align=center><a href="london_smf_smc_urd_lax_crd_01_4_bit.wav" class="sf">4</a></td>
+         <td align=center>{smh,sft,unr,vwl}</td>
+         <td align=center>
+          &nbsp;<a name="focus_lowercase_i"></a></td>
+         <td align=center>
+          <font size="-1"><img src=iota-small-cap.gif alt="IPA symbol"> <i>or</i> <img src=iota-lower.gif alt="IPA symbol"></font><br>
+          <a href="#uppercase_i">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>i</b>
+         </font></td>
+         <td align=center><a href="london_cls_frt_urd_crd_01_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_cls_frt_i.wav" class="sf">5</a></td>
+         <td  align=center>{hgh,fnt,unr,vwl}</td>
+         <td align=center>
+          &nbsp;<a name="focus_uppercase_o"></a></td>
+         <td align=center>
+          <img src="manu_i.gif" alt="IPA symbol">
+<br>
+          <a href="#lowercase_i">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>O</b>
+         </font></td>
+         <td align=center><a href="london_opn_mid_bck_rnd_crd_06_4_bit.wav" class="sf">4</a> <a href="lausanne_rnd_hlf_opn_bck_open_o.wav" class="sf">5</a></td>
+         <td align=center>{lmd,bck,rnd,vwl}</td>
+         <td align=center>
+          <div align="left">The [O] sound requires rounded lips, but lips making a a bigger circle than for [o].  If you do not use the same vowel sound in "caught" as in "court", then you are one of the North American speakers who use [O] only before [r]:  you do not round your lips for "all" and "caught", and you should use some other symbol, such as [A] or [a], to transcribe the vowel. <font size="-1">(<a href="#vnote1">Note 1</a>)</font>
+<a name="focus_lowercase_o"></a></div>         </td>
+         <td align=center>
+          <font size="-1"><img src=o-open.gif alt="IPA symbol"><br>
+           </font><a href="#uppercase_o">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>o</b>
+         </font></td>
+         <td align=center><a href="london_cls_mid_bck_rnd_crd_07_4_bit.wav" class="sf">4</a> <a href="lausanne_rnd_hlf_cls_bck_o.wav" class="sf">5</a></td>
+         <td align=center>{umd,bck,rnd,vwl}</td>
+         <td align=center>
+          <div align="left">If you are one of the few speakers who distinguish such pairs as "aural" and "oral", "for" and "four", "for" and "fore", "horse" and "hoarse", "or" and "oar", "or" and "ore", then you use [O] for the first and [o] for the second word in each pair; otherwise, you use [O] for both.<a name="focus_uppercase_u"></a></div>         </td>
+         <td align=center>
+          <img src="manu_o.gif" alt="IPA symbol"><br>
+          <a href="#lowercase_o">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>U</b>
+         </font></td>
+         <td align=center><a href="london_smb_smc_rnd_lax_crd_08_4_bit.wav" class="sf">4</a></td>
+         <td align=center>{smh,sbk,rnd,vwl}</td>
+         <td align=center>
+          &nbsp;<a name="focus_lowercase_u"></a></td>
+         <td align=center>
+          <font size="-1"><img src=upsilon.gif alt="IPA symbol">
+<br>
+          </font><a href="#uppercase_u">&lt;+&gt;</a>
+
+                 
+         <font size="-1">        </font></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>u</b>
+         </font></td>
+         <td align=center><a href="london_cls_bck_rnd_crd_08_4_bit.wav" class="sf">4</a> <a href="lausanne_rnd_cls_bck_u.wav" class="sf">5</a></td>
+         <td align=center>{hgh,bck,rnd,vwl}</td>
+         <td align=center>
+          &nbsp;<a name="focus_uppercase_v"></a></td>
+         <td align=center>
+          <img src="manu_u.gif" alt="IPA symbol">
+<br>
+          <a href="#lowercase_u">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>V</b>
+         </font></td>
+         <td align=center><a href="london_opn_mid_bck_urd_crd_14_4_bit.wav" class="sf">4</a> <a href="lausanne_unr_hlf_opn_bck_inverted_v.wav" class="sf">5</a></td>
+         <td align=center>{lmd,bck,unr,vwl}</td>
+         <td align=center>
+          <div align="left">U.S. speakers tend not to use [V] in words (such as "hurry") where the following sound is [r]:  they would say /'h@ri/.
+ [<a href=hurryhurrybc.wav class="sf">3</a>] And some U.S. speakers, especially in the eastern U.S., substitute [@] for [V] in all contexts.  If you do not distinguish "mention" /'mEn S@n/ 
+from "men shun"  [<a href=menshunmentionbc.wav class="sf">3</a>] /'mEn SVn/, then you should use [@] and not [V] to transcribe your speech.<a name="focus_uppercase_v_quote"></a></div>         </td>
+         <td align=center>
+          <font size="-1"><img src=v-turned.gif alt="IPA symbol"><br>
+           </font><a href="#uppercase_v">&lt;+&gt;</a>
+<font size="-1">                   </font></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>V"</b>
+         </font></td>
+         <td align=center><a href="lon_rev_eps.wav" class="sf">4</a></td>
+         <td align=center>{lmd,cnt,urd,vwl}</td>
+         <td align=center>
+          <div align="left">Many U.S. speakers substitute [@] for [V"], so they would say /f@rn/, /h@rl/  [<a href=fernhurlfernhurlbc.wav class="sf">3</a>].  Many 
+other U.S. speakers pronounce "fern" with no vowel at all: /fr:n/, /hr:l/. If you are one of the few speakers who distinguish such pairs as "pearl" and "purl" (using a lower, more retracted vowel in "purl"), then you can transcribe "pearl" /p@rl/ and "purl" /pV"rl/.<a name="focus_ampersand"></a></div>         </td>
+         <td align=center>
+          <font size="-1"><img src=epsilon-reversed.gif alt="IPA symbol">
+         <br>
+           </font><a href="#uppercase_v_quote">&lt;+&gt;</a></td>
+         <td align=center> <a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>&</b>
+         </font></td>
+         <td align=center><a href="london_frt_smo_urd_ae_digraph_4_bit.wav" class="sf">4</a> <a href="lausanne_near_opn_unr_frt_ash.wav" class="sf">5</a></td>
+         <td align=center>{smo,fnt,unr,vwl}</td>
+         <td align=center>
+          &nbsp;<a name="focus_at_sign"></a></td>
+         <td align=center>
+          <font size="-1"><img src=ash.gif alt="IPA symbol"><br>
+           </font><a href="#ampersand">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+        <tr>
+         <td align=center><font face="Lucida Sans Typewriter, Courier New, Courier, mono"><b>@</b>
+         </font></td>
+         <td align=center><a href="london_mid_ctl_normally_urd_schwa_4_bit.wav" class="sf">4</a> <a href="lausanne_neutral_hlf_cls_ctr_inverted_e.wav" class="sf">5</a></td>
+         <td align=center>{mid,cnt,urd,vwl}</td>
+         <td align=center>&nbsp;</td>
+         <td align=center>
+          <font size="-1"><img src=schwa.gif alt="IPA symbol">
+<br>
+           </font><a href="#at_sign">&lt;+&gt;</a></td>
+         <td align=center><a href="#focus"><img border=0 src="../up_arrow.gif" alt=uparrow></a></td>
+       </table>
+       <table class="bq" width="526">
+        <tr>
+         <td colspan=2>
+          <p><b><i><font size="-1"><br>
+           Articulatory descriptions:
+         
+       </font></i></b>       </p>         </td>
+         <td>&nbsp;</td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>bck</b></font></td>
+         <td>
+          <font size="-1">back part of tongue</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>cnt</b></font></td>
+         <td>
+          <font size="-1">tongue at its central position between front and back</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>fnt</b></font></td>
+         <td>
+          <font size="-1">front part of tongue</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>hgh</b></font></td>
+         <td>
+          <font size="-1">tongue at its highest position</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>lmd</b></font></td>
+         <td>
+          <font size="-1">'low mid', tongue between middle and low positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>low</b></font></td>
+         <td>
+          <font size="-1">
+            
+             tongue at its lowest position            </font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>mid</b></font></td>
+         <td>
+          <font size="-1">tongue between open-mid and lower-mid positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>ntl</b></font></td>
+         <td>
+          <font size="-1">'neutral' (neither rounded nor unrounded)</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>rnd</b></font></td>
+         <td>
+          <font size="-1">lips rounded</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>sbk</b></font></td>
+         <td>
+          <font size="-1">'semi-back', tongue between lower-mid and low positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>sft</b></font></td>
+         <td>
+          <font size="-1">'semi-front', tongue between central and front positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>smh</b></font></td>
+         <td>
+          <font size="-1">'semi-high', tongue between upper-mid and high positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>smo</b></font></td>
+         <td>
+          <font size="-1">'semi-open', tongue between open-mid and open positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>umd</b></font></td>
+         <td>
+          <font size="-1">'upper mid', tongue between middle and high positions</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>unr</b></font></td>
+         <td>
+          <font size="-1">lips unrounded</font></td>
+        </tr>
+          
+        <tr>
+         <td>
+          <font size="-1"><b>vwl</b></font></td>
+         <td>
+          <font size="-1">vowel</font></td>
+        </tr>
+        <tr>
+         <td colspan=2>
+          <p><font size="-1">In these abbreviations the term 'open' equals 'low'.  If 'close'
+had been used, it would equal 'high'. (BC)</font></p>         </td>
+         <td>&nbsp;</td>
+        </tr>
+       </table>
+       <p><a name=vnote1></a><font size="-1"><b>Note 1: </b>The remarks concerning the pronunciation of [O] were taken verbatim from Mark Israel's AUE FAQ. Some AUE contributors have expressed the opinion 
+          that the remarks are too sweeping a generalization, and that there are American pronunciations of 'caught' and 'court' that don't follow
+          the guidelines given by the remarks. (They happen to apply exactly to my  [Bob Cunningham's] idiolect.) In any case, if you are able to listen to the auditory
+          pronunciations, you should ignore such explanatory remarks and should also ignore example words. You should give priority to listening to
+          the sound files. Example words and explanatory notes are crutches for the benefit of those who don't have sound cards. (BC)
+       </font></p>
+       <p>
+          
+<i><font size="-1">[<a href="#focus">Start of "Focus on vowel sounds"</a>] [<a href="#top">Top of this page</a>]</font></i></p>
+       <h2><a name="speakers"></a></h2>
+       <h2>Speakers</h2>
+       <p>Many thanks to those who've kindly provided sound samples:       </p>
+       <table border="1" cellspacing="0" cellpadding="5">
+        <tr>
+         <td class="sf" valign="top">0</td>
+         <td>Markus Laker,
+who was born in 1965 in South London and moved down to the south coast of England in 1983 (see also <a href="#credits">Credits</a>).</td>
+        </tr>
+        <tr>
+         <td class="sf" valign="top">1</td>
+         <td>Bill T &lt;<a href="/cgi-bin/email.cgi?n=Bill_T&amp;d2=net&amp;d1=swbell&amp;l=wemcc">e-mail</a>&gt;,
+a Mid-Western speaker from Dallas, Texas, USA.</td>
+        </tr>
+        <tr>
+         <td class="sf" valign="top">2</td>
+         <td>A
+doctor in Michigan (an upper Mid-Western state), USA.</td>
+        </tr>
+        <tr>
+         <td class="sf" valign="top">3</td>
+         <td>Bob 
+Cunningham, who was born in 1922, spent his youth in California, Utah, Nevada, 
+Washington, and the U.S. Merchant Marine, and has lived in Southern California 
+since 1946 (see also <a href="#credits">Credits</a>).</td>
+        </tr>
+        <tr>
+         <td class="sf" valign="top">4</td>
+         <td>
+          <p>The sound samples were copied with permission
+of the copyright owners from the compact disk 'Sounds of the IPA', which is 
+copyright 1995 by Department of Phonetics and Linguistics, University College 
+London. Permission to use them has been granted under the condition that they
+will not be used in any commercial way, and in particular will not be used to
+produce any further CD using the sounds. To read about &#8211; or buy &#8211; the CD or cassette called 'Sounds of the IPA', go to 
+<a href="http://www.phon.ucl.ac.uk/home/wells/cassette.htm">http://www.phon.ucl.ac.uk/home/wells/cassette.htm</a>. (BC)</p>         </td>
+        </tr>
+        <tr>
+         <td class="sf" valign="top">5</td>
+         <td>
+          <p>The sound samples are from the Online
+Phonetics course at the University of Lausanne 
+(http://www.unil.ch/ling/page30184.html), permission to use them 
+having been obtained from that organization. (BC)</p>
+          <p>The University of Lausanne Phonetics Course is now at <a href="http://www.unil.ch/ling/page30184.html">http://www.unil.ch/ling/page30184.html</a>. (MB)</p>         </td>
+        </tr>
+       </table>
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <h3><a name=credits></a>       </h3>
+       <h2>Credits</h2>
+       ASCII IPA was developed by a team of alt.usage.english and
+<a href=news:sci.lang>sci.lang</a> members led by Evan Kirshenbaum
+&lt;<a href="/cgi-bin/email.cgi?n=Evan_Kirshenbaum&amp;d2=com&amp;d1=hpl.hp&amp;l=kirshenbaum">e-mail</a>&gt;.
+       <p> The material in the <i>Consonants and vowels</i> and <i>Other symbols</i> 
+ tables is taken from the alt.usage.english <a href="../fast_faq.shtml">FAQ</a> 
+ written by Mark Israel. 
+ He and Evan Kirshenbaum made many helpful suggestions and corrections during 
+ the production of this page. 
+       <p>
+This page is for the most part the work of Markus Laker. In early 1999 
+Bob Cunningham added the large number of pronunciation examples that are marked <b class="sf">3</b>.
+He also added the indexes to individual characters and some linkages to other programs at
+his Web site, and made some other minor changes to suit his own taste.
+ On 2 June 2000 he added the material in the   'Focus on vowel sounds' section.
+Bob writes: 
+<i>Let me call attention to the fact that I've tried to leave all of Markus Laker's 
+comments as he wrote them. My intent has been to flag with initials 'BC'
+any comments that I've added. I hope I've found all of them. Any
+comments that are not so tagged should be assumed to be by Markus Laker. (BC)</i>
+       <p>Mike Barnes made a number of changes to the presentation of this page,  in May 2002.</p>
+       <p><i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <a name=help></a>
+
+       <h2>Help to complete this  page!</h2>
+       You'll have noticed that some of the symbols in the tables above don't have sound samples.
+That's because they don't occur in the contributors'  dialects.
+If your dialect or language uses one of these sounds and you have a multimedia computer, please
+send to <a href="/cgi-bin/email.cgi">the webmaster</a> 
+ a recording (see <a href="../recording_suggestions.html">Recording Suggestions</a>) of yourself saying one or more of the words shown.
+
+
+If you send a sample, please say how you'd like yourself named or described.
+       <p>
+<i><font size="-1">[<a href="#top">Top of this page</a>]</font></i></p>
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

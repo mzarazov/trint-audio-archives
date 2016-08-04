@@ -1,0 +1,612 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: Intro C: Mini-FAQ on Words &amp; Phrases</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>Intro C: Mini-FAQ on Words &amp; Phrases</h1>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Intro C -->
+       <!-- indexer: Sections -->
+       <!-- indexer: StartSkip -->
+<!--
+WARNING! YOU PROBABLY DON'T WANT TO EDIT THIS FILE.
+       IT WAS CREATED BY THE SCRIPT "convert_intro.pl".
+       EDIT THE SCRIPT OR ITS TEMPLATES INSTEAD.
+  
+-->					
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF0000">C</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#bottom">Bottom</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <pre>
+Subject: Intro C: Mini-FAQ on Words and Phrases
+
+                             Last Revised 2010-07-12 (12 July 2010)
+                             * = recently revised
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Intro C: Mini-FAQ on Words and Phrases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Questions on the meaning or origin of these words and phrases are asked
+extremely frequently on alt.usage.english. There are longer answers,
+with more examples, for most of these items in the full AUE FAQ (edited
+by Mark Israel). Many of these topics cause much argument, and we
+earnestly request that you do some research before deciding to post on
+these.
+
+  CONTENTS OF THIS MINI FAQ:
+
+  General Words and Phrases
+    -  <a href="#American">American</a>
+    - <a href="#begthequestion">"beg the question"</a>
+*  - <a href="#billion">"billion"</a>
+    - <a href="#coldenoughtofreezetheballsoffabrassmonkey">"cold enough to freeze the balls off a brass monkey"</a>
+    -  <a href="#EnglandBritainGreatBritainUnitedKingdometc">England, Britain, Great Britain, United Kingdom, etc.</a>
+    - <a href="#exceptionprovestherule">"exception proves the rule"</a>
+    - <a href="#fullmonty">"full monty"</a>
+    - <a href="#OK">"O.K."</a>
+    - <a href="#pushtheenvelope">"push the envelope"</a>
+    - <a href="#wholenineyards">"whole nine yards"</a>
+
+  Words Relating to alt.usage.english and Usenet
+    - <a href="#obaueorObAUE">"obaue" or "ObAUE"</a>
+   - <a href="#pondpondianetc">"pond," "pondian," etc.</a>
+    - <a href="#rhoticandnonrhotic">"rhotic" and "nonrhotic"</a>
+
+  Miscellany
+    -  <a href="#Whatwordsaretheirownantonym">What words are their own antonym?</a>
+*  -  <a href="#wordsendingingry">words ending in "-gry"</a>
+*  -  <a href="#DidShakespeareinventalargenumberofwords">Did Shakespeare invent a large number of words?</a>
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GENERAL WORDS AND PHRASES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>--------<a name=American></a><a name=Americ0000></a>
+American
+--------
+
+Should US citizens call themselves "Americans"? The fact is: they do.
+And they call their country "America," among other terms. To modern
+speakers of the English language, both in the US and elsewhere, these
+are the most frequent meanings of the words "America" and "American."
+
+However, to many people outside the USA, the name "America" (with
+various spellings: Amerique, Amerika, etc.) can quite normally mean the
+entire "New World." That tradition goes back to the days of the first
+European explorers. We have heard complaints from time to time,
+especially from native Spanish speakers, that the citizens of the United
+States of America have commandeered the name, as if they were the only
+ones in the Americas. These attempts to convince US residents to start
+calling themselves something else, such as USonians or USans, in
+deference to the other inhabitants of the landmass, usually lead only to
+anger and bafflement, on both sides.
+
+However, when explaining why they call themselves "American," those in
+the US are hereby cautioned not to overstate the case and imply that any
+other use of the word is wrong, impossible, or obsolete.  "American" has
+indeed been used for a very long time, as an English word, to mean "an
+inhabitant of, or pertaining to, the Americas." This meaning is
+supported by all major dictionaries, although many of us encounter it
+only rarely, in fixed combinations such as the American crocodile, the
+Organization of American States, and the Pan-American Games.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------------------<a name=begthequestion></a><a name=begthe0001></a>
+"beg the question"
+------------------
+
+Fowler defines "begging the question" as the "fallacy of founding a
+conclusion on a basis that as much needs to be proved as the conclusion
+itself."
+
+"Question" here does not mean "a sentence in interrogative form".
+Rather, it means "the point at issue, the thing that the person is
+trying to prove".
+
+Common varieties of begging the question are paraphrase of the statement
+to be proved ("Telepathy cannot exist because direct transfer of thought
+between individuals is impossible"), and arguing in a circle ("The Bible
+must be true, because God wouldn't lie to us; we know God is
+trustworthy, because it says so in the Bible").
+
+More and more, one can hear people using "begs the question" where
+others would prefer they said, "raises the question."
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------------<a name=billion></a><a name=billio0002></a>
+* "billion"
+------------
+
+"Billion" is a word which is somewhat ambiguous in U.K. practice, but
+not in American. For several centuries in Britain, it meant "a million
+million" (1,000,000,000,000 = 10^12 = US trillion), but in 1974, the
+British government announced that it would use "billion" to mean 10^9,
+the same as US usage. For the last several decades, English-language
+publishers have used "billion" or "thousand million" for 1,000,000,000 =
+10^9 = US billion.
+
+The "old" use is still encountered just often enough (in speech,
+informal writing, and older books) to cause some Britons to be unsure of
+what the speaker or writer means by the word.
+
+The first few U.S. words for large numbers, and the corresponding
+traditional British terms, are as follows:
+
+         U.S.                 Traditional British
+10^6     million              million
+10^9     billion              thousand million or milliard
+10^12    trillion             billion or million million
+10^15    quadrillion          thousand billion
+10^18    quintillion          trillion
+
+Scientists have long preferred to express numbers in figures rather than
+in words, so it is easy to avoid "billion" in contexts where precision
+is required.  The plural, "billions", is still used freely with the
+colloquial meaning of "a very large number".
+
+Some articles with more history about these terms:
+  <a href="http://www.unc.edu/~rowlett/units/large.html">http://www.unc.edu/~rowlett/units/large.html</a>
+  <a href="http://www.numericana.com/answer/culture.htm#zillion">http://www.numericana.com/answer/culture.htm#zillion</a>
+  <a href="http://www.sizes.com/numbers/big_numName.htm">http://www.sizes.com/numbers/big_numName.htm</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-----------------------------------------------------<a name=coldenoughtofreezetheballsoffabrassmonkey></a><a name=colden0003></a>
+"cold enough to freeze the balls off a brass monkey"
+-----------------------------------------------------
+
+We have examined various explanations for this phrase; some we reject as
+impossible, and others suffer from lack of evidence. In particular, the
+story that it relates to cannonballs stacked on a brass frame on board
+ship has no historic or scientific support. Without repeating the flawed
+theory in detail: the word used for a cannonball stand was "garland,"
+not "monkey"; garlands were not brass; and it would have been most
+unlikely that balls were stacked in such a way that daily pitching and
+tossing of the ship would free them (which would have to have been the
+case if the tiny effect of metal expansion from the cold was thought to
+jar them loose).
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-------------------------------------------------------<a name=EnglandBritainGreatBritainUnitedKingdometc></a><a name=Englan0004></a>
+England, Britain, Great Britain, United Kingdom, etc.
+-------------------------------------------------------
+We are often asked what the difference is among these and similar terms.
+Two long and thorough responses can be found in the
+AUE FAQ Supplement; one written by John Davies and one by Don Aitken.
+  <a href="english_british_uk_et_al.shtml">http://www.alt-usage-english.org/english_british_uk_et_al.shtml</a>
+  <a href="/whatistheuk.html">http://www.alt-usage-english.org//whatistheuk.html</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-------------------------------<a name=exceptionprovestherule></a><a name=except0005></a>
+"exception proves the rule"
+-------------------------------
+
+Interestingly, the old (some would say "real") meaning of this phrase is
+something like "the exception proves that there *is* a rule."
+
+The common misconception is that "proves" in this phrase  means "tests".
+That is *not* the case, although "proof" *does* mean "test" in such
+locutions as "proving ground" and "The proof of the pudding is in the
+eating."
+
+The Dictionary of Modern English Usage explains this saying as follows:
+
+"'Special leave is given for men to be out of barracks tonight till 11.0
+p.m.'; 'The exception proves the rule' means that this special leave
+implies a rule requiring men, except when an exception is made, to be in
+earlier.  The value of this in interpreting statutes is plain."
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-------------<a name=fullmonty></a><a name=fullmo0006></a>
+"full monty"
+-------------
+
+This British expression means "the whole thing". Although it seems to be
+a fairly recent coining, none of the many theories about its origin has
+been verified.  See full FAQ and Michael Quinion's good summary at
+&lt;<a href="http://www.worldwidewords.org/articles/monty.htm">http://www.worldwidewords.org/articles/monty.htm</a>&gt;
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------<a name=OK></a><a name=OKxxxx0008></a>
+"O.K."
+------
+
+This one has generated *lots* of folklore. "Oll korrect, popularized by
+Old Kinderhook" is what's given in most up-to-date dictionaries.  The
+earliest known citation is from the Boston Morning Post of 23 March
+1839. There is a whole string of other theories, given in the AUE FAQ.
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-------------------<a name=pushtheenvelope></a><a name=pushth0009></a>
+"push the envelope"
+-------------------
+
+"Push the envelope" is now used figuratively to mean "stretch the
+boundaries".
+
+The phrase has its origins in the world of aviation, where 'envelope'
+has, since at least the late 60s, had the meaning 'a set of performance
+limits that may not be safely exceeded.'  Test pilots are often called
+on to 'push' a new aircraft's performance envelope by going beyond known
+safety limits, as in determining just how fast an airplane can be flown.
+The best-seller 'The Right Stuff' by Tom Wolfe did much to popularize
+the notion, using variations such as 'pushing the outside of the
+envelope.'
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>-----------------------<a name=wholenineyards></a><a name=wholen0010></a>
+"whole nine yards"
+-----------------------
+
+This phrase, meaning "all of it, everything", is first attested to in
+the mid-1960s.  The origin is a matter for speculation.  Nine yards is
+not a particularly significant distance either in football or in the
+garment business. There is no record of it ever being used during the
+era of sailing ships. Another theory is that the phrase refers to the
+capacity of ready-mix concrete trucks, alleged to average about 9 cubic
+yards. However, industry literature on the 1960s shows that standard
+mixers held 4.5 or 6.2 cubic yards (see
+&lt;<a href="http://tafkac.org/language/etymology/nine_yards.html">http://tafkac.org/language/etymology/nine_yards.html</a>&gt;.) So
+far, no machine gun has been identified with an ammo belt nine yards
+long, although some may have been close.
+
+There are good summaries of the "whole nine yards" theories at:
+  Michael Quinion's World Wide Words site
+        <a href="http://www.worldwidewords.org/articles/nineyards.htm">http://www.worldwidewords.org/articles/nineyards.htm</a>
+  Evan Morris's Word Detective site
+        <a href="http://www.word-detective.com/back-s.html#yards">http://www.word-detective.com/back-s.html#yards</a>
+        <a href="http://www.word-detective.com/072999.html#wholenine">http://www.word-detective.com/072999.html#wholenine</a>
+  David Wilton's Etymologies &amp; Word Origins
+<a href="http://www.wordorigins.org/index.php/site/comments/whole_nine_yards_the/">http://www.wordorigins.org/index.php/site/comments/whole_nine_yards_the/</a>
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORDS RELATING TO ALT.USAGE.ENGLISH AND USENET
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>------------------<a name=obaueorObAUE></a><a name=obaueo0007></a>
+"obaue" or "ObAUE"
+------------------
+
+This is derived from OBligatory and a.u.e (alt.usage.english). It is
+used to introduce a snippet of on-topic content in an otherwise off-
+topic posting, as in:
+
+   {Posting about recipe for yak-flavoured ice cream}
+    Obaue: "yak" is a slang word meaning "to talk incessantly".
+
+The "ob..." prefix is believed to have originated in alt.hack, with an
+obligatory piece of code being labelled "obhack".
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~<a name=pondpondianetc></a>
+"pond," "pondian," etc.
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The "pond" is a nickname for "the Atlantic Ocean" that goes back to at
+least 1780. Because discussions here often turn to regional language
+differences between the English of the US and Canada, on one hand, and
+the United Kingdom and Ireland, on the other, we playfully invent and
+use terms like "pondian difference," "transpondental," "Leftpondia"
+(North America), "Antipondean" (Australian), etc. So, a "pondial
+difference" or "pondian difference" is an intercontinental difference in
+English usage.
+
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~<a name=rhoticandnonrhotic></a>
+"rhotic" and "nonrhotic"
+~~~~~~~~~~~~~~~~~~~~~~~
+
+You will see a.u.e participants using these words to describe a major
+dialectal difference in English speech around the world. The word
+"rhotic" comes from "rho," the Greek letter whose pronunciation
+resembles our R. Basically, rhotic people do what is
+colloquially thought of as "pronouncing their Rs". Non-rhotic people do
+not pronounce Rs that appear at the ends of words or before consonants
+(though the R may affect the vowel sound). For example, non-rhotic
+people say "teachuh" and rhotic people say "teachurr." Both groups
+pronounce the R sound in "tomorrow" (between two vowels).
+
+Most speakers in the US (especially the West and Midwest), Canada,
+Ireland, Scotland, and some parts of the north and west of England are
+rhotic. The South of England (including RP, "received pronunciation"),
+Australia, and parts of the US East Coast and South are nonrhotic.
+
+
+
+~~~~~~~~~~~~
+MISCELLANY
+~~~~~~~~~~~~
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>---------------------------------<a name=Whatwordsaretheirownantonym></a><a name=Whatwo0011></a>
+What words are their own antonym?
+---------------------------------
+
+Richard Lederer, in 'Crazy English', calls these "contronyms".  They can
+be divided into homographs (same spelling) and homophones (same
+pronunciation).  The full FAQ includes a long list of such words,
+including
+
+homographs
+  dust = to remove fine particles, to add fine particles
+  fast = rapid, unmoving
+
+homophones:
+  aural, oral = heard, spoken
+  erupt, irrupt = burst out, burst in
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~<a name=wordsendingingry></a><a name=wordse0012></a>
+* words ending in "-gry"
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Questions like this belong in rec.puzzles, not here; consult the
+rec.puzzles archive. However, the short answer is:
+
+   THERE IS NO COMMON THIRD WORD ENDING IN "-GRY".
+
+The full FAQ gives a long list of extremely obscure words which do.  The
+real problem with this riddle is that it is a trick question, which only
+works with a spoken question. There are several possible forms of the original trick,
+one of which is:
+
+"Think of words ending in 'gry'.  Angry and hungry are two of them.
+There are three words in the English language.  What is the third word?
+The word is something that everyone uses every day."
+
+The answer in this case is "language" (the first two words being "the"
+and "English" -- the trick is that "the English language" is to be
+treated as if in quotation marks).
+
+A person who doesn't know the trick and asks someone else to try the
+puzzle will almost certainly change the wording, unwittingly making it
+insoluble.
+
+Wikipedia has an article with a small amount of history and a large number of variants:
+   <a href="http://en.wikipedia.org/wiki/-gry">http://en.wikipedia.org/wiki/-gry</a>
+
+
+</pre><p align="right"><i><font size="-2" face="Arial, Helvetica, sans-serif"><a href="#top">Top of this page</a></font></i></p><pre>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<a name=DidShakespeareinventalargenumberofwords></a>
+Did Shakespeare invent a large number of words?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The claim is sometimes made that William Shakespeare coined an unusually
+large number of words, because for centuries his plays and poems
+contained the first uses known to later generations. An example of this
+claim is the book _Coined by Shakespeare: Words and Meanings First
+Penned by the Bard_, by Jeffrey McQuain and Stanley Malless, 1998, and a
+list of examples is at:
+   <a href="http://www.rhymezone.com/r/gwic.cgi?Path=shakespeare/coinages//">http://www.rhymezone.com/r/gwic.cgi?Path=shakespeare/coinages//</a>
+
+However, the editors of the Oxford English Dictionary now say that
+
+     by looking at texts written by less well-known sixteenth-century
+     authors on Literature Online, we have confirmed our suspicions that
+     in many of these cases Shakespeare was using words which were
+     already current.
+            <a href="http://www.oed.com/newsletters/2002-12/mining.html">http://www.oed.com/newsletters/2002-12/mining.html</a>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+This series of seven "Intro Documents" is intended to aid newcomers to
+the newsgroup. The articles are posted frequently in the newsgroup
+and are installed at this Web site for your convenience, along with
+a <a href="/introdocs.shtml">menu of links to the seven Intro documents</a>.
+
+Much of this document is taken from the AUE FAQ (edited by
+Mark Israel) and the rest was written by Albert Marshall and
+others. Suggestions for improvements in clarity, fairness,
+accuracy, and brevity should be e-mailed to me. -- <a href="/cgi-bin/email.cgi?n=Donna_Richoux&amp;d2=nl&amp;d1=euronet&amp;l=trio">Donna Richoux</a>
+</pre>
+       <!-- indexer: StartSkip -->
+       <table border="0" cellpadding="3" cellspacing="4">
+
+        <tr bgcolor="#D2BCA4">
+
+         <td><font face="Arial, Helvetica, sans-serif" size="-1">Intros:</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">&lt;&lt; Previous</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/introdocs.shtml">Contents</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_a.shtml">A</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_b.shtml">B</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF0000">C</font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">D</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_e.shtml">E</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_f.shtml">F</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_g.shtml">G</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/intro_d.shtml">Next &gt;&gt;</a></font></td>
+         <td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#top">Top</a></font></td>
+        </tr>
+
+       </table>
+       <!-- indexer: EndSkip -->
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

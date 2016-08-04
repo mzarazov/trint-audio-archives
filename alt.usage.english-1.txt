@@ -1,0 +1,64 @@
+From davidbe@sco.COM Sat May 11 03:04:53 1991
+Path: rpi!bu.edu!widener!dsinc!spool.mu.edu!samsung!uunet!sco!davidbe
+From: davidbe@sco.COM (The Cat in the Hat)
+Newsgroups: alt.usage.english.ctl,control
+Subject: newgroup alt.usage.english
+Message-ID: <16811@scorn.sco.COM>
+Date: 10 May 91 16:02:03 GMT
+Control: newgroup alt.usage.english
+Sender: news@sco.COM
+Organization: The Seemingly Crustaceous Official
+Lines: 9
+Approved: davidbe@sco.COM
+
+
+It's been discussed in alt.config, and nobody expressed their
+displeasure.  For discussions of English grammar, word usages
+and other related subjects.
+
+-- 
+       David Bedno aka dave@sco.COM: Speaking from but not for SCO.
+
+   "Some folks should wake up and smell the sarcasm." - dew@ecl.psu.edu
+
+From news@mybull.my.bull.fr Mon Aug 5 10:26:15 1991
+Path: rpi!think.com!news.bbn.com!mips2!bull.bull.fr!vercors.ec.bull.fr!mybull.my.bull.fr!news
+From: news@mybull.my.bull.fr (Admin0000)
+Newsgroups: alt.usage.english.ctl
+Subject: newgroup alt.usage.english
+Message-ID: <136@mybull.my.bull.fr>
+Date: 2 Aug 91 12:49:09 GMT
+Control: newgroup alt.usage.english
+Distribution: bullnet
+Organization: Bull France
+Lines: 0
+Approved: news@mybull.my.bull.fr
+
+
+From damir@exchange.GBA.NYU.EDU Wed Apr 1 13:27:37 1992
+Path: rpi!usenet.coe.montana.edu!decwrl!uunet!haven.umd.edu!darwin.sura.net!jvnc.net!yale.edu!cmcl2!exchange!damir
+From: damir@exchange.GBA.NYU.EDU (Damir Mijacika)
+Newsgroups: alt.usage.english.ctl
+Subject: newgroup alt.usage.english
+Message-ID: <23247@exchange.GBA.NYU.EDU>
+Date: 1 Apr 92 16:13:44 GMT
+Control: newgroup alt.usage.english 
+Distribution: nyu
+Organization: NYU Stern School of Business
+Lines: 0
+Approved: damir@exchange.GBA.NYU.EDU
+
+
+From steve@gandalf.UMCS.Maine.EDU Sun Apr 26 11:02:30 1992
+Path: rpi!usenet.coe.montana.edu!decwrl!bu.edu!dartvax!mars.caps.maine.edu!gandalf!steve
+From: steve@gandalf.UMCS.Maine.EDU (Steve E. Goldsmith)
+Newsgroups: alt.usage.english.ctl
+Subject: newgroup alt.usage.english
+Message-ID: <15737@gandalf.UMCS.Maine.EDU>
+Date: 25 Apr 92 23:22:43 GMT
+Control: newgroup alt.usage.english
+Distribution: umcs
+Organization: University of Maine Department of Computer Science
+Lines: 0
+Approved: steve@gandalf.UMCS.Maine.EDU
+

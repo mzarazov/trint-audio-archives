@@ -1,0 +1,466 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/aue3.dwt" --><!-- DW6 -->
+<head>
+ <!-- #BeginEditable "Header Stuff" -->
+<title>AUE: The fast-access FAQ</title>
+<!-- #EndEditable -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+ <link rel="stylesheet" href="/aue.css" type="text/css">
+</head>
+
+<body onload="q = document.getElementById('mainsearchq') || document.getElementById('quicksearchq'); q.focus(); q.select()">
+<a name=top></a> 
+<table class="wholepage">
+ <tr>
+  <td valign="top" class="sidebar">
+		<table align=center class="sidebar">
+			<tr>
+				<td align="center" class="sl-logo">
+					<a href="/index.shtml"><img src="/aue_logo_sidebar.jpg" width="100" height="25" alt="AUE Logo" border="0"></a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-aue">
+					<p align="center">alt-usage-english.org</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/index.shtml">Home</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/newsgroup.html">Newsgroup</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/introdocs.shtml">Intro Documents</a><br>
+					<a href="/intro_a.shtml">A</a>
+					<a href="/intro_b.shtml">B</a>
+					<a href="/intro_c.shtml">C</a>
+					<a href="/intro_d.shtml">D</a>
+					<a href="/intro_e.shtml">E</a>
+					<a href="/intro_f.shtml">F</a>
+					<a href="/intro_g.shtml">G</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/fast_faq.shtml">FAQ</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/skeleton.shtml">FAQ Supplement</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ascii_ipa_choice.html">ASCII IPA</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/audio_archive.shtml">Audio Archive</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/categorized_links.shtml">Links</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/ucle/index.shtml">UCLE Corner</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/wossnew.shtml">What's New?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/eusitesearch.html">Search</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/sitemap.html">Site Map</a><br>
+					<a href="/cgi-bin/whereami.cgi#topofwindow">Where am I?</a>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap class="sl-link"><a href="/feedback.html">Contact</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td class="sl-srch" nowrap>
+					<form action="http://www.google.com/search" method="GET">
+						<input type="hidden" name="cx" value="011313720919506516914:fdzgi02ixyc">
+						<input type="hidden" name="cof" value="FORID:0">
+						Quick search:<br>
+						<br>
+						<input type="text" name="q" size="10" id="quicksearchq">
+						<br>
+						<br>
+						<input type="submit" value="Go" name="submit">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://validator.w3.org/check/referer"><img border="0" src="/valid-html40.gif" alt="Valid HTML 4.0!" height="31" width="88"></a>
+					<a href="http://jigsaw.w3.org/css-validator/"><img border="0" src="/vcss.gif" alt="Valid CSS!" width="88" height="31"></a>
+				</td>
+			</tr>
+		</table>
+  </td>
+  <td width="100%" valign="top" class="notsidebar"> 
+   <table width="100%" class="headbar">
+    <tr>
+     <td width="100%" align="center" class="headbar">
+		 <div style='color: white; background: red; font-family:sans-serif; font-weight: bold; padding: 5px 10px'>IMPORTANT NOTICE: This site is scheduled for closure in September 2016.<br>
+		 If you have any comments about the closure, please post them to the newsgroup.<br>See <a href='/newsgroup.html#ingeneral' target=_blank>this page</a> for information about the newsgroup and how to post to it.
+		 </div>
+      <!-- #BeginEditable "Heading" -->
+       <h1>The fast-access FAQ</h1>
+       
+      <div class="subh1">Mark Israel's AUE FAQ (September 1997), <a href="#notes">adapted for fast access</a> by  Bob Cunningham<br>
+       <a href="#notes">updated</a> by Bob Cunningham and Mike Barnes.</div>
+       <!-- #EndEditable -->
+		 </td>
+    </tr>
+   </table>
+   <table class="spacer">
+    <tr>
+     <td>&nbsp;
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="contents">
+    <tr>
+     <td class="contents">
+      <div align="left">
+						 <!-- #BeginEditable "Contents" -->
+       <!-- faqshortname Fast FAQ -->
+       <p>This FAQ has  220 topics on 220 separate pages. Each link below takes you to one of those pages. If you'd prefer to have the same information all on one long page (about 450Kb), go to the <a href="big_faq.html" class="sml">big FAQ</a>. See also the <a href="skeleton.shtml">FAQ Supplement</a> and <a href="wheres_the_faq.html" class="sml">Places to find FAQ documents</a>.</p>
+       <p>The FAQ is not cast in stone. If you'd like to contribute a revision or an additional page, you're very welcome
+         to do so. Usually it's best to post your text to the newsgroup in the first instance, so that others can offer comments
+         and suggestions for improvement. Then please <a href="feedback.html">send your contribution to the webmaster</a>.<a name="tablebelow"></a> </p>
+       <DIV ID="SCRIPT">
+       <h4><a href="./excerpts/fxprefat.html" class="sml">[Prefatory remarks]</a></h4>
+       <h4><a href="./excerpts/fxwelcom.html" class="sml">Welcome to alt.usage.english!</a></h4>
+       <ul>
+        <li><a href="./excerpts/fxguidel.html" class="sml">guidelines for posting</a></li>
+        <li><a href="./excerpts/fxrelate.html" class="sml">related newsgroups</a></li>
+       </ul>
+       <h4>recommended books</h4>
+       <ul>
+        <li><a href="./excerpts/fxdictio.html" class="sml">dictionaries</a></li>
+        <li><a href="./excerpts/fxonline.html" class="sml">online dictionaries</a></li>
+        <li><a href="./excerpts/fxgenera.html" class="sml">general reference</a></li>
+        <li><a href="./excerpts/fxgramma.html" class="sml">grammars</a></li>
+        <li><a href="./excerpts/fxbookso.html" class="sml">books on linguistics</a></li>
+        <li><a href="./excerpts/fxbook00.html" class="sml">books on usage</a></li>
+        <li><a href="./excerpts/fxonli00.html" class="sml">online usage guides</a></li>
+        <li><a href="./excerpts/fxonli01.html" class="sml">online language columns</a></li>
+        <li><a href="./excerpts/fxbookst.html" class="sml">books that discriminate synonyms</a></li>
+        <li><a href="./excerpts/fxstylem.html" class="sml">style manuals</a></li>
+        <li><a href="./excerpts/fxbookon.html" class="sml">books on mathematical exposition</a></li>
+        <li><a href="./excerpts/fxbook01.html" class="sml">books on phrasal verbs</a></li>
+        <li><a href="./excerpts/fxbook02.html" class="sml">books on phrase origins</a></li>
+        <li><a href="./excerpts/fxbook03.html" class="sml">books on Britishisms, Canadianisms, etc.</a></li>
+        <li><a href="./excerpts/fxbook04.html" class="sml">books on "bias-free"/"politically correct" language</a></li>
+        <li><a href="./excerpts/fxbook05.html" class="sml">books on group names</a></li>
+        <li><a href="./excerpts/fxbook06.html" class="sml">books on rhyming slang</a></li>
+       </ul>
+       <h4>artificial dialects</h4>
+       <ul>
+        <li><a href="./excerpts/fxbasice.html" class="sml">Basic English</a></li>
+        <li><a href="./excerpts/fxeprime.html" class="sml">E-prime</a></li>
+       </ul>
+       <h4>pronunciation<br>
+ </h4>
+       <ul>
+        <li><a href="./excerpts/fxhowtor.html" class="sml">how to represent pronunciation in ASCII</a></li>
+        <li><a href="./excerpts/fxrhotic.html" class="sml">rhotic vs non-rhotic, intrusive "r"</a></li>
+        <li><a href="./excerpts/fxhowdoa.html" class="sml">How do Americans pronounce "dog"?</a></li>
+        <li><a href="./excerpts/fxwordsp.html" class="sml">words pronounced differently according to context</a></li>
+        <li><a href="./excerpts/fxwordsw.html" class="sml">words whose spelling has influenced their pronunciation</a></li>
+       </ul>
+       <h4>usage disputes</h4>
+       <ul>
+        <li><a href="./excerpts/fxacrony.html" class="sml">"acronym"</a></li>
+        <li><a href="./excerpts/fxallnot.html" class="sml">"all ... not"</a></li>
+        <li><a href="./excerpts/fxalotxx.html" class="sml">"alot"</a></li>
+        <li><a href="./excerpts/fxalrigh.html" class="sml">"alright"</a></li>
+        <li><a href="./excerpts/fxbetwee.html" class="sml">"between you and I"</a></li>
+        <li><a href="./excerpts/fxcompan.html" class="sml">"company is" vs "company are"</a></li>
+        <li><a href="./excerpts/fxcouldc.html" class="sml">"could care less"</a></li>
+        <li><a href="./excerpts/fxcouldo.html" class="sml">"could of"</a></li>
+        <li><a href="./excerpts/fxdiffer.html" class="sml">"different to", "different than"</a></li>
+        <li><a href="./excerpts/fxdonefi.html" class="sml">"done"="finished"</a></li>
+        <li><a href="./excerpts/fxdouble.html" class="sml">double "is"</a></li>
+        <li><a href="./excerpts/fxduetox.html" class="sml">"due to"</a></li>
+        <li><a href="./excerpts/fxfuncti.html" class="sml">"functionality"</a></li>
+        <li><a href="./excerpts/fxgender.html" class="sml">gender-neutral pronouns</a></li>
+        <li><a href="./excerpts/fxgodres.html" class="sml">"God rest you merry, gentlemen"</a></li>
+        <li><a href="./excerpts/fxhopefu.html" class="sml">"hopefully", "thankfully"</a></li>
+        <li><a href="./excerpts/fxifiwas.html" class="sml">"if I was" vs "if I were"</a></li>
+        <li><a href="./excerpts/fximpact.html" class="sml">"impact"="to affect"</a></li>
+        <li><a href="./excerpts/fxitneed.html" class="sml">"It needs cleaned"</a></li>
+        <li><a href="./excerpts/fxitsmev.html" class="sml">"It's me" vs "it is I"</a></li>
+        <li><a href="./excerpts/fxlessvs.html" class="sml">"less" vs "fewer"</a></li>
+        <li><a href="./excerpts/fxlikevs.html" class="sml">"like" vs "as"</a></li>
+        <li><a href="./excerpts/fxlike00.html" class="sml">"like" vs "such as"</a></li>
+        <li><a href="./excerpts/fxmoremo.html" class="sml">"more/most/very unique"</a></li>
+        <li><a href="./excerpts/fxmouses.html" class="sml">"mouses" vs "mice"</a></li>
+        <li><a href="./excerpts/fxnearmi.html" class="sml">"near miss"</a></li>
+        <li><a href="./excerpts/fxnoneis.html" class="sml">"none is" vs "none are"</a></li>
+        <li>
+plurals
+         <ul>
+          <li><a href="./excerpts/fxplural.html" class="sml">plurals of Latin and Greek words</a></li>
+          <li><a href="./excerpts/fxforeig.html" class="sml">plurals => English singulars</a></li>
+         </ul>
+        </li>
+        <li><a href="./excerpts/fxprepos.html" class="sml">preposition at end</a></li>
+        <li><a href="./excerpts/fxqualit.html" class="sml">"quality"</a></li>
+        <li><a href="./excerpts/fxrepeat.html" class="sml">repeated words after abbreviations</a></li>
+        <li><a href="./excerpts/fxscotch.html" class="sml">"Scotch"</a></li>
+        <li><a href="./excerpts/fxshallv.html" class="sml">"shall" vs "will", "would" vs "should"</a></li>
+        <li><a href="./excerpts/fxspliti.html" class="sml">split infinitive</a></li>
+        <li><a href="./excerpts/fxthatvs.html" class="sml">"that" vs "which"</a></li>
+        <li><a href="./excerpts/fxthatki.html" class="sml">"that kind of a thing"</a></li>
+        <li><a href="./excerpts/fxthethe.html" class="sml">the the hoi polloi debate</a></li>
+        <li><a href="./excerpts/fxtruefa.html" class="sml">"true fact"</a></li>
+        <li><a href="./excerpts/fxtryand.html" class="sml">"try and", "be sure and", "go" + verb</a></li>
+        <li><a href="./excerpts/fxwhomxx.html" class="sml">"whom"</a></li>
+        <li><a href="./excerpts/fxyousay.html" class="sml">"you saying" vs "your saying"</a></li>
+       </ul>
+       <h4>punctuation</h4>
+       <ul>
+        <li><a href="./excerpts/fxaftera.html" class="sml">"." after abbreviations</a></li>
+        <li><a href="./excerpts/fxspaces.html" class="sml">spaces between sentences</a></li>
+        <li><a href="./excerpts/fxvsxxxx.html" class="sml">," vs ",</a></li>
+        <li><a href="./excerpts/fxabandc.html" class="sml">"A, B and C" vs "A, B, and C"</a></li>
+        <li>See also, from the "spelling" section: <a href="./excerpts/fxwheret.html">possessive apostrophes</a>
+       </ul>
+       <h4><a href="./excerpts/fxfore00.html" class="sml">foreigners' FAQs</a></h4>
+       <ul>
+        <li><a href="./excerpts/fxaanbef.html" class="sml">"a"/"an" before abbreviations</a></li>
+        <li><a href="./excerpts/fxanumbe.html" class="sml">"A number of..."</a></li>
+        <li><a href="./excerpts/fxwhento.html" class="sml">when to use "the"</a></li>
+        <li><a href="./excerpts/fxsubjun.html" class="sml">subjunctive</a></li>
+       </ul>
+       <h4>word origins</h4>
+       <ul>
+        <li><a href="./excerpts/fxadxxxx.html" class="sml">"A.D."</a></li>
+        <li><a href="./excerpts/fxalumin.html" class="sml">"alumin(i)um"</a></li>
+        <li><a href="./excerpts/fxbloody.html" class="sml">"bloody"</a></li>
+        <li><a href="./excerpts/fxbugdef.html" class="sml">"bug"="defect"</a></li>
+        <li><a href="./excerpts/fxcaesar.html" class="sml">"Caesarean section"</a></li>
+        <li><a href="./excerpts/fxcanola.html" class="sml">"canola"</a></li>
+        <li><a href="./excerpts/fxcatch2.html" class="sml">"catch-22"</a></li>
+        <li><a href="./excerpts/fxcopxxx.html" class="sml">"cop"</a></li>
+        <li><a href="./excerpts/fxcopace.html" class="sml">"copacetic"</a></li>
+        <li><a href="./excerpts/fxcrapxx.html" class="sml">"crap"</a></li>
+        <li><a href="./excerpts/fxebonic.html" class="sml">"ebonics"</a></li>
+        <li><a href="./excerpts/fxeighty.html" class="sml">"eighty-six"="nix"</a></li>
+        <li><a href="./excerpts/fxeskimo.html" class="sml">"Eskimo"</a></li>
+        <li><a href="./excerpts/fxflamma.html" class="sml">"flammable"</a></li>
+        <li><a href="./excerpts/fxfreewa.html" class="sml">"freeway"</a></li>
+        <li><a href="./excerpts/fxfuckxx.html" class="sml">"fuck"</a></li>
+        <li><a href="./excerpts/fxgolfxx.html" class="sml">"golf"</a></li>
+        <li><a href="./excerpts/fxhooker.html" class="sml">"hooker"</a></li>
+        <li><a href="./excerpts/fxisobym.html" class="sml">"ISO"</a></li>
+        <li><a href="./excerpts/fxjerryb.html" class="sml">"jerry-built"/"jury-rigged"</a></li>
+        <li><a href="./excerpts/fxkangar.html" class="sml">"kangaroo"</a></li>
+        <li><a href="./excerpts/fxlimere.html" class="sml">"limerence"</a></li>
+        <li><a href="./excerpts/fxlooxxx.html" class="sml">"loo"</a></li>
+        <li><a href="./excerpts/fxloveze.html" class="sml">"love"="zero"</a></li>
+        <li><a href="./excerpts/fxmerkin.html" class="sml">"merkin"</a></li>
+        <li><a href="./excerpts/fxnimrod.html" class="sml">"nimrod"</a></li>
+        <li><a href="./excerpts/fxokxxxx.html" class="sml">"O.K."</a></li>
+        <li><a href="./excerpts/fxoutrag.html" class="sml">"outrage"</a></li>
+        <li><a href="./excerpts/fxpapara.html" class="sml">"paparazzo"</a></li>
+        <li><a href="./excerpts/fxpiesha.html" class="sml">"pie-shaped"</a></li>
+        <li><a href="./excerpts/fxportma.html" class="sml">"portmanteau word"</a></li>
+        <li><a href="./excerpts/fxposhxx.html" class="sml">"posh"</a></li>
+        <li><a href="./excerpts/fxquizxx.html" class="sml">"quiz"</a></li>
+        <li><a href="./excerpts/fxsantaa.html" class="sml">"Santa Ana"</a></li>
+        <li><a href="./excerpts/fxscotfr.html" class="sml">"scot-free"</a></li>
+        <li><a href="./excerpts/fxsincer.html" class="sml">"sincere"</a></li>
+        <li><a href="./excerpts/fxsirloi.html" class="sml">"sirloin"/"baron of beef"</a></li>
+        <li><a href="./excerpts/fxsosxxx.html" class="sml">"SOS"</a></li>
+        <li><a href="./excerpts/fxspoone.html" class="sml">"spoonerism"</a></li>
+        <li><a href="./excerpts/fxsuckbe.html" class="sml">"suck"="be very unsatisfying"</a></li>
+        <li><a href="./excerpts/fxtillun.html" class="sml">"till"/"until"</a></li>
+        <li><a href="./excerpts/fxtipxxx.html" class="sml">"tip"</a></li>
+        <li><a href="./excerpts/fxtitsli.html" class="sml">"titsling"/"brassiere"</a></li>
+        <li><a href="./excerpts/fxtrollx.html" class="sml">"troll"</a></li>
+        <li><a href="./excerpts/fxtypoxx.html" class="sml">"typo"</a></li>
+        <li><a href="./excerpts/fxwiccax.html" class="sml">"Wicca"</a></li>
+        <li><a href="./excerpts/fxwidget.html" class="sml">"widget"</a></li>
+        <li><a href="./excerpts/fxwogxxx.html" class="sml">"wog"</a></li>
+        <li><a href="./excerpts/fxwonkxx.html" class="sml">"wonk"</a></li>
+        <li><a href="./excerpts/fxwopxxx.html" class="sml">"wop"</a></li>
+        <li><a href="./excerpts/fxyethex.html" class="sml">"ye"="the"</a></li>
+       </ul>
+       <h4>phrase origins</h4>
+       <ul>
+        <li><a href="./excerpts/fxthebee.html" class="sml">"the bee's knees"</a></li>
+        <li><a href="./excerpts/fxbegthe.html" class="sml">"beg the question"</a></li>
+        <li><a href="./excerpts/fxbillio.html" class="sml">"billions and billions"</a></li>
+        <li><a href="./excerpts/fxbluemo.html" class="sml">"blue moon"</a></li>
+        <li><a href="./excerpts/fxbobsyo.html" class="sml">"Bob's your uncle"</a></li>
+        <li><a href="./excerpts/fxbreaka.html" class="sml">"break a leg"</a></li>
+        <li><a href="./excerpts/fxtocall.html" class="sml">"to call a spade a spade"</a></li>
+        <li><a href="./excerpts/fxcutthe.html" class="sml">"cut the mustard"</a></li>
+        <li><a href="./excerpts/fxcuttot.html" class="sml">"cut to the chase"</a></li>
+        <li><a href="./excerpts/fxthedie.html" class="sml">"The die is cast"</a></li>
+        <li><a href="./excerpts/fxdresse.html" class="sml">"dressed to the nines"</a></li>
+        <li><a href="./excerpts/fxelemen.html" class="sml">"Elementary, my dear Watson!"</a></li>
+        <li><a href="./excerpts/fxenquir.html" class="sml">"Enquiring minds want to know"</a></li>
+        <li><a href="./excerpts/fxtheexc.html" class="sml">"The exception proves the rule"</a></li>
+        <li><a href="./excerpts/fxfaceth.html" class="sml">"face the music"</a></li>
+        <li><a href="./excerpts/fxfallof.html" class="sml">"fall off a turnip truck"</a></li>
+        <li><a href="./excerpts/fxfullmo.html" class="sml">"full monty"</a></li>
+        <li><a href="./excerpts/fxgetthe.html" class="sml">"Get the lead out"</a></li>
+        <li><a href="./excerpts/fxgofigu.html" class="sml">"Go figure"</a></li>
+        <li><a href="./excerpts/fxgoplac.html" class="sml">"Go placidly amid the noise and the haste" (Desiderata)</a></li>
+        <li><a href="./excerpts/fxgotohe.html" class="sml">"go to hell in a handbasket"</a></li>
+        <li><a href="./excerpts/fxhellfo.html" class="sml">"hell for leather"</a></li>
+        <li><a href="./excerpts/fxhoistw.html" class="sml">"hoist with his own petard"</a></li>
+        <li><a href="./excerpts/fxbyhook.html" class="sml">"by hook or by crook"</a></li>
+        <li><a href="./excerpts/fxillegi.html" class="sml">"Illegitimis non carborundum"</a></li>
+        <li><a href="./excerpts/fxinlike.html" class="sml">"in like Flynn"</a></li>
+        <li><a href="./excerpts/fxjingle.html" class="sml">"Jingle Bells"</a></li>
+        <li><a href="./excerpts/fxletthe.html" class="sml">"Let them eat cake"</a></li>
+        <li><a href="./excerpts/fxmindyo.html" class="sml">"mind your p's and q's"</a></li>
+        <li><a href="./excerpts/fxmoreho.html" class="sml">"more honoured in the breach than the observance"</a></li>
+        <li><a href="./excerpts/fxmoreth.html" class="sml">"more than you can shake a stick at"</a></li>
+        <li><a href="./excerpts/fxollieo.html" class="sml">"ollie ollie oxen free"</a></li>
+        <li><a href="./excerpts/fxpetero.html" class="sml">"peter out"</a></li>
+        <li><a href="./excerpts/fxpoliti.html" class="sml">"politically correct"</a></li>
+        <li><a href="./excerpts/fxpushth.html" class="sml">"push the envelope"</a></li>
+        <li><a href="./excerpts/fxputino.html" class="sml">"put in one's two cents' worth"</a></li>
+        <li><a href="./excerpts/fxruleof.html" class="sml">"rule of thumb"</a></li>
+        <li><a href="./excerpts/fxshouti.html" class="sml">"shouting fire in a crowded theater"</a></li>
+        <li><a href="./excerpts/fxsonofa.html" class="sml">"son of a gun"</a></li>
+        <li><a href="./excerpts/fxspitan.html" class="sml">"spitting image"/"spit and image"</a></li>
+        <li><a href="./excerpts/fxtheres.html" class="sml">"There's a sucker born every minute"</a></li>
+        <li><a href="./excerpts/fxtoalli.html" class="sml">"to all intents and purposes"</a></li>
+        <li><a href="./excerpts/fxwaitfo.html" class="sml">"wait for the other shoe to drop"</a></li>
+        <li><a href="./excerpts/fxwheref.html" class="sml">"Wherefore art thou Romeo?"</a></li>
+        <li><a href="./excerpts/fxwholec.html" class="sml">"whole cloth"</a></li>
+        <li><a href="./excerpts/fxthewho.html" class="sml">"the whole nine yards"</a></li>
+        <li><a href="./excerpts/fxyouhav.html" class="sml">"You have another think coming"</a></li>
+       </ul>
+       <h4>words frequently sought</h4>
+       <ul>
+        <li><a href="./excerpts/fxwordse.html" class="sml">words ending in "-gry"</a></li>
+        <li><a href="./excerpts/fxword00.html" class="sml">words without vowels</a></li>
+        <li><a href="./excerpts/fxwhatis.html" class="sml">list of language terms</a></li>
+        <li><a href="./excerpts/fxiwontm.html" class="sml">"I won't mention..."</a></li>
+        <li><a href="./excerpts/fxnameso.html" class="sml">names of "&", "@", and "#"</a></li>
+        <li><a href="./excerpts/fxthequi.html" class="sml">"The quick brown fox jumps over the lazy dog."</a></li>
+        <li><a href="./excerpts/fxtaketh.html" class="sml">"Take the prisoner downstairs", said Tom condescendingly.</a></li>
+        <li><a href="./excerpts/fxwhat00.html" class="sml">What is the opposite of "to exceed"?</a></li>
+        <li><a href="./excerpts/fxwhat01.html" class="sml">What is the opposite of "distaff side"?</a></li>
+        <li><a href="./excerpts/fxwhatdo.html" class="sml">grass strip between road and sidewalk</a></li>
+       </ul>
+       <h4>miscellany</h4>
+       <ul>
+        <li><a href="./excerpts/fxwhat02.html" class="sml">What is a suggested format for citing online sources?</a></li>
+        <li><a href="./excerpts/fxdoesth.html" class="sml">Does the next millennium begin in 2000 or 2001?</a></li>
+        <li><a href="./excerpts/fxwhatwi.html" class="sml">What will we call the next decade?</a></li>
+        <li><a href="./excerpts/fxfumble.html" class="sml">Fumblerules ("Don't use no double negatives", etc.)</a></li>
+        <li><a href="./excerpts/fxenglis.html" class="sml">English is Tough Stuff</a></li>
+        <li><a href="./excerpts/fxwhat03.html" class="sml">What is the phone number of the Grammar Hotline?</a></li>
+        <li><a href="./excerpts/fxdopubl.html" class="sml">deliberate mistakes in dictionaries</a></li>
+        <li><a href="./excerpts/fxhowrel.html" class="sml">How reliable are dictionaries?</a></li>
+        <li><a href="./excerpts/fxetymol.html" class="sml">etymologies of personal names</a></li>
+        <li><a href="./excerpts/fxhowdid.html" class="sml">How did "Truly" become a personal name?</a></li>
+        <li><a href="./excerpts/fxtradem.html" class="sml">trademarks</a></li>
+        <li><a href="./excerpts/fxcommon.html" class="sml">commonest words</a></li>
+        <li><a href="./excerpts/fxwhydow.html" class="sml">Why do we say "30 years old" but "a 30-year-old man"?</a></li>
+        <li><a href="./excerpts/fxwhatwo.html" class="sml">What words are their own antonym?</a></li>
+        <li><a href="./excerpts/fxsenten.html" class="sml">sentences grammatical in both Old English and Modern English</a></li>
+        <li><a href="./excerpts/fxradioa.html" class="sml">radio alphabets</a></li>
+        <li><a href="./excerpts/fxdistri.html" class="sml">distribution of English-speakers</a></li>
+        <li><a href="./excerpts/fxproven.html" class="sml">provenance of English vocabulary</a></li>
+        <li><a href="./excerpts/fxbill00.html" class="sml">"billion":  a U.K. view</a></li>
+        <li><a href="./excerpts/fxbiblic.html" class="sml">Biblical sense of "to know"</a></li>
+        <li><a href="./excerpts/fxpostfi.html" class="sml">postfix "not"</a></li>
+        <li><a href="./excerpts/fxorigin.html" class="sml">origin of the dollar sign</a></li>
+       </ul>
+       <h4>spelling</h4>
+       <ul>
+        <li><a href="./excerpts/fxspelli.html" class="sml">spelling reform</a></li>
+        <li><a href="./excerpts/fxjokeab.html" class="sml">joke about step-by-step spelling reform</a></li>
+        <li><a href="./excerpts/fxwhat04.html" class="sml">What is "ghoti"?</a></li>
+        <li><a href="./excerpts/fxibefor.html" class="sml">I before E except after C</a></li>
+        <li><a href="./excerpts/fxhowdoy.html" class="sml">How do you spell "e-mail"?</a></li>
+        <li><a href="./excerpts/fxwhyisi.html" class="sml">Why is "I" capitalized?</a></li>
+        <li><a href="./excerpts/fxdiacri.html" class="sml">diacritics</a></li>
+        <li><a href="./excerpts/fxervsre.html" class="sml">"-er" vs "-re"</a></li>
+        <li><a href="./excerpts/fxizevsi.html" class="sml">"-ize" vs "-ise"</a></li>
+        <li><a href="./excerpts/fxdoubli.html" class="sml">doubling of final consonants before suffixes</a></li>
+        <li><a href="./excerpts/fxwheret.html" class="sml">possessive apostrophes</a>  </li>
+       </ul>
+      </DIV>
+       <hr>
+       <h2 align="left"><a name="notes"></a>The fast-access FAQ</h2>
+       <p>This fast-access  FAQ was created from  Mark Israel's AUE 
+  FAQ (September 1997) by Bob Cunningham.</p>
+       <p>Some excerpts  contain updates (mainly to URLs) added by Bob Cunningham and Mike Barnes. Updates are bracketed, indented, italicised, and coloured:</p>
+       <table border="1" cellspacing="0" cellpadding="5" align="center">
+        <tr>
+         <td>
+          <pre>Mark's words look like this.
+<span class="ed">
+     <i>[Words that aren't Mark's look like this.]</i></span>
+
+[...]
+<span class="ed">
+     <i>[Bracketed dots replace URLs that are known
+     to be no longer valid.]</i></span>
+</pre>   </td>
+        </tr>
+       </table>
+       <!-- #EndEditable -->
+						</div>
+     </td>
+    </tr>
+   </table>
+   <!-- #BeginEditable "Contents (special)" -->
+   <!-- #EndEditable -->
+   <p>&nbsp;</p>
+   <table width="100%" class="footbar">
+    <tr>
+     <td width="100%" align="center" class="footbar">
+			<table align=center>
+				<tr>
+					<td class="sl-link" nowrap><a href="/index.shtml">AUE home</a></td>
+					<td>&nbsp;</td>
+					<td class="sl-link" nowrap><a href="#top">Top of this page</a></td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<a name=bottom></a>
+</body>
+<!-- #EndTemplate --></html>

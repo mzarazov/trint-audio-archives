@@ -1,0 +1,15 @@
+.title              { font-weight: bold; font-size: 120%; color: #0000cc; font-family: 'Trebuchet MS', 'Comic Sans MS', 'Arial', 'Sans-Serif'}
+.author             { font-size: 70%; font-style: italic; border: black}
+.question           { background-color: #ffccff}
+.keyansexp          { background-color: #99ccff; color: black}
+.ansexp0            { background-color: #99ccff; color: #99ccff}
+.ansexp0 a:link     { background-color: #99ccff; color: #99ccff}
+.ansexp0 a:visited  { background-color: #99ccff; color: #99ccff}
+.ansexp0 a:hover    { background-color: #99ccff; color: #99ccff}
+.ansexp0 a:active   { background-color: #99ccff; color: #99ccff}
+.ansexp1            { background-color: #99ccff; color: #000000}
+.ansexp1 a:link     { background-color: #99ccff; color: #0000ff}
+.ansexp1 a:visited  { background-color: #99ccff; color: #800080}
+.ansexp1 a:hover    { background-color: #ffffff; color: #0000ff}
+.ansexp1 a:active   { background-color: #99ccff; color: #336633}
+.ae                 { color: black}

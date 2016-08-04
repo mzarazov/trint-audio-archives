@@ -1,0 +1,51 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thou, thee & archaic grammar  (A. Davies, R. Lipton, D. Richoux et al.)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"Thou", "thee", "thine"  and "thy" are pronouns that have dropped out of the 
+main dialects of Modern English.  During the period of Early Modern English 
+(~1470-1700), they formed the Second Person Singular of the language, and 
+were standardized by the time of the King James Bible as shown below.
+
+                                                               Present Tense
+                      Subjective   Objective    Possessive     Verb Ending
+                      ----------   ---------    ----------     -------------
+    1st Pers. Sing.   I            me           my/mine[1]     none
+    2nd Pers. Sing.   thou         thee         thy/thine[1]   -est
+    3rd Pers. Sing.   he/she/it    him/her/it   his/her/its    -eth
+    1st Pers. Plural  we           us           our            none
+    2nd Pers. Plural  ye/you[2]    you          your           none
+    3rd Pers. Plural  they         them         their          none
+
+    [1]: "Mine" and "thine" were used before "h" and vowels, much as "an"
+    was.
+    [2]: "You" had replaced "ye" for most plural uses by 1600.
+
+
+Here are the conjugations from that era of two common irregular verbs:
+
+
+    to be - Present tense         to have - Present tense
+    ---------------------         -----------------------
+    I am                          I have             
+    thou art                      thou hast
+    he/she/it is                  he/she/it hath
+    we are                        we have
+    ye are                        ye have
+    they are                      they have
+
+
+You may have been told that "thou" and "thee" were for familiar use, and
+"you" and "ye" were formal. This was not true originally, but it was
+true for about two centuries, roughly 1450-1650, including Shakespeare's
+time. The previously plural "you" was used in the singular to signify
+politeness and respect, which left "thou" and "thee" for all the other
+singular uses, ranging from endearing intimacy to bitter rudeness.
+Eventually, the politer "you" drove out nearly all uses of "thee" and
+"thou"; they survived mostly in poetry and religion.
+
+Several groups continue to use these pronouns today as part of their daily 
+speech (although with different grammar), including residents of Yorkshire, 
+Cumbria, the East Midlands, and some rural areas of Western England. Some 
+Quakers also used their Plain Speech with "thee" and "thy" until the middle 
+of the 20th century.
